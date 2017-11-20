@@ -1,0 +1,1400 @@
+CHE239622886	OK	2	Trade Center Schrepfer	1	Mühletal		8874	Mühlehorn
+CHE473452908	OK	2	SRS Jegerlehner	1	Kohlholz	4	3053	Diemerswil
+CHE101330765	OK	2	Baume et Cie	2	Rue de l'Industrie	12	2345	Les Breuleux
+CHE112947556	OK	2	Aebi Schmidt Holding AG	3	Zürcherstrasse	310	8500	Frauenfeld
+CHE245421273	OK	2	Aebi Schmidt International AG	3	Zürcherstrasse	310	8500	Frauenfeld
+CHE431401147	OK	2	Bouimarine Peinture-plâtrerie	1	Quai du Haut	60	2503	Biel/Bienne
+CHE468729234	OK	2	Belenos Clean Power Engineering AG	3	Seevorstadt	6	2502	Biel/Bienne
+CHE431979601	OK	2	e+l immobilien services ag	3	Thalgutstrasse	33	3114	Wichtrach
+CHE289578276	OK	2	Crinimax CLEMENT PEINTURE SA	3	Karrweg	8	1700	Fribourg
+CHE467343369	OK	1	Pascal David Deleplace	0101	Grand-Rue	14	1680	Romont FR
+CHE108671204	OK	2	Art GianMarco, Remo Giangreco	1	Route du Chasseral	14	1470	Estavayer-le-Lac
+CHE442183581	OK	2	M. Müller Parkett und Bodenbeläge 9524 Zuzwil	1	Hinterdorfstrasse	10	9524	Zuzwil
+CHE437628726	OK	1	Christoph Benedict Masing	0101	Alleestrasse	31	8590	Romanshorn
+CHE283714115	OK	1	Rytis Ziedas	0101	Surtuor	2	7503	Samedan
+CHE114734528	OK	2	NDV Ramic Transport	1	Lenzenhohlestrasse	2	3302	Moosseedorf
+CHE107367519	OK	2	LEGATO BELZ AG	3	Thunstrasse	78	3006	Bern
+CHE286957654	OK	1	Marco Filloramo	0101	Bözingenstrasse	129	2504	Biel/Bienne
+CHE104638946	OK	2	A. Räbsamen, Innenausbau	1	Sonnhalden	100	9607	Mosnang
+CHE185702447	OK	2	Reiner Sutter Technologies AG	3	Rue du Château	9	1616	Attalens
+CHE236033765	OK	1	Peter Hasler	0101	Fichtenhagstrasse	4	4132	Muttenz
+CHE113548934	OK	2	Dina GmbH in Liquidation	4	Murtenstrasse	9 a	2502	Biel/Bienne
+CHE103832374	OK	2	Ivano Laghetto	1	Staffeleggstrasse	26	5024	Küttigen
+CHE430926298	OK	2	Steiner Stéphane - soudure	1	Route de Fribourg	9	1784	Courtepin
+CHE234260445	OK	1	Claudia Ferrier-Guerra	0101	Via Soldino	7	6900	Lugano
+CHE215637526	OK	2	PRODI Cuisines Küchen SA	3	Zone industrielle		1955	Chamoson
+CHE175641034	OK	2	PRODI GROUP SA	3	Zone Industrielle		1955	Chamoson
+CHE138963143	OK	2	Zenklusen Baudienste	1	Landstrasse	2	6418	Rothenthurm
+CHE116076297	OK	1	Sébastien Jérôme Louis Perrin	0101	Rue du Scex	2	1950	Sion
+CHE357531561	OK	1	Robert Horst Küchler	0101	Fabrikstrasse	24	3012	Bern
+CHE105955941	OK	2	G. Neuenschwander Söhne AG	3			3672	Oberdiessbach
+CHE497913277	OK	2	Gabriel Giardini di De Almeida Gabriel José	1	Via Industria	16D	6963	Pregassona
+CHE235036241	OK	2	franco cicerone dipl. architekt FH	1	Dorfstrasse	65	7220	Schiers
+CHE294507193	OK	2	Helion Solar Bern AG	3	Stauffacherstrasse	17	3014	Bern
+CHE114628122	OK	2	Schlachter Torbau	1	Burgmattstrasse	12	5080	Laufenburg
+CHE216148690	OK	2	Morina Perfect Nettoyage	1	Rue du Prieuré	5	1260	Nyon
+CHE279711154	OK	2	TEK Gipser Maler GmbH in Liquidation	4	Hängelenstrasse	4	3122	Kehrsatz
+CHE397322383	OK	2	G. Rodrigues Gonçalves Leite	1	Chalet la Roseraie	9	1936	Verbier
+CHE423484912	OK	2	Metzgerei Schäuble AG in Liquidation	3	Thurtalstrasse	7	8450	Andelfingen
+CHE110269969	OK	2	Parfi Immobilier SA	3	Boulevard de Pérolles	26	1700	Fribourg
+CHE141698303	OK	2	Migrolino Mariétan Philippe	1	Route de Montagnier		1868	Collombey-Muraz
+CHE328582846	OK	2	Mika déménagements transports, titulaire Kovacevic	1	Route de Lausanne	50	1610	Oron-la-Ville
+CHE114301425	OK	2	Valais Care SA	3	Rue du Léman	18 B	1920	Martigny
+CHE305731822	OK	1	Christoph Röttger Sternberg	0101	Churerstrasse	43	8808	Pfäffikon SZ
+CHE114682475	OK	2	Millan Architecture	1	Route d'Essert	48	1724	Essert FR
+CHE116124051	OK	1	Hans Peter Iseli	0101	Hardturmstrasse	133	8005	Zürich
+CHE415155180	OK	1	Bettina Heine	0101	Hohmadstrasse	1	3600	Thun
+CHE104334558	OK	2	Christian Suter	1	Lotzwilstrasse	76	4900	Langenthal
+CHE328043696	OK	2	Fagus Gartenpflege F. Jeger	1	Hauptstrasse	104	4233	Meltingen
+CHE138840138	OK	1	Tamas Csakodi	0101	Route d'Yverdon	8	1040	Echallens
+CHE477985687	OK	2	BS Rénovation Sàrl	4	avenue du Collège	17	2017	Boudry
+CHE318178047	OK	1	Stephan Albert Vorburger	0101	Oberburgstrasse	54	3400	Burgdorf
+CHE377677268	NOK	1						
+CHE109942995	OK	2	Personalvorsorgestiftung der BearingPoint Switzerland AG	7	Pfingstweidstrasse	60	8005	Zürich
+CHE426007632	OK	2	A a Z Impieghi SA	9	Via Cantonale		6928	Manno
+CHE206222913	OK	2	HIS Engineering AG	9	Flurstrasse	32	8048	Zürich
+CHE102272001	OK	2	Emch + Berger AG Solothurn	3	Schöngrünstrasse	35	4500	Solothurn
+CHE107547174	OK	2	Emch + Berger AG Vermessungen	3	Schöngrünstrasse	35	4500	Solothurn
+CHE297015578	OK	2	Emch+Berger ImmoConsult AG, Zweigniederlassung Zürich	9	Birmensdorferstrasse	125	8003	Zürich
+CHE216133033	OK	1	Philipp Schmid	0101	Bahnhofstrasse	43	9470	Buchs SG
+CHE405652755	OK	1	Claas Horst Hüttenrauch	0101	Rorschacher Strasse	150	9016	St. Gallen
+CHE293899884	OK	2	Grimm Kanalreinigung	1	Zielackerstrasse	18	8603	Schwerzenbach
+CHE313284280	OK	2	Au Beau Jardin - Marzo	1	rue de Corcelles	9	2034	Peseux
+CHE110197933	OK	2	Stiftung Schweizerische Akademie für Chiropraktik	7	Sulgenauweg	38	3007	Bern
+CHE378274803	OK	2	Reinigung & Hauswartung Service Magda Bless	1	Plangs	1298	8896	Flumserberg
+CHE241284184	OK	2	Zurbrügg Chrigels Werkstatt	1	BKW-Strasse	94	3716	Kandergrund
+CHE495795736	OK	1	Oracle Software (Schweiz) AG	0106	Täfernstrasse	4	5405	Dättwil AG
+CHE133482764	OK	2	Career Consulting Studer	1	St. Niklausstrasse	1	4501	Solothurn
+CHE318370018	OK	2	Tobias Sonderegger Ofenbau/Plattenbeläge	1	St. Antonstrasse	37	9413	Oberegg
+CHE114863663	OK	2	TAXI MIGUEZ	1	Chemin des Plantaz	11 B	1260	Nyon
+CHE409550616	OK	2	Malergeschäft Furini & Niederhauser	2	Weinmanngasse	26	8700	Küsnacht ZH
+CHE343750039	OK	2	Sivex GmbH	4	Aaweiherstrasse	3	8810	Horgen
+CHE267650994	OK	2	D. Hodel Elektro AG, Zweigniederlassung Zizers	9	Rosgarten	16	7205	Zizers
+CHE191804694	NOK	1						
+CHE113449249	OK	2	Reto Seeholzer	1	Feldstrasse	29	8816	Hirzel
+CHE217777049	OK	2	EcoGas GmbH in Liquidation	4				ohne Domizil-sans domicile-senza indirizzo
+CHE110478059	OK	2	ASSOCIATION MEDICALE DU CENTRE THERMAL D'YVERDON-LES-BAINS	6	Avenue des Bains	22	1400	Yverdon-les-Bains
+CHE114458340	OK	1	Claudia Bettina Rümmelein	0101	Grütstrasse	55	8802	Kilchberg ZH
+CHE427186922	OK	1	Visana Services AG		Weltpoststrasse	19	3015	Bern
+CHE298224280	NOK	1						
+CHE107064289	OK	2	Kaufmann Gut zu Fuss	1	Löwenstrasse	8	9400	Rorschach
+CHE265737271	OK	1	Stefan Armance	0101	Corneliastrasse	6	8965	Berikon
+CHE463914304	OK	2	Bachgarage Ismailaki Mustafi	1	Hauptstrasse	75	8362	Balterswil
+CHE323921935	OK	2	Langel Shop	1	chemin du Nord	3	2608	Courtelary
+CHE101107799	OK	2	McDonald's Suisse Development Sàrl	4	Rue de Morges	23	1023	Crissier
+CHE101236480	OK	2	Zurich Insurance Group AG	3	Mythenquai	2	8002	Zürich
+CHE411100300	OK	2	Brennstoffe Liniger	1	Postgässli	4	3273	Kappelen
+CHE101498175	OK	2	FARMACIA Dr. Claudio Migliore	1	Via Canova	16	6900	Lugano
+CHE266975287	NOK	1						
+CHE114979372	OK	2	Restaurant Bowling Baregg GmbH	4	Zelgweg	11	5405	Dättwil AG
+CHE133829885	NOK	1						
+CHE112483410	OK	2	Infosys Consulting Holding AG	3	Obstgartenstrasse	27	8302	Kloten
+CHE486149023	OK	2	Oesch Handwerk & Reparaturen	1	Zur Säge	16	8606	Greifensee
+CHE108166923	OK	2	Curabill AG	3	Hardturmstrasse	3	8005	Zürich
+CHE114819828	OK	2	Der-Drucker.Shop Winterthur Sandra Häberling	1	Wartstrasse	20	8400	Winterthur
+CHE116407299	OK	1	Claudia Schneider	0101	Usterstrasse	2	8620	Wetzikon ZH
+CHE286817757	OK	2	Frick Ofenbau + Maurerarbeiten	1	Läui	7	9466	Sennwald
+CHE108798678	OK	2	Carrosserie Schnyder	1	Feithierenstrasse	248	3952	Susten
+CHE107367488	OK	2	Nexus Engineering & Trading SA	3	Via San Giorgio	1	6976	Castagnola
+CHE192783267	OK	1	Richard Gambirasio	0101	Chemin des Grangettes	7	1224	Chêne-Bougeries
+CHE290154457	OK	1	Thomas Erpen	0101	Kantonsstrasse	14	3930	Visp
+CHE106100333	OK	2	Visilab Renens S.A.	3	Rue de la Mèbre	9	1020	Renens VD
+CHE109377919	OK	2	Visilab Romanel SA	3	Marché Romanel		1032	Romanel-s-Lausanne
+CHE110208181	OK	2	Visilab Aigle SA	3	Chemin Sous-le-Grand Pré	4	1860	Aigle
+CHE104837115	OK	2	VISILAB FRIBOURG SA	3	Boulevard de Pérolles	21	1700	Fribourg
+CHE108283351	OK	2	Visilab Villars-sur-Glâne SA	3	Route de Moncor	1	1752	Villars-sur-Glâne
+CHE106516165	OK	2	Visilab La Chaux-de-Fonds S.A.	3	boulevard des Eplatures	20	2300	La Chaux-de-Fonds
+CHE107360003	OK	2	Visilab Métropole S.A.	3	Rue des Terreaux	25	1003	Lausanne
+CHE108480816	OK	2	Visilab Montagny-près-Yverdon S.A.	3	Expo Centre Migros		1442	Montagny-Yverdon
+CHE107641962	OK	2	Visilab Monthey SA	3	Avenue de l'Europe		1870	Monthey
+CHE105387600	OK	2	Visilab Montreux SA	3	Place du Marché	6	1820	Montreux
+CHE105022340	OK	2	Visilab Morges SA	3	Grand-Rue	68	1110	Morges
+CHE108283285	OK	2	Visilab Neuchâtel SA	3	rue de l'Hôpital	4	2000	Neuchâtel
+CHE108481997	OK	2	Visilab Pully S.A.	3	Place Neuve	1	1009	Pully
+CHE451091943	OK	2	Carrosserie Pulvermüller	1	Weisslingerstrasse	16	8308	Illnau
+CHE115557513	OK	2	N. Saab Autohandel	1	Grabenstrasse	1	8182	Hochfelden
+CHE156926453	OK	2	Knecht Schreinerei	1	Weiherhofstrasse	8a	9552	Bronschhofen
+CHE115700383	OK	1	Stefan Bützberger	0101	Badstrasse	55	5116	Schinznach Bad
+CHE116119676	OK	1	Patrick Perrenoud	0101	Mühlemattstrasse	50	5000	Aarau
+CHE148805936	OK	1	Michael Renfer	0101	Allmendstrasse	1	3600	Thun
+CHE258464808	OK	1	Rolf Eisenegger	0101	Loestrasse	170	7000	Chur
+CHE375346240	OK	2	Tierarztpraxis Kemper	1	Zugerstrasse	14	8918	Unterlunkhofen
+CHE113551089	OK	2	Roth AG Malters	3	Werkstrasse	1	6102	Malters
+CHE114162690	OK	2	Roth AG Rümlang 	3	Hofwisenstrasse	50a	8153	Rümlang
+CHE106163842	OK	2	Roth AG Lausen	3	Industriestrasse	12	4415	Lausen
+CHE108142199	OK	2	Max Jung Rehatechnik + Immobilien	1	Eisenbahnstrasse	62	3645	Gwatt (Thun)
+CHE108447718	OK	2	KIBAG Beton, Seewen AG	3	im Acherli		6423	Seewen SZ
+CHE486158163	OK	2	MKL Swiss GmbH	4	Gärbisstrasse	23	9475	Sevelen
+CHE451854871	OK	2	BRH MULTIMEDIA SARL	4	Route de Suisse	8 A	1163	Etoy
+CHE495424352	OK	1	Jannigje Eline Myriam Matthey-Kröger	0101	Turmstrasse	16	8330	Pfäffikon ZH
+CHE261592708	OK	2	NV Reinigungsdienst Vrevic	1	Rebenweg	4	2542	Pieterlen
+CHE106083031	OK	2	Revital SA	3	Chemin sous Bois	5	1452	Les Rasses
+CHE199287816	OK	2	hilgenstock naturgärten	1	Büelstrasse	6	9244	Niederuzwil
+CHE497868990	OK	1	Djordje Petrovic	0101	Landweg	3	6052	Hergiswil NW
+CHE112004347	OK	2	Lucys Reinigungs Service L. Guggenbühl	1	Wallisellenstrasse	301 a	8050	Zürich
+CHE106083195	OK	2	CSS Versicherung AG	3	Tribschenstrasse	21	6005	Luzern
+CHE115693783	OK	2	Torri Spenglerei - Bedachungen	1	Gewerbezone Zups		7440	Andeer
+CHE105745786	OK	2	Raiffeisenbank Appenzeller Hinterland Genossenschaft	5	Platz	7	9100	Herisau
+CHE113740733	OK	2	Ammann Rechtsanwälte AG	3	Löwenplatz	5	3303	Jegenstorf
+CHE491167446	NOK	1						
+CHE170222084	OK	1	Samuel Crivelli	0101	St. Gallerstrasse	109	9200	Gossau SG
+CHE132238730	OK	2	Ramsauer Steuerungstechnik	1	Im Tobel	5	8340	Hinwil
+CHE114556178	OK	2	POP Taxi-Limousine	1	Rue du Môle	2	1201	Genève
+CHE470515435	OK	1	Arztpraxis Dr. Menath	0101	Hofackerstrasse	9	3983	Mörel
+CHE340349812	OK	2	RUAG Environment AG	3	Industriezone Schächenwald		6460	Altdorf UR
+CHE374924298	OK	2	RUAG Automotive AG	3	Industriezone Schächenwald		6460	Altdorf UR
+CHE108213801	OK	2	Association pour le Centre de Bilan Genève	6	Boulevard du Pont-d'Arve	28	1205	Genève
+CHE263910647	OK	2	Schauff Projektmanagement	1	Bachstrasse	65	5462	Siglistorf
+CHE246942043	OK	2	Laser - Service Demont	1	Müligass	19	5073	Gipf-Oberfrick
+CHE230171920	OK	2	Schenker Böden	1	Kaltstrasse	1	4654	Lostorf
+CHE110192367	OK	2	Personalvorsorgestiftung der Ausgleichskasse Arbeitgeber Basel	7	Viaduktstrasse	42	4002	Basel
+CHE441831414	NOK	1						
+CHE327563645	OK	2	Induserv (Schlieren ZH) AG	3	Zürcherstrasse	18	8952	Schlieren
+CHE383247137	OK	2	Auto-transport Al Hakim Ali	1	rue du Pain-Blanc	32	2000	Neuchâtel
+CHE476603084	OK	2	PlanSupport - Marcel Ruch, Architekt FH	1	Aemtlerstrasse	32	8003	Zürich
+CHE448930419	OK	1	Thomas Heinrich Fluri	0101	Alpenstrasse	10	2540	Grenchen
+CHE252005425	OK	2	Farmacia Chimica Internazionale SA in liquidazione	3	Via Soldino	32	6900	Lugano
+CHE197792262	OK	2	Unternährer Tore & Technik GmbH	4	Neuhüsern	269	6032	Emmen
+CHE165409240	OK	2	Mäder Bauphysik Ingenieurbüro für Bauphysik+Akustik	1	Else-Züblin-Strasse	91	8404	Winterthur
+CHE495094384	OK	2	Rigert Keramik - Naturstein	1	Langweg	22	4900	Langenthal
+CHE109433883	OK	1	Jürg Zahner	0101	Kampstrasse	6	8952	Schlieren
+CHE402017002	OK	2	Fatjani CNC Produktionsmechanik	1	Föhrenweg	8	2544	Bettlach
+CHE105278827	OK	2	Strässler Präzisionsmechanik	1	Höhewäg	3	8197	Rafz
+CHE348160371	NOK	1						
+CHE169989078	OK	2	Riediker Haustechnik Heizung und Kältemontagen	1	Bachstrasse	13	8427	Rorbas
+CHE109767083	OK	2	Personalfürsorgestiftung der Stiftung Columban Urnäsch in Liquidation	7				
+CHE103107646	OK	2	Union des Associations Européennes de Football (UEFA)	6	Route de Genève	46	1260	Nyon
+CHE114945858	OK	1	Arge Spundwand Wabe	0302	Frutigenstrasse	37	3600	Thun
+CHE146935433	OK	1	Ergotherapie Pfannenstiel	0101	Lörracherstr.	102	4125	Riehen
+CHE106919184	OK	2	Sika AG	3	Zugerstrasse	50	6340	Baar
+CHE214082169	OK	2	Autohilfe Heggli Schaffhausen, Inhaber Bruno Longhi	1	Ebnatweg	8	8200	Schaffhausen
+CHE210850952	OK	2	Claude Rérat MDS Reinigungen	1	Saumstrasse	22	8003	Zürich
+CHE106902798	OK	2	Garage Karli	1	Waldheim	1	6372	Ennetmoos
+CHE138630227	NOK	1						
+CHE165409240	OK	2	Mäder Bauphysik Ingenieurbüro für Bauphysik+Akustik	1	Else-Züblin-Strasse	91	8404	Winterthur
+CHE423675033	NOK	1						
+CHE478784068	OK	1	Urs Sascha Sieber	0101	Dorfstrasse	25a	3324	Hindelbank
+CHE318211779	OK	2	Valentini's Weltweine	1	Parkpromenade	1	6032	Emmen
+CHE250446238	NOK	1						
+CHE436119965	NOK	1						
+CHE410185966	OK	2	Häusler spezial cleaning & services	1	Etzelweg	3	8604	Volketswil
+CHE335259103	NOK	1						
+CHE111975863	NOK	1						
+CHE103648698	OK	2	Fiduciaria Antonini SA	3	Viale Cattaneo	1	6900	Lugano
+CHE357125497	OK	2	Bauwelt Strohmeier + Partner GmbH in Liquidation	4	Herbergstrasse	16	9524	Zuzwil
+CHE106120407	OK	2	Garage Rolf Eigensatz	1	Fabrikstrasse	17	8102	Oberengstringen
+CHE109595379	OK	2	LEUENBERGER CONSULTING	1	Türliacherweg	1	3629	Jaberg
+CHE339463068	OK	2	F. Berner-Iberg AG Bauunternehmung	3	Schützenstrasse	14	5102	Rupperswil
+CHE339463068	OK	2	F. Berner-Iberg AG Bauunternehmung	3	Schützenstrasse	14	5102	Rupperswil
+CHE205449727	OK	2	Fahrhof 11 J.C. Vogel	1	Fahrhof	11	8525	Niederneunforn
+CHE403088832	OK	1	Claude Alexander Rast	0101	Gerbergasse	1	6004	Luzern
+CHE426242529	OK	2	BÜTIKOFER FIRE	1	Dorf	38	3083	Trimstein
+CHE107427908	OK	2	Advisa Treuhand Renate Gujan Niederer	1	Oberalpstrasse	29	7000	Chur
+CHE348625217	OK	2	Car Design Swiss, Vingadas Cardoso Patrick	1	Route de Merdesson	3	1955	St-Pierre-de-Clages
+CHE106824796	OK	2	Stiftung Rüttihubelbad	7			3512	Walkringen
+CHE115938306	OK	2	R.B. Sulejmani	1	Meinrad-Lienert-Strasse	10	8003	Zürich
+CHE375045241	OK	2	Paul Gemmet, Alain Charrière successeur	1	Chemin du Vernay	74	1196	Gland
+CHE153943509	NOK	1						
+CHE337112480	OK	2	Akzent Gartengestaltung, Lukas Wertli	1	Belchenring	51	4123	Allschwil
+CHE301868899	OK	2	DANIS Bike + Adventure Inhaber D. Joder	1	Marktplatz	14	3250	Lyss
+CHE102441189	OK	2	Emch + Berger AG Zofingen	3	Untere Brühlstrasse	1	4800	Zofingen
+CHE283989818	OK	1	99 - Ausgleichskasse PROMEA		Ifangstrasse	8	8952	Schlieren
+CHE323440251	OK	1	Irmgard Pult	0101	Gottstattstrasse	24	2504	Biel/Bienne
+CHE401068971	NOK	1						
+CHE114633442	OK	2	SDE Research GmbH	4	Kunimattweg	10	4133	Pratteln
+CHE107251934	OK	2	Salgescher Weinkeller Mathier & Bachmann AG	3	Hohenrainstrasse	57	6280	Hochdorf
+CHE171878436	OK	1	Mariya Kunta	0101	Via Cantonale	11	6575	S. Nazzaro
+CHE417120494	OK	2	P&D Autokosmetik Keculovski	1	Allmeindlistrasse	18	8864	Reichenburg
+CHE493371791	OK	2	atokalpa, succursale de Alle de SFF Composants Horlogers S.A.	9	Route de Miécourt	12	2942	Alle
+CHE171373254	OK	2	CMC Gipsergeschäft GmbH in Liquidation	4				ohne Domizil-sans adresse-senza recapito
+CHE107806766	NOK	1						
+CHE113380959	OK	2	Burri Company AG	3	Neustrasse	55	4623	Neuendorf
+CHE138570878	OK	2	Arbeitsgemeinschaft El Rafa	6	Allmerüti	31C	3624	Schwendibach
+CHE157472070	OK	2	Berthoud Carreisen	1	Moosgasse	14	2542	Pieterlen
+CHE239321918	NOK	1						
+CHE283291310	OK	2	MEISTER BAU Umbau und Renovationen AG	3	Ottenbergstrasse	13	8049	Zürich
+CHE407037503	OK	2	Bögli Transports	1	Champs-Forts	11	2740	Moutier
+CHE427535773	OK	2	back in motion, Physiotherapeutisches Institut, Inhaber Jan Witt	1	Hinterdorfstrasse	5	6430	Schwyz
+CHE220638313	OK	2	SV Easy Plan GmbH; Zweigniederlassung Schaffhausen	9	Gemsgasse	11	8200	Schaffhausen
+CHE104031299	OK	2	BHG Baugenossenschaft Haus und Grund in Liquidation	5	Albisstrasse	28	8038	Zürich
+CHE188877161	OK	2	ICP Intervention de crise et prévention - Carol Gachet Negro	1	Route d'Arnier	16	1092	Belmont-Lausanne
+CHE402099224	OK	1	Isabella Maria Joss-Vassalli	0101	Rue du Liseron	3	1006	Lausanne
+CHE400754271	NOK	1						
+CHE314102766	OK	2	Garage Dubach	1	Hofacker	16c	3632	Oberstocken
+CHE107878174	OK	2	TVD Management AG	3	Bierigutstrasse	8 A	3608	Thun
+CHE141974727	OK	1	Raphaële, Valentine Neuhaus	0101	Avenue de Beau-Séjour	6	1206	Genève
+CHE396393481	OK	2	MARSANIC UNTERNEHMUNG FÜR INNOVATION	1	Krönleinstrasse	55	8044	Zürich
+CHE281893308	OK	2	BELADO GmbH in Liquidation	4	Frauenfelderstrasse	100	9548	Matzingen
+CHE433010792	OK	2	Metall Tech Huwiler	1	Hochschwerzelen	10	6037	Root
+CHE404241148	OK	2	HATEBUR Swiss Precision AG	3	Wildischachen	1639	5200	Brugg AG
+CHE112315592	OK	2	Saad Automobiles	1	Rue du Midi	32	1800	Vevey
+CHE363441995	OK	1	Thomas Palan	0101	Poststrasse	20	9630	Wattwil
+CHE100366269	OK	2	SYM-LIE AG	3	Grünaustrasse	25	9470	Buchs
+CHE499791045	OK	2	Leemann Schweisswerkstatt, Inhaber Christian Riedlinger	1	Winterthurerstrasse		8247	Flurlingen
+CHE282780902	OK	1	Maria Margarete Willeke	0101	Bahnhofplatz	76	8500	Frauenfeld
+CHE166183512	OK	2	Swiss-Ben, Inh. Miroci	1	Lindenhof	7	8604	Volketswil
+CHE381547982	OK	2	HKG Engineering Romandie SA	3	Chemin de Montelly	78	1007	Lausanne
+CHE489648512	OK	2	swissjob service AG	9	Vordergasse	34	8200	Schaffhausen
+CHE449132805	OK	2	Dingetschweiler Gartenträume	1	Stallikonerstrasse	45	8903	Birmensdorf ZH
+CHE109748513	OK	2	R.Mächler Malergeschäft	1	Badstrasse	8	8953	Dietikon
+CHE300432341	OK	2	AK Sonnenschutzfolien K. Aegerter	1	Moosstrasse	5	8925	Ebertswil
+CHE114449625	OK	2	SADDLE IMPLANT TECHNOLOGIES LIMITED, Wickford, succursale de Genève	11	Avenue Blanc	53	1202	Genève
+CHE108333405	NOK	1						
+CHE288691183	OK	1	Dorothea Maria Menath	0101	Hofackerstrasse	9	3983	Mörel
+CHE339561268	OK	1	Christian Kast	0101	Neuhausweg	7	8810	Horgen
+CHE113254846	OK	2	Paolo Matacchione GmbH in Liquidation	4	Riethof	10	8604	Volketswil
+CHE438189178	NOK	1						
+CHE115924592	OK	2	Da Silva Carvalho, Gipser- und Malergeschäft	1	Gheidstrasse	4 a	5507	Mellingen
+CHE419615401	NOK	1						
+CHE107408963	OK	2	Bereuter Liegenschaften AG	3	Thurgauerstrasse	8	9401	Rorschach
+CHE114448695	OK	2	Limousine Partners, Boudhina & Cie	2	Avenue de Crozet	60	1219	Châtelaine
+CHE187448277	OK	1	Robert Zink	0101	Blumenrain	105	2503	Biel/Bienne
+CHE104024112	OK	2	Sangiorgio Ivano	1	Via alle Zocche		6874	Castel San Pietro
+CHE421430176	OK	2	Ammeter & Biderbost AG	3	Dorfstrasse	21	3989	Grafschaft
+CHE114412585	OK	2	Feuerwerk & Pyrotechnik Renate Keller	1	Schöntalstrasse	19	8486	Rikon im Tösstal
+CHE415494392	OK	2	Thomas Ebler, Consulting Engineering	1	Bodenackerstrasse	6B	4334	Sisseln
+CHE241571399	OK	1	Christian D. Mnich	0101	Bankstrasse	4	8400	Winterthur
+CHE283807343	OK	2	gadient - dach.ch	1	Rällikerstrasse	21	8617	Mönchaltorf
+CHE253200768	OK	2	Gogi Keramik Inhaber Ramadani	1	Seestrasse	72d	9320	Arbon
+CHE286772511	OK	2	Annen Gartenbau	1	Leebernstrasse	15	5646	Abtwil AG
+CHE245438842	OK	2	IDEALP SA	3	Route des Peupliers	23	1964	Conthey
+CHE485983779	OK	2	ELAN Reinigungsdienst R. Kübli	1	Ostermundigenstrasse	81	3006	Bern
+CHE206649217	OK	2	Wyss Electro-Support	1	Rheinhofstrasse	8	8887	Mels
+CHE294131550	OK	2	Plavsic, Handels- und Transportunternehmen	1	Steigstrasse	23	8406	Winterthur
+CHE113916682	OK	2	Métalcad, Romain Genolet	1	Rue Margencel	17	1860	Aigle
+CHE112954303	OK	2	senesuisse Verband privater Alters- und Pflegeeinrichtungen Schweiz	6	Postgasse	17	3011	Bern
+CHE115620436	OK	1	Gérald Keusch	0101	Stockerstrasse	48	8002	Zürich
+CHE111975863	NOK	1						
+CHE139253920	OK	2	Epiroc MEYCO AG	3	Langdorfstrasse	26	8501	Frauenfeld
+CHE114651925	OK	1	Daniela Hotz	0101	Irchelstrasse	8	8180	Bülach
+CHE224046790	OK	2	mercifair GmbH	4	Im Wasenboden	8	4056	Basel
+CHE364834073	OK	2	Wadifi Said	1	route de Chêne	50	1208	Genève
+CHE236939938	OK	2	Baselland & Basler Woche AG	9	Gartenstr.	120	4052	Basel
+CHE108667734	OK	2	Emch + Berger AG Zürich	3	Eggbühlstrasse	14	8050	Zürich
+CHE237246660	OK	1	Karin Allenbach	0101	Hauptstrasse	220	3714	Wengi b. Frutigen
+CHE110399632	OK	2	Ernst Schweizer-Stiftung	7	Bahnhofplatz	11	8908	Hedingen
+CHE400916562	OK	1	Heidrun Stauder	0101	Güttingerstrasse	47	8595	Altnau
+CHE109621002	OK	2	Schreinerei König AG	3	Sägeweg	15	3073	Gümligen
+CHE264789383	OK	2	Joye Sanitaire	1	Route de la Pâle	4	1026	Denges
+CHE428717578	OK	2	Nettoyages Speed S.à r.l.	9	Route de Prilly	21	1023	Crissier
+CHE276904627	OK	2	Malergeschäft Camenzind	1	Feldstrasse	14	6330	Cham
+CHE385968153	OK	1	Flavio Alessandro Brunner	0101	Seidenhofstrasse	10	6003	Luzern
+CHE227454903	OK	2	Induserv Industrial Management Ltd	3	Claragraben	132a	4057	Basel
+CHE326861229	OK	1	Claudia Heintze-Windisch	0101	Spitalstrasse	4	7130	Ilanz
+CHE462423512	OK	1	Jörg Seiferth	0101	Pilatusstrasse	41	6003	Luzern
+CHE467936842	OK	2	das team Pfäffikon SZ ag	3	Churerstrasse	42	8808	Pfäffikon SZ
+CHE268629206	OK	2	ST-PAUL IMPRIMERIES ET LA LIBERTE MÉDIAS SA	3	Boulevard de Pérolles	38	1700	Fribourg
+CHE364643656	NOK	1						
+CHE446102110	OK	2	DOS SANTOS RODRIGUES VITOR MANUEL	1	chemin de Maisonneuve	21	1219	Châtelaine
+CHE428664410	OK	1	Patrick Steiner	0101	Kalchofenstrasse	24	3415	Hasle b. Burgdorf
+CHE116350825	OK	2	MDE Beteiligungen AG	3	St. Ursusstrasse	2	5400	Baden
+CHE347582901	OK	2	Janine Fumeaux Roh	1	Rue du Scex	4	1950	Sion
+CHE260252948	OK	2	Carrosserie Zürcher Inh. Dave Brunner	1	Hombrechtikerstrasse	5	8627	Grüningen
+CHE134065251	OK	2	EMBO Elektro Bodmer	1	Ingelsteinweg	34	4143	Dornach
+CHE106067606	OK	2	ECLE SA	3	Bodmestrasse	51	3778	Schönried
+CHE254576130	OK	2	Gjeli Transport	1	Konradstrasse	7	8422	Pfungen
+CHE103073898	OK	1	Ulrich Edwin Menzi	0101	Rigistrasse	22	4654	Lostorf
+CHE114602909	OK	2	Spineclinic AG	3	Schänisweg		5001	Aarau
+CHE113067787	NOK	1						
+CHE114692143	OK	2	Studio Mécanique, Chapuis, Fehlmann et Schild	2	Rue Alexis-Marie-Piaget	71	2300	La Chaux-de-Fonds
+CHE103334159	OK	1	Association de soutien à la Fondation La Pouponnière et l'Abri	0109	Avenue de Beaumont	48	1012	Lausanne
+CHE106460895	OK	1	Lucerne Golf Club	0109	Dietschiberg		6006	Luzern
+CHE251052327	OK	2	Induserv (Aarau) AG	3	Ziegelrain	1	5000	Aarau
+CHE498087305	OK	2	Bächle Schreinerei AG	3	Laufenstr.	22	4053	Basel
+CHE250721522	OK	2	A.Bromm Renouvelables	1	Chemin à la Déserte	7	1167	Lussy-sur-Morges
+CHE157577266	OK	2	G-Lab Development GmbH	4	Via Motta	5	6828	Balerna
+CHE418925218	NOK	1						
+CHE363080147	OK	2	Swiss Life Select Schweiz AG, Zweigniederlassung Beratungszentrum	9	Zählerweg	8	6304	Zug
+CHE241334959	OK	2	Després Décoration	1	route du Moulin-Roger	25	1237	Avully
+CHE319634912	OK	2	AV-Automobile Veseli	1	Flurhofstrasse	9	9500	Wil
+CHE250628325	OK	2	Carrozzeria La Ruota di Andrija Bilandzija	1	Via Val Barberina	5	6807	Taverne
+CHE286922093	OK	1	Kathrin Scherer	0101	Im Reinacherhof	53	4153	Reinach BL
+CHE141536907	OK	2	Livers Bedachungen AG	3	Via Sorts	4	7162	Tavanasa
+CHE115718940	OK	1	Stéphanie Bürki	0101	Rue de la Fontanette	10	2024	St-Aubin-Sauges
+CHE222200844	OK	2	PFEIFFER ARCHITEKTEN	1	Dorfstrasse	24	3506	Grosshöchstetten
+CHE100476320	OK	1	Gastropraxis Am See	0302	General-Wille-Strasse	59	8706	Meilen
+CHE106664877	OK	2	JS Gartenbau Scheuber	1	Spitalstrasse	49	3280	Meyriez
+CHE285427419	OK	2	Merz Baulösungen AG für Bau und Bautenschutz	3	Bernstrasse	1	3066	Stettlen
+CHE116250023	OK	2	InfTec GmbH	4	Alte Schmitte	5	4573	Lohn-Ammannsegg
+CHE105083293	OK	2	gujan + pally architekten ag	3	Via Lucmagn	19	7184	Curaglia
+CHE250742895	OK	1	Borut Banic	0101	Bundesgasse	26	3011	Bern
+CHE430254027	OK	1	Sigrid Spitz	0101	Via Baraggie	4	6612	Ascona
+CHE109791791	OK	2	Fondation de prévoyance Manpower	7	rue Winkelried	4	1201	Genève
+CHE266194829	OK	2	Lucas Porraro maréchal-ferrant	1	Chemin de Prédérès	7 A	1276	Gingins
+CHE105442334	OK	1	Karl Studer	0101	Klosterhofstrasse	1	8280	Kreuzlingen
+CHE243334137	OK	2	DA COSTA BATISTA COLOR	1	Via alle Pezze	12	6954	Sala Capriasca
+CHE112426895	OK	2	Kurt Güttinger	1	Waldkircherstrasse	21	9213	Hauptwil
+CHE113506114	OK	2	Pascolini Immobilien	1	Josef Staub-Strasse	1	8953	Dietikon
+CHE355814462	OK	2	Sherifi Isolierungen	1	Bachstrasse	12	9470	Buchs
+CHE171718011	OK	2	LSZ Lungen- und Schlafzentrum am Lindenhofspital AG	3	Bremgartenstrasse	119	3012	Bern
+CHE400199895	OK	1	Arge Urs Hostettler & Hans Ziltener	0302	Im Ackerhof	4	8422	Pfungen
+CHE109774309	OK	2	Fürsorgestiftung der Hotel Royal AG Luzern	7	Rigistrasse	22	6006	Luzern
+CHE106920069	OK	2	Andermatt Erich, Objekt- und Landschaftsplanung	1	Industriestrasse	57	6300	Zug
+CHE421846708	OK	2	Faes + Porta AG	3	Zugerstrasse	12	5620	Bremgarten AG
+CHE307067811	NOK	1						
+CHE413395951	OK	2	COLOR STYLE KHALID	1	Avenue de la Gare	16	1950	Sion
+CHE110289357	OK	2	Messer-Manufaktur, Scheuble	1	Im Halbiacker	13	8352	Elsau
+CHE316095261	OK	2	Malerei Ziegler	1	Hauptstrasse	45	4582	Brügglen
+CHE115542753	OK	2	Wollenmann Multimedia	1	Hauptstrasse	2	6313	Menzingen
+CHE273716710	OK	2	SS Echafaudages Sàrl, en liquidation	4	rue du Grand-Bay	9	1220	Les Avanchets
+CHE269336586	OK	2	T3P, Cabinho Pereira	1	Route de Buchillon	37	1162	St-Prex
+CHE474302996	OK	2	CONSTANTIN CRISTIAN-EDIL.	1	Via Cantonale	154	6534	San Vittore
+CHE294269786	OK	2	P. Oberholzer Metallbau	1	Schulstrasse	29	8725	Gebertingen
+CHE108346566	OK	2	Parkresort Rheinfelden Holding AG	3	Roberstenstrasse	31	4310	Rheinfelden
+CHE270317242	OK	1	Carmen Muheim	0101	Rue d'Entremonts	11	1400	Yverdon-les-Bains
+CHE137843074	OK	1	Urs Gaupp	0101	Gufel	18	7204	Untervaz
+CHE404398235	OK	2	ASV Ambulances Sàrl	9	Chemin de Longeraie	101-103	1052	Mont-sur-Lausanne
+CHE332212246	OK	2	Straub Vermessungen AG	3	Bahnhofstrasse	40	5400	Baden
+CHE291944717	OK	2	Yes we Trust GmbH	4	Münzentalstrasse	9b	5212	Hausen AG
+CHE109885736	OK	2	Saraï, La-solution.ch SA	3	En Chamard	41 C	1442	Montagny-Yverdon
+CHE108247786	OK	2	Association Appartenances Vaud	6				Lausanne
+CHE345572085	OK	1	Urs Kröpfli	0101	Zürcherstrasse	310	8500	Frauenfeld
+CHE108002397	OK	1	Marilyne Milène Estelle Tartaix- Cohen Adad	0101	Chemin du Trabandan	28	1006	Lausanne
+CHE354396893	OK	2	Banholzer Bau AG	9	Thunstrasse	24	3770	Zweisimmen
+CHE149974369	OK	2	RENUMAG AG	3	Helgenstrasse	2	8404	Winterthur
+CHE114998010	OK	2	SHOE-TOTAL Brigger	1	Luzernerstrasse	15	6045	Meggen
+CHE272686101	OK	2	Anwander Vertriebs GmbH	4	Am Linthli	2	8752	Näfels
+CHE110310589	OK	2	DG Immobilien G. Di Santo	1	Bahnhofstrasse	19	8180	Bülach
+CHE458944943	OK	2	Two Spice Trading Ltd.	3	Pilatusstrasse	22	6052	Hergiswil NW
+CHE107847529	OK	1	Verband Schweizer Medien	0109	Konradstrasse	14	8005	Zürich
+CHE363645931	OK	2	Kessler Hoch und Tiefbau	1	Sägereistrasse	9	8834	Schindellegi
+CHE342724944	OK	2	Schär Schuhtechnik	1	Steinwiesenstrasse	1	8952	Schlieren
+CHE106807243	OK	2	Orthopädie-Schuhtechnik Markus Strasser	1	Vorstadt	12	3380	Wangen an der Aare
+CHE352592928	OK	2	H P Knoblauch Ingenieur Geometer AG	3	Caspar Wolf-Weg	5	5630	Muri AG
+CHE206020746	OK	1	Hermann Peter Lauer	0101	Furkastrasse	55	3985	Münster VS
+CHE310056630	OK	2	FF Fiduciaria SA, Succursale di Manno	9	Strada Regina	16	6928	Manno
+CHE393486117	OK	2	Bianco Taxi Unternehmung	1	Mülibachstrasse	59	8805	Richterswil
+CHE107049700	NOK	1						
+CHE107049700	NOK	1						
+CHE183739422	OK	1	Fabrizio Gagliarde Peinture	0101	Rue de la Monderèche	8	3960	Sierre
+CHE155726489	OK	2	Aracic Montage&Transport	1	Kriesbachstrasse	21	8600	Dübendorf
+CHE471219117	OK	2	VISILAB Porrentruy SA	3	Faubourg Saint-Germain	2	2900	Porrentruy
+CHE140137137	OK	2	MARCEL MORF	1	Via ai Ger	25	6808	Torricella
+CHE229239422	NOK	1						
+CHE287436872	NOK	1						
+CHE412756555	OK	1	Julien Bertola	0101	Chemin des Molards	32	1188	St-George
+CHE326417716	OK	2	Homac Aviation Services S.A., Luxembourg, Zweigniederlassung Küsnacht	11	Obere Heslibachstrasse	17	8700	Küsnacht ZH
+CHE425971117	OK	2	Hagmann Parkett, Teppich und Bodenbeläge	1	Ergetenstrasse	7	9203	Niederwil
+CHE382614598	OK	2	Echafaudages Olgar	1	Route d'Ogens	1	1407	Bioley-Magnoux
+CHE276998189	OK	2	Centrodent Köniz AG	3	Stapfenstrasse	5	3098	Köniz
+CHE103788394	OK	2	Bureau Veritas Switzerland AG	3	Grossächerstrasse	25	8104	Weiningen
+CHE112526605	OK	2	Mulu Transport Tadesse	1	Letzigraben	231	8047	Zürich
+CHE433686972	OK	2	cplusm Holding GmbH	4	Rütistrasse	14	9050	Appenzell
+CHE400175311	NOK	1						
+CHE399063695	OK	2	Voyages Stevic	1	Chemin du Suchet	1	1024	Ecublens VD
+CHE107346664	OK	1	Meier, Fingerhuth, Fleisch, Häberli	0302	Lutherstrasse	36	8004	Zürich
+CHE179370265	OK	1	Katharina Keller Brüschweiler	0101	Oberstrasse	95	9000	St. Gallen
+CHE181809129	OK	1	Katja Martina Claudia Amberg	0101	Grundstrasse	4a	8712	Stäfa
+CHE463701240	OK	1	Jörg Schembra	0101	Kawazen	7	8536	Hüttwilen
+CHE114453779	OK	2	DRIVESWISS Event & Training GmbH	4	Breitistrasse	7	5610	Wohlen 
+CHE106579763	OK	2	CAT Design Claudia A. Trochsler	1	Ruessenstrasse	18	6342	Baar
+CHE290111198	OK	1	Sebastian Victor Slimack-Braun	0101	Fabrikstrasse	24	3012	Bern
+CHE395114075	OK	2	Mingeso Selmanaj	1	Schützenmattweg	19	5610	Wohlen AG
+CHE332664246	OK	2	zub machine control AG, Zweigniederlassung Rothenburg	9	Buzibachstrasse	31	6023	Rothenburg
+CHE266564837	OK	2	Frutt Resort AG	3	Frutt	9	6068	Melchsee-Frutt
+CHE101255247	OK	2	GUS Finanz AG	3	Sonnenstrasse	5	9000	St. Gallen
+CHE336823058	OK	2	Vetrovision di G. Rizzi	1	Via Stremadone	29	6987	Caslano
+CHE105521471	OK	2	Mio Consulting GmbH in Liquidation	4	Lindenweg	31	6033	Buchrain
+CHE109985846	OK	2	Sandmeier Fleisch und Feinkost	1	Hauptstrasse	27	5742	Kölliken
+CHE108140444	OK	2	Confiserie L. Buet	1	Rue Grand Saint-Jean	6	1003	Lausanne
+CHE237925577	OK	2	HAK Schweisstechnik, Tülin Mindik	1	Hardmattengut	1	4802	Strengelbach
+CHE102838517	OK	1	Dr. med. dent. René Heigl	0101	Bahnhofstrasse	1	8783	Linthal
+CHE101070363	OK	2	Gysi Management AG	3	Bachstrasse	34	5034	Suhr
+CHE113942716	OK	2	Fiduciaria Antonini Revisioni SA	3	Viale Carlo Cattaneo	1	6900	Lugano
+CHE292354783	OK	2	Vata Licht	1	Schönenstrasse	24	8803	Rüschlikon
+CHE114516345	OK	2	MARIC PROJEKTBERATER	1	Zürcherstrasse	41	8400	Winterthur
+CHE369102385	OK	2	Chaillot Bouchons SA, succursale de Sion	9	Route de la Drague	14	1950	Sion
+CHE375129808	OK	2	MOMK GmbH in Liquidation	4				ohne Domizil-sans adresse-senza recapito
+CHE131794833	OK	1	Praxis Unrau	0101	Marktplatz	9	9400	Rorschach
+CHE250457710	OK	1	lic.iur. Martin Frey	0101	Neugasse	26	9000	St. Gallen
+CHE110494087	OK	1	Projektierbar, Lukas Egli, Marco Schmid, Architektengemeinschaft	0302	St. Johanns-Vorstadt	17	4056	Basel
+CHE385873110	OK	1	WALTER ZOO AG GOSSAU	0106	Neuchlen	200	9200	Gossau
+CHE107092328	OK	2	Beton AG Bürglen	3	Im Zihl	4	8575	Bürglen TG
+CHE102634771	OK	2	Mutuel Assurances fondation	7	Rue des Cèdres	5	1920	Martigny
+CHE187535404	OK	1	aec architecte kämpfer	0101	Route de Blessens	52	1675	Vauderens
+CHE376099162	OK	2	CLOT CONSTRUCTIONS SA	3	Avenue de la Gare	7	1523	Granges-près-Marnand
+CHE107708425	OK	2	Agrisano	7	Laurstrasse	10	5200	Brugg
+CHE108493078	OK	2	ÖKK Versicherungen AG	3	Bahnhofstrasse	13	7302	Landquart
+CHE278837019	OK	2	Frei & Kepenek in Liquidation	2	Talwiesenstrasse	17	8045	Zürich
+CHE458970722	OK	2	Leiser Storenbau AG	3	Steinackerstrasse	24	8902	Urdorf
+CHE113474891	OK	2	A. MONTELEONE RISTORANTE LA PASSIONE	1	rue du Vélodrome	12	1205	Genève
+CHE112745834	OK	2	Forrer Verkehrsdienst und -Schulung	1	Alte Winterthurerstrasse	78	8304	Wallisellen
+CHE278891674	OK	2	ETAVIS AG	9	Technoparkstrasse	1	8005	Zürich
+CHE104928551	OK	2	JIPI Finance et Conseils, Jacques Pittet	1	Rue de l'Ancienne Poste	7	1040	Echallens
+CHE426385494	OK	2	AMAG First AG	3	Utoquai	49	8008	Zürich
+CHE109091096	OK	2	Arthur Weiss	1	Degerfelderstrasse	5	8260	Stein am Rhein
+CHE134941303	OK	1	MLaw Marcel Strehler	0101	Zürcherstrasse	310	8500	Frauenfeld
+CHE194570529	OK	2	TRADINTEK SPECIAL CARS SA	3	Rue de Lausanne	53	1110	Morges
+CHE104991377	OK	2	Engelberg-Titlis Tourismus AG	3	Klosterstrasse	3	6390	Engelberg
+CHE107915071	OK	2	ETAVIS Barboni + Collaud SA	3	Karrweg	4	1700	Fribourg
+CHE236789969	OK	1	Johanna McChurch-Forrer	0101	Steinbruchstrasse	12	7000	Chur
+CHE115618729	OK	2	Hapa Transporte Haas	1	Am Eichberg	18	8493	Saland
+CHE388728444	OK	2	Personalfonds Rhätische Bahn	7	Bahnhofstrasse	25	7002	Chur
+CHE184206269	OK	1	Hugo Delsert	0101	Grand-Rue	14	1680	Romont FR
+CHE272960199	OK	2	Walo Bertschinger SA Romandie, succursale de Sion	9	Route de Riddes	44	1950	Sion
+CHE103388563	OK	2	Clariant AG	3	Rothausstrasse	61	4132	Muttenz
+CHE103388563	OK	2	Clariant AG	3	Rothausstrasse	61	4132	Muttenz
+CHE105839097	NOK	1						
+CHE375775173	OK	2	A&V Trading Swiss Veselinov	1	Jetschwil	3	3186	Düdingen
+CHE171548631	OK	2	Schneider Kühlhausbau AG, Zweigniederlassung Baar	9	Blegistrasse	3	6340	Baar
+CHE340611789	OK	2	Physiotherapie Schönenwerd Kelly Christmas + Lasse Schaefer	2	Parkstrasse	2	5012	Schönenwerd
+CHE459995311	OK	2	Hausarztpraxis Buchs AG	3	Grünaustrasse	1	9470	Buchs
+CHE204009202	OK	1	Catherine Andrée Antonio Salvi usage Salvi-Defrasne	0101	La Corbière	6	1470	Estavayer-le-Lac
+CHE108028379	OK	2	AVIA Vereinigung unabhängiger Schweizer Importeure von Erdölprodukten, Genossenschaft	5	Badenerstrasse	329	8003	Zürich
+CHE139955241	OK	1	Veronika Lützow	0101	Rathausstrasse	17	8570	Weinfelden
+CHE141566972	OK	1	Hans Peter Müller	0101	Sonnenrain	1	4710	Balsthal
+CHE457100865	OK	2	schopfer.ruedin architectes Sàrl, succursale de Vevey	9	Rue du Torrent	17	1800	Vevey
+CHE143222489	NOK	1						
+CHE452077294	OK	1	Switchcom, Inh. Iacobucci	0101	Ferenbacherstrasse	21	8909	Zwillikon
+CHE220774264	OK	2	Electrosuisse Control AG	3	Weidenstrasse	13	4142	Münchenstein
+CHE396512834	OK	2	müller holz	1	Rössliwis	17	8132	Egg bei Zürich
+CHE135639657	OK	2	Betterhomes AG Zweigniederlassung Zürich	9	Flurstrasse	32	8048	Zürich
+CHE100739962	OK	2	Wipf Management AG	3	Wildischachen		5200	Brugg AG
+CHE183591361	OK	1	Gobeli Werner	0101	Lenkstrasse	113	3773	Matten (St. Stephan)
+CHE100308906	NOK	1						
+CHE344592263	OK	2	Spenglerei Lenhard	1	Mühlegasse	7	8240	Thayngen
+CHE208149612	OK	2	Cleanfire Reinigung Schweizer	1	Bodenackerstrasse	11c	4334	Sisseln AG
+CHE111152459	OK	2	Hp. Willi Transporte	1	Obere Burghalde	22	8225	Siblingen
+CHE432353261	OK	1	Peter Erik van de Velde	0101	Schoneggstrasse	21	3700	Spiez
+CHE282703221	OK	2	Divine Cuisine Sàrl	4	avenue du Collège	2	2017	Boudry
+CHE270082435	OK	2	Werthaus AG	3	Schaftenholzweg	23	2557	Studen BE
+CHE101838070	OK	2	Cargo Service Center Aarau AG	3	Rohrerstrasse	100	5000	Aarau
+CHE100235851	OK	2	Du Pont de Nemours Immobilière SA	3	Chemin du Pavillon	2	1218	Le Grand-Saconnex
+CHE484814714	OK	1	Ralph Lüthi Transporte	0101	Wilenstrasse	44	9500	Wil
+CHE319193032	OK	1	TROLLER Patrick, RENOVATION	0101	rue des Lilas	8	1202	Genève
+CHE364374338	OK	2	LAMBERT Bripoli	1	rue des Noirettes	32-34	1227	Carouge GE
+CHE287230359	OK	2	Andrea Ianchello - Costruzione e manutenzione giardini	1	Via Castello	2	6877	Coldrerio
+CHE192729233	OK	1	Genoud Travaux	0101	Route du lac Lussy	600	1618	Châtel-St-Denis
+CHE112610105	OK	2	Elektrizitätswerk Vals (EW Vals)	8	Garlag	580B	7132	Vals
+CHE381321768	OK	2	Giovanni Danesi	1	Via Marter	8	6948	Porza
+CHE263404798	OK	2	sunflower hauswartungen GmbH	4	Seetalstrasse	37	5503	Schafisheim
+CHE106357234	OK	2	Swiss Vinegar Manufactory AG	3	Bernstrasse	7	3066	Stettlen
+CHE114279151	OK	2	Ethical Coffee Company SA	3	Rue Faucigny	5	1700	Fribourg
+CHE102191532	OK	2	Schneebeli BauControl AG	3	Gotthardstrasse	29	6300	Zug
+CHE114490332	OK	2	Yousty AG	3	Hardstrasse	301	8005	Zürich
+CHE105522111	OK	2	Kindler Möbel	1	Schaffhauserstrasse	238	8222	Beringen
+CHE276412442	OK	2	Ammann AG Heizungen	9	Mosnangerstrasse	21	9606	Bütschwil
+CHE113648671	OK	2	J-Ph Mouron Paysagiste	1	Chemin du Sommet	11	1803	Chardonne
+CHE335430319	OK	2	Stefan Holbro Giardini	1	Via Montecucco	75	6596	Gordola
+CHE106837646	OK	2	Thermo Fisher Scientific LED AG	3	Neuhofstrasse	11	4153	Reinach BL
+CHE181986754	OK	2	AL Limousinen & Busservice Leka Avdush	1	Steinstrasse	40	8003	Zürich
+CHE101524565	OK	2	Batiline S.A.	3	Rue Centrale	26	1003	Lausanne
+CHE108624110	OK	2	Winz Reinigungssysteme Pflegeservice	1	Eihübelstrasse	26	4654	Lostorf
+CHE201104436	OK	2	Espace Feuerring Sàrl en liquidation	4	Chemin du Mola	7	1896	Miex
+CHE401843693	OK	2	RS Reinigung Cardoso Silva	1	Kaiserstrasse	5B	4310	Rheinfelden
+CHE341642054	OK	1	Arge Sisto Sachseln	0302	Seedorffeldstrasse	21	3302	Moosseedorf
+CHE146744152	OK	1	Nadege Michelet	0101	Rue du Scex	4	1950	Sion
+CHE318601206	OK	1	lic. iur. Simeon Beeler	0101	Sälistrasse	27	6005	Luzern
+CHE115451872	OK	2	SENNRICH AG	3	General-Wille-Strasse	201	8706	Meilen
+CHE435543711	OK	1	Schaub Zwicky Architektinnen ETH SIA	0302	Schöneggstrasse	5	8004	Zürich
+CHE244378456	OK	1	ALVES MEDEIROS CONSTANTINO EDUARDO JARDINIER-PAYSAGISTE	0101	chemin des Vuattes	6	1228	Plan-les-Ouates
+CHE461830808	OK	2	VORBURGER-Reisen, Inhaber Pirmin Vorburger	1	Churerstrasse	188	9471	Buchs
+CHE205680992	NOK	1						
+CHE300922579	OK	1	Adrian Häne	0101	St. Urbanstrasse	22	4900	Langenthal
+CHE114735278	OK	2	inpeek AG	3	Grossmünsterplatz	6	8001	Zürich
+CHE422431557	NOK	1						
+CHE331229095	OK	2	Krasniqi Transporte + Umzug	1	Breitenstrasse	10	8910	Affoltern am Albis
+CHE106611378	OK	2	Top Siebdruck P. Lagos	1	Barcelona-Strasse	14	4142	Münchenstein
+CHE116214085	OK	2	TataCare di Anna Nizzola	1	Via ai Monti	21 a	6600	Locarno
+CHE461670539	OK	2	Danz Architekten	1	Universitätsstrasse	53	8006	Zürich
+CHE108640391	OK	2	Clinique dentaire de Genolier S.A.	3			1272	Genolier
+CHE190974632	OK	2	DRV Emplois SA	9	rue de l'Avenir	13	2400	Le Locle
+CHE101400408	OK	2	Weidmann Infra AG	3	Neue Jonastrasse	60	8640	Rapperswil
+CHE106083195	OK	2	CSS Versicherung AG	3	Tribschenstrasse	21	6005	Luzern
+CHE296737462	OK	1	Stéfanie Kohli	0101	Allmeindstrasse	5	8645	Jona
+CHE210351040	OK	1	Georg Johann Dudek	0101	Kilchbergstrasse	19	8134	Adliswil
+CHE228376648	OK	1	Xavier Oulevey	0101	Rue du Milieu	10	1400	Yverdon-les-Bains
+CHE107945250	OK	2	Restaurant - Pizzeria Da Carlo S.A., en liquidation	3	Rue Caroline	2	1003	Lausanne
+CHE387734318	OK	2	Grieder, Jaquet, Jeltsch Architekten	2	Dornacherstr.	101	4053	Basel
+CHE371120777	OK	2	AR-Storen Antonio Riitano	1	Seestrasse	29	8610	Uster
+CHE106884717	OK	1	Avv. Milo Caroni	0101	Via alla Ramogna	4	6600	Locarno
+CHE116168700	OK	1	Juliane Schmidt	0101	Grubenstrasse	11	6014	Luzern
+CHE403869781	OK	2	Weine Vouilloz Vins SA	9	Luchernstrasse	12	3920	Zermatt
+CHE246003866	OK	2	Ricci Motos, titulaire Roxo Figueira Ricardo	1	Au Village	4	1277	Borex
+CHE413527891	OK	1	Odette Engel	0101	Blumenrain	91	2503	Biel/Bienne
+CHE257896996	OK	2	Auto 1 AG	3	Utoquai	49	8008	Zürich
+CHE115732733	OK	2	Brack & Partner AG	3	Werftestrasse	2	6005	Luzern
+CHE247479208	OK	1	Milos Petras	0101	Zürcherstrasse	37c	8852	Altendorf
+CHE113423913	OK	2	carworks.ch, Sandro Hitz	1	Polenlöserweg	8	7204	Untervaz
+CHE251149441	OK	1	Carlo Coduri	0101	Via Moncucco	10	6900	Lugano
+CHE370772836	OK	2	Dämmtechnik BZ Peng GmbH	4	Im Spitzler	7	8902	Urdorf
+CHE116089302	OK	1	Claudio Antonio Giovanni Petrillo	0101	Via Crodolo	18	6614	Brissago
+CHE249604766	OK	1	Duarte Pinto Carrelage	0101	rue des Boudines	7	1217	Meyrin
+CHE107277000	OK	2	Restaurant Bahnhöfli Kunz Sabina	1	St. Urbanstrasse	3	6210	Sursee
+CHE239721270	OK	2	Rabaça Pereira Transports	1	chemin des Esserts	11A	1213	Petit-Lancy
+CHE111852290	NOK	1						
+CHE349178899	OK	2	Pflästerungen Mourao Teixeira	1	Im Heidacher	4	8620	Wetzikon ZH
+CHE108567630	OK	1	Urs Vescoli	0101	Pfäffikerstrasse	28	8310	Kemptthal
+CHE419115541	OK	2	Cleany Mano Sàrl, en liquidation	4	rue de Berne	1	1201	Genève
+CHE247703759	OK	2	JOMOS Romandie SA	3	Chemin de la Vignette	5	1167	Lussy-sur-Morges
+CHE360080895	OK	2	A à Z Emplois SA	9	Grand-Rue	127	2720	Tramelan
+CHE339935222	OK	2	Bauunion - Lorec	1	Güterstrasse	14	5014	Gretzenbach
+CHE115605230	OK	1	Gian-Carlo Daepp	0101	Bahnhofstrasse	14	6340	Baar
+CHE230298992	OK	1	Jürg Müller	0101	Brauerstrasse	95a	9016	St. Gallen
+CHE113575374	OK	1	Communauté d'architectes Amsler Glatz et Delachaux	0302	Grand-Rue	13	1260	Nyon
+CHE110243929	OK	2	Favoris Holding AG	3	Werbhollenstrasse	54	4143	Dornach
+CHE390319629	OK	1	Christiane Maria Margot Brinkmann	0101	Reinacherstrasse	28	4142	Münchenstein
+CHE303219915	OK	1	Christian Roedel	0101	Bodenstrasse	9	8623	Wetzikon ZH
+CHE109717493	OK	2	Careal Holding BVG-Kasse	7	Utoquai	49	8008	Zürich
+CHE429178744	OK	2	FIEF Management SA, succursale de Vaud	9	Route du Ministre	1	1135	Denens
+CHE107128498	OK	2	Scherrer Innendekorationen	1	Altenburgstrasse	33	5430	Wettingen
+CHE370248541	OK	2	Buli Armierungen GmbH in Liquidation	4	Zürcherstrasse	149	5432	Neuenhof
+CHE113005622	OK	2	Marco Iten GmbH	4	Rusenstrasse	10	6315	Alosen
+CHE348233811	NOK	1						
+CHE340347581	OK	2	Bachmann Ribarail	1	Obere Beichlenstrasse	38	3550	Langnau im Emmental
+CHE189008216	OK	2	D.M. PEINTURE DIEGO PENA BOO	1	Route d'Aubonne	3	1165	Allaman
+CHE294268108	OK	1	Jonathan Germain Architecte EPFL - SIA	0101	place de la Taconnerie	1	1204	Genève
+CHE387165745	OK	2	Zahnarztpraxis Dagmersellen AG	3	Luzernerstrasse	3	6252	Dagmersellen
+CHE184646763	OK	2	Leman Peinture, Gomes Oliveira	1	Promenade de l'Europe	59	1203	Genève
+CHE181691425	OK	2	Limmat Augenzentrum AG	3	Hardturmstrasse	133	8005	Zürich
+CHE255316896	OK	2	Meyerhans Mühlen AG	9	Mühlenstrasse	7	5612	Villmergen
+CHE106846088	OK	2	Brunner Immo AG Dierikon	3	Rigistrasse	22	6036	Dierikon
+CHE106915714	OK	2	Paul Fluri AG	3	Dorfstrasse	4	4717	Mümliswil
+CHE300585281	OK	2	Bieler Witschi Invest GmbH	4	Murgenthalstrasse	87	4900	Langenthal
+CHE107927163	OK	2	CIT AG	3	Via Spendas	8	7031	Laax GR
+CHE116033980	OK	2	Auto Occasion Center & ALBKOS Travel Kamberi	1	Zürcherstrasse	10	8956	Killwangen
+CHE133583684	OK	2	Hugentobler AG Küche Bad Wohnen, Zweigniederlassung Rickenbach TG	9	Wilenstrasse	2	9532	Rickenbach bei Wil
+CHE285548804	OK	1	Günter Weber	0101	Bahnhofstrasse	72	8215	Hallau
+CHE192792444	OK	1	lic. iur. Roland Zahner	0101	Neugasse	40	9000	St. Gallen
+CHE114129391	OK	1	Consortium ATW-Arge Tunnel Weinberg Praderlosinger SA	0302	Route de Vissigen	110	1950	Sion
+CHE313545463	OK	2	AGENZIA FUNEBRE Baglivo C.F.I.E. nazionale e internazionale	1	Kasinostrasse	19	5000	Aarau
+CHE101835485	OK	2	Remaco AG	3	Hirzbodenweg	103	4052	Basel
+CHE351613634	OK	1	Viorica Piticari	0101	Alte Bremgartenstrasse	2	8965	Berikon
+CHE152554766	OK	1	Frank Günter Wilhelmus	0101	Adlikerstrasse	236	8105	Regensdorf
+CHE116041896	OK	1	ZHAW Zürcher Hochschule für Angewandte Wissenschaften	0224	Gertrudstrasse	15	8400	Winterthur
+CHE356116403	OK	2	Hans Studach's Erben AG	3	Untere Plessurstrasse	9	7000	Chur
+CHE267647957	NOK	1						
+CHE111569090	NOK	1						
+CHE221277005	NOK	1						
+CHE304377422	OK	2	engineering partners GmbH	9	Halsgasse	24	8640	Rapperswil
+CHE115486942	OK	1	Anastase Spiliopoulos	0101	Chemin des Grangettes	7	1224	Chêne-Bougeries
+CHE455485318	NOK	1						
+CHE112533522	OK	2	Sébastien Kubler	1	Pré-Michel	237	1776	Montagny-la-Ville
+CHE154894842	OK	2	Bernhard Muller Bijoutiers Sàrl	4	rue des Chavannes	16	2000	Neuchâtel
+CHE107446811	OK	2	Infoniqa SQL AG	3	Baarermattstrasse	10	6340	Baar
+CHE311101718	OK	2	halltop ag	3	Solothurnstrasse	29	3303	Jegenstorf
+CHE244051185	OK	1	Louis Magnin	0101	Route de Vauderens	5	1670	Ursy
+CHE107847363	OK	2	Velopa Pro AG	3	Limmatstrasse	2	8957	Spreitenbach
+CHE105314831	OK	2	Elektro Burkhalter AG Schaffhausen	3	Rheinweg	1	8200	Schaffhausen
+CHE107139651	OK	1	Harry Suter	0101	Rainackerweg	30	5303	Würenlingen
+CHE101242144	OK	2	Somedia AG	3	Sommeraustrasse	32	7007	Chur
+CHE107899348	OK	2	Wilux Print AG	3	Rosswiesstrasse	25	8608	Bubikon
+CHE296817463	OK	2	Swiss Keys Management SA	3	Chemin de Vallon	26	1030	Bussigny
+CHE271029455	OK	1	Schweizerische Unfallversicherungsanstalt (SUVA)		Fluhmattstrasse	1	6004	Luzern
+CHE339362036	NOK	1						
+CHE225837469	OK	1	Evelyn Cenedese	0101	Poststrasse	20	8274	Tägerwilen
+CHE105908798	NOK	1						
+CHE113933226	OK	2	Franz Pfister AG	3	Badenerstrasse	30	5413	Birmenstorf AG
+CHE107839493	OK	2	Theodor Roduner, Sanitäre Anlagen	1	Idastrasse	47	8003	Zürich
+CHE201023080	OK	2	Taddei-Laurenti & Co. Sagl	4	Via Cantonale	13	6900	Lugano
+CHE268737362	OK	1	Joël Favre, Horse Trans Switzerland	0101	Les Varodes	6	2400	Le Locle
+CHE149559059	OK	1	Christian Heinemann	0101	Boulevard de Pérolles	2	1700	Fribourg
+CHE412361487	NOK	1						
+CHE153167685	OK	2	S.T. Transport GmbH in Liquidation	4				ohne Domizil-sans domicile-senza indirizzo
+CHE487945086	OK	1	Alexander Martin Diederichs	0101	Rue du Léman	18b	1920	Martigny
+CHE107914835	OK	2	Treuhandbüro Geissbühler	1	Murgenthalstrasse	15	4900	Langenthal
+CHE111863313	NOK	1						
+CHE115432805	NOK	1						
+CHE298527088	OK	2	Loewe Umzug, Inhaber H. Arslan	1	Nidwaldnerstr.	45	4055	Basel
+CHE455482372	OK	1	JOTTERAND Eddy, Jojo Les petits travaux	0101	route de Peney	307	1242	Satigny
+CHE113408345	NOK	1						
+CHE240700725	OK	1	Curchod Jean-Pierre CRHM	0101	chemin des Neufs-Fontaines	16	1285	Athenaz (Avusy)
+CHE115697189	OK	1	Marcel Meier	0101	Villettemattstrasse	15	3007	Bern
+CHE463820270	OK	2	Vishaj peinture	1	Pérolles d'En Haut	9	1752	Villars-sur-Glâne
+CHE446737952	OK	2	Fard Transport, Saedmucheshi	1	Grossackerstrasse	94	8041	Zürich
+CHE378114559	OK	1	MWST-Gruppe, Sulzer Management AG	0302			8400	Winterthur
+CHE149958749	OK	2	Physiotherapie movere GmbH	4	Winkelriedplatz	6	4053	Basel
+CHE207681927	OK	2	Botan'YK Paysages Sàrl	4	Chemin du Levant	4	1267	Coinsins
+CHE191750199	OK	1	Rolf Schlagenhauf	0101	Seestrasse	1013	8706	Meilen
+CHE198378652	OK	2	STEPHANE VONLANTHEN ARCHITECTE	1	chemin des Fraisiers	11	1212	Grand-Lancy
+CHE392945140	OK	2	Wolf Fenster und Türen AG	3	Räschstrasse	29	8912	Obfelden
+CHE327338172	OK	2	Forêt paysage sàrl	9	Le Moulin	8A	2732	Loveresse
+CHE114051961	OK	2	WOC Aquaristik - Daniel Anderegg	1	Freiburgstrasse	88	3174	Thörishaus
+CHE114540289	OK	2	Impact-Vision, Robert Naescher	1	Route du Vergnolet	8	1070	Puidoux
+CHE250764738	OK	2	Swiss Marketing & Gerüste GmbH in Liquidation	4				ohne Domizil-sans adresse-senza recapito
+CHE169267163	OK	1	Ergoterapia l'impronta, Corinne Abarno e Simona Moresi	0103	Via Cantonale		6947	Vaglio
+CHE106835541	OK	2	Feldschlösschen Getränke AG	3	Theophil Roniger-Strasse		4310	Rheinfelden
+CHE107112296	OK	2	Müller Martini AG	3	Untere Brühlstrasse	13	4800	Zofingen
+CHE116041896	OK	1	ZHAW Zürcher Hochschule für Angewandte Wissenschaften	0224	Gertrudstrasse	15	8400	Winterthur
+CHE108955570	OK	2	Scuola universitaria professionale della Svizzera italiana (SUPSI)	8	Stabile Le Gerre		6928	Manno
+CHE405849387	OK	2	RIMA Niggli	1	Baarerstrasse	75	6300	Zug
+CHE273566356	OK	2	KANNON CONSULTING SARL, en liquidation	4				ohne Domizil-sans adresse-senza recapito
+CHE299886443	OK	2	Unicolor di Beslagic Elba	1	Via Zorzi	19 A	6900	Paradiso
+CHE114927760	OK	2	Verein edupool.ch	6	Baarerstrasse	77	6300	Zug
+CHE406414939	OK	2	SMART GARAGE AL-KINANI	1	Lägernstrasse	28	8037	Zürich
+CHE174546189	OK	2	GARD Services, A.G.N.S. & B.A.N.G.	1	rue du Pré-Jérôme	20	1205	Genève
+CHE111314182	OK	2	Villiger Isolationen	1	Abtwilerstrasse	28	5645	Aettenschwil
+CHE110828426	NOK	1						
+CHE106902077	OK	2	IMFELD CUBI	1	Brünigstrasse	41	6078	Lungern
+CHE106278385	OK	2	Sprint - Immobilien AG	3	Hauptstrasse	15	8598	Bottighofen
+CHE236672540	OK	2	Palm, Enrico	1	Rütistrasse	32	6375	Beckenried
+CHE261112793	OK	2	Aeskulap Praxis - Integrative Medizin Dr. Winnicki	1	Baarerstrasse	88	6300	Zug
+CHE101399751	OK	2	EUROPE PROPERTY AG	3	Alte Gasse	2	6440	Brunnen
+CHE432039830	OK	2	BARROS Reinigung, Inh. Batista de Barros Schindler	1	Dufaux-Strasse	60	8152	Glattpark (Opfikon)
+CHE402861191	OK	2	Z Bike - Brkic	1	Luegislandstrasse	241	8051	Zürich
+CHE114147673	NOK	1						
+CHE114770085	NOK	1						
+CHE467987199	OK	2	Mark Hirt Rieser Architekt ETH SIA	1	Hofackerstrasse	13a	8032	Zürich
+CHE398053895	OK	1	Le Cèdre Taxi & Limousinenservice Reslan	0101	Talackerstrasse	47	8152	Glattbrugg
+CHE113719070	NOK	1						
+CHE327451199	OK	2	suisse systems / Innovative Technologies Decker	1	Bolacker	14/7	4564	Obergerlafingen
+CHE101130574	OK	2	Zehnder Print AG	3	Mattstrasse		9532	Rickenbach bei Wil
+CHE116170424	OK	1	Johanna Agnes Marietta Bock	0101	Frutigenstrasse	2a	3600	Thun
+CHE242069547	OK	1	MLaw Martin Bürgi	0101	Winkelriedstrasse	35	6003	Luzern
+CHE115217394	OK	1	Christophe Wagner	0101	Espacité	1	2300	La Chaux-de-Fonds
+CHE100856734	OK	2	Imprimerie Courvoisier, Journal L'Impartial S.A.	3	Rue Neuve	14	2300	La Chaux-de-Fonds
+CHE316413094	OK	1	Reinhard Geyer	0101	Marktstrasse	11	9435	Heerbrugg
+CHE100777052	NOK	1						
+CHE107060133	NOK	1						
+CHE385399930	OK	2	Böll Fenster Service	1	Sumpfstrasse	5	6211	Buchs
+CHE107060133	NOK	1						
+CHE146018703	NOK	1						
+CHE306674457	OK	2	EL MAFROUHI SA	3	Via Manzoni	6	6900	Lugano
+CHE322841788	OK	1	Enikö Erzsébet Lele	0101	Route du Léman	29	1907	Saxon
+CHE280811644	OK	2	Lesux Aleksic	1	Huebstrasse	25	8317	Tagelswangen
+CHE472339439	OK	1	ISA Gipser, Conte Enzo	0101	Vorstadtstrasse	3	8953	Dietikon
+CHE433806437	OK	2	AREE VERDI E GIARDINI di LANZA FRANCESCO PAOLO	1	Via San Gottardo	7A	6877	Coldrerio
+CHE292282592	OK	2	MGR di Roberto Rossi	1	Via Vidighetto	61 A	6982	Agno
+CHE114464228	OK	2	Fränkische Cable Management AG	3	Mettlenbachstrasse	29	8617	Mönchaltorf
+CHE281580424	OK	1	Dr.med. Gabriela Egli Gerster FMH Allgemeine Innere Medizin	0101	Bergstrasse	143	8707	Uetikon am See
+CHE110095988	OK	2	ANTRIMON Motion AG	3	Gotthardstrasse	3	5630	Muri AG
+CHE186104912	NOK	1						
+CHE282170342	OK	2	M. Meier Hausdienst	1	Muttenzerstrasse	89	4133	Pratteln
+CHE105823541	OK	2	Walo Bertschinger AG	3	Giessenstrasse	5	8953	Dietikon
+CHE114297605	OK	2	Bhend Immobilien AG	3	Gehrenstrasse	20	8512	Thundorf
+CHE110251366	OK	2	HÖRHUUS HÖRGERÄTE KAHNERT	1	Bahnhofstrasse	5	8712	Stäfa
+CHE102053031	OK	2	OVB Oberdorfer Verwaltungs AG	3	Säntisstrasse	10	9607	Mosnang
+CHE109401848	OK	2	Freizügigkeitsstiftung der Aargauischen Kantonalbank	7	Bahnhofplatz	1	5001	Aarau
+CHE110463081	OK	2	Landgasthof Hotel Wassberg, L. Küng	1	Wassbergstrasse	62	8127	Forch
+CHE230754814	OK	2	INNOBRIDGE Services Sàrl	4	EPFL Innovation Park, Bâtiment A		1015	Lausanne
+CHE115660683	OK	1	Dietrich Hans Alfred Hübner	0101	Promenade	4	7270	Davos Platz
+CHE235703020	OK	2	Dussmann Service AG	9	Grabenackerstrasse	9	4142	Münchenstein
+CHE216407644	OK	2	U. Baumgartner AG	3	Wehntalerstrasse	16	8181	Höri
+CHE107588500	OK	2	Hasler Sonnenstoren	1	Hohstrasse	4	8302	Kloten
+CHE101522862	OK	2	Kosag Kompostier AG	3	Dorfstrasse	2	5213	Villnachern
+CHE256269779	OK	2	Merkli + Co.	2	Unterdorfstrasse	11	5612	Villmergen
+CHE266260780	OK	2	Atlas Transport GmbH in Liquidation	4	Vorholzmattweg	18	3428	Wiler bei Utzenstorf
+CHE164957444	OK	2	Guidotti Leandro	1	Via Munda di sopra		6514	Sementina
+CHE283660927	OK	2	Vögeli Holzbau AG Mellingen	3	Stetterstrasse	43	5507	Mellingen
+CHE108173857	OK	2	Schlüsselservice Koch	1	Erlenstrasse	8	6020	Emmenbrücke
+CHE366135862	NOK	1						
+CHE109288138	OK	2	EBERLE & PARTNER TREUHAND UND REVISION AG	3	Grofstrasse	34	8887	Mels
+CHE114361479	OK	2	Initial Schweiz AG	3	Hauptstrasse	181	4625	Oberbuchsiten
+CHE137685415	OK	1	Zürich Versicherungs-Gesellschaft AG		Mythenquai	2	8002	Zürich
+CHE114067867	OK	1	Schweizerische Gesellschaft für Organisation und Management Sgo	0109	Flughofstrasse	50	8152	Glattbrugg
+CHE386200439	OK	2	management tools media AG	3	Sonnenbergstrasse	23	6052	Hergiswil NW
+CHE109254895	OK	2	inpuncto gmbh	4	Oristalstrasse	29	4410	Liestal
+CHE111975863	NOK	1						
+CHE104121749	OK	1	Marc Lironi & Sandy Zaech	0302	Boulevard Georges-Favon	19	1204	Genève
+CHE141354370	OK	2	Meier's Hörwelt	1	Dübendorfstrasse	2	8051	Zürich
+CHE108156652	OK	1	Dr. iur. Bruno Häfliger	0101	Schwanenplatz	7	6004	Luzern
+CHE456371841	OK	1	MedAdvice Dr. med. H.R. Mumenthaler	0101	Wabersackerstrasse	45A	3097	Liebefeld
+CHE107975699	OK	2	Christine Fumeaux	1	place du Manoir	20	1223	Cologny
+CHE107751786	OK	2	Pharmacieplus de Grange-Canal, Françoise Châtelain Brunner	1	route de Chêne	65	1224	Chêne-Bougeries
+CHE107920497	OK	2	Pharmacie St-Raphaël, Dr. Gisèle Youmbi-Balderer	1	Gros-Plan, Résidence "Les Gentianes"		1637	Charmey (Gruyère)
+CHE109776656	OK	1	Pharmacie Centrale Interjurassienne	0302	Rue Beausite	49	2740	Moutier
+CHE114104014	OK	2	Schaffhauserplatz-Apotheke, Thomas Kappeler	1	Seminarstrasse	1	8057	Zürich
+CHE294239584	OK	2	Park-Apotheke AG	3	Hauptstrasse	78	8280	Kreuzlingen
+CHE113017157	OK	2	Schloss Apotheke Parfumerie Astrid Thierstein	1	Rathausplatz	3	8500	Frauenfeld
+CHE279013848	OK	1	Kathrin Guggenberger	0101	Querstrasse	15	8050	Zürich
+CHE115590137	OK	2	Akkermans Weber + Scheier PhysioTop	2	Blumenbergplatz	1	9000	St. Gallen
+CHE116158995	OK	1	Bettina Gabriele Weiss	0101	Walchestrasse	15	8006	Zürich
+CHE103612909	OK	2	CLINIQUE GENERALE-BEAULIEU SA	3	chemin de Beau-Soleil	20	1206	Genève
+CHE455109513	OK	1	Rainer Hepke	0101	St.-Anna-Strasse	32	6006	Luzern
+CHE224956114	OK	2	Balgrist CARD AG	3	Forchstrasse	340	8008	Zürich
+CHE272211790	OK	1	Martin Büchi	0101	Rotbuchstrasse	46	8037	Zürich
+CHE115477110	OK	1	Jean-Baptiste Henri Christian MARTIN	0101	Rue de Chantepoulet	21	1201	Genève
+CHE460571797	OK	1	Birgit Margarete Kistenich	0101	Rue du Petit-Berne	14	2035	Corcelles NE
+CHE116172156	OK	1	Derya Barlas	0101	Bahnhofplatz	3	8400	Winterthur
+CHE333619596	OK	1	Norbert Kühn	0101	Regensbergstrasse	89	8050	Zürich
+CHE422665434	OK	1	Edouard-Jean Stauffer	0101	Route de l'Ancienne Papeterie	131	1723	Marly
+CHE349713605	OK	2	Praxis Dr. med. M. Tatan-de Froment	1	Zähringerstrasse	45	3012	Bern
+CHE231671208	OK	1	Mirjam Tabea Bourqui	0101	Ettiswilerstrasse	4	6130	Willisau
+CHE108122618	OK	1	Franz Fankhauser	0101	Gutenbergstrasse	18	3011	Bern
+CHE115531873	OK	1	Jacques-Thierry Metzger	0101	Chemin des Grangettes	7	1224	Chêne-Bougeries
+CHE116293647	OK	1	Alexander Rukavina	0101	Löwenstrasse	16	8280	Kreuzlingen
+CHE115405300	OK	1	Walter Seelig	0101	Reinacherstrasse	28	4142	Münchenstein
+CHE115628366	OK	1	Michael Fischer-Verder	0101	St.-Anna-Strasse	32	6006	Luzern
+CHE103612909	OK	2	CLINIQUE GENERALE-BEAULIEU SA	3	chemin de Beau-Soleil	20	1206	Genève
+CHE355773018	OK	1	Christoph Niederberger	0101	Klosterweg	2	9500	Wil SG
+CHE115704607	OK	1	Ruth Stahlberger-Bucher	0101	Grossfeldstrasse	1	7310	Bad Ragaz
+CHE115615501	OK	1	Olivier Kohler	0101	Reinacherstrasse	28	4142	Münchenstein
+CHE115394079	OK	1	Ladislav Nagy	0101	Forchstrasse	340	8008	Zürich
+CHE107256009	OK	1	Christian Himmelberger	0101	Valenistrasse	6	8887	Mels
+CHE310876484	OK	1	Carla, Elena Mosele	0101	Moosstrasse	1	6003	Luzern
+CHE367259018	OK	1	Beat Michel	0101	Belairstrasse	2	3780	Gstaad
+CHE115615168	OK	1	Andreas Berger	0101	St.-Anna-Strasse	32	6006	Luzern
+CHE115417898	OK	1	Dieter Ettlin	0101	Reinacherstrasse	28	4142	Münchenstein
+CHE213291888	OK	1	Theres Koller-Stebler	0101	Schmiedengasse	1	2502	Biel/Bienne
+CHE313237168	OK	1	Hana Sajdl Zeller	0101	Rotbuchstrasse	46	8037	Zürich
+CHE168422627	OK	2	Rheumaklinik beider Basel Dr. med. Stephan Bürgin	1	Reinacherstrasse	28	4142	Münchenstein
+CHE192103341	OK	1	Barbara Marlis Jäppinen-Iseli	0101	Klosterweg	2	9500	Wil SG
+CHE115672568	OK	1	Mario Portner	0101	Seehofstrasse	7	6004	Luzern
+CHE115368372	OK	1	Jean-Pierre Müller	0101	Reinacherstrasse	28	4142	Münchenstein
+CHE116120484	OK	1	Andrea Gertrud Bieler-Bühler	0101	Rorschacher Strasse	19	9000	St. Gallen
+CHE115540091	OK	1	Christoph Kryenbühl	0101	Parkstrasse	2	6410	Goldau
+CHE349583082	OK	1	Urs Eichenberger	0101	Forchstrasse	340	8008	Zürich
+CHE115686636	OK	1	Rinaldo Pico	0101	Reinacherstrasse	28	4142	Münchenstein
+CHE257290747	OK	1	Erwin Truxius	0101	Oberstrasse	95	9000	St. Gallen
+CHE481467415	OK	1	Sergio Suriano	0101	Viale Stazione	8a	6500	Bellinzona
+CHE155363139	OK	2	Äntelhof GmbH	4	Kornberg	156	5027	Herznach
+CHE112761129	OK	2	verein shift	6	Metzgergasse	8	5000	Aarau
+CHE418577175	NOK	1						
+387000268	OK	2	LANQUETIN Sàrl	4	Chemin de la Biole	6	1860	Aigle
+CHE116285820	OK	1	MWST-Gruppe, Diagramma Dietikon AG	0302	Zürcherstrasse	152	8953	Dietikon
+CHE645409877	NOK	1						
+CHE111456474	NOK	1						
+CHE330496771	NOK	1						
+CHE369917625	OK	2	Rocha de Almeida & Vieira dos Santos Chauffage et Sanitaire	2	rue du Progrès	45	2400	Le Locle
+CHE198248305	OK	1	Pierre Messerlin	0101	Avenue de la Gare	3	1950	Sion
+CHE201570755	OK	2	architist Architecture + Design GmbH	4	Domherrenstrasse	13	4622	Egerkingen
+CHE116117565	OK	1	Nina Julia Karl	0101	Langhaus	2	5400	Baden
+CHE352743558	OK	1	Daniel Mark Siebertz	0101	Bleicheplatz	3	8200	Schaffhausen
+CHE370818846	OK	1	"Zipfel Zapf", Vermittlung von Kinderbetreuung, Inhaberin Yvonne Scarpelli	0101	Arminstrasse	26	8050	Zürich
+CHE159149177	OK	2	Ticar Automobile - Philipp Tschudi	9	Eichwiesstrasse	20	8645	Jona
+CHE298545821	NOK	1						
+CHE137448743	NOK	1						
+CHE198445283	OK	2	HM Constructions, H. Moreira Da Fonseca	1	Chemin de la Barme	31	1868	Collombey
+CHE108000180	OK	1	Lukas Villiger	0101	Mellingerstrasse	207	5405	Dättwil AG
+CHE364676176	OK	1	Katrin Böhle-Dössegger	0101	Allenbergstrasse	2	8708	Männedorf
+CHE481920863	OK	2	Winds Of Change Sàrl	4	Rue des Alpes	8	1196	Gland
+CHE168217027	NOK	1						
+CHE112984149	OK	1	Laengle Glas GmbH, Lieferung und Montage Glas/A	0312	Trogenerstrasse	13	9450	Altstätten SG
+CHE359090869	OK	1	Amina Qamar Munir	0101	Bahnhofplatz	3	8400	Winterthur
+CHE116101682	OK	1	Ruth Katharina Ferjencik	0101	Goethestrasse	18	8001	Zürich
+CHE209486940	OK	1	Esra Gelen	0101	Route de Verbier Station	28	1936	Verbier
+CHE461159152	OK	1	Moritz Dau	0101	Roberstenstrasse	31	4310	Rheinfelden
+CHE110163526	OK	1	Richard Zehnder	0101	Wiligraben	6	5603	Staufen
+CHE241536084	OK	1	Norbert Istvan Stauder	0101	Wuhrwiesenstrasse	8	8595	Altnau
+CHE115060767	OK	1	Jacques Gast	0101	Chemin des Grangettes	7	1224	Chêne-Bougeries
+CHE246031420	OK	2	ZIGG Jobs AG	3	Industriestrasse	23	6055	Alpnach Dorf
+CHE171047688	OK	1	Rappi-Clean V.& S. Sadiku	0103	Rietstrasse	88	8640	Rapperswil
+CHE116169390	OK	1	Sabra Stutz	0101	St.Leonhard-Strasse	31	9000	St. Gallen
+CHE410507722	OK	1	Nadine Bittel Truffer	0101	Route des Combes	2	1971	Grimisuat
+CHE115718532	OK	1	David Germann	0101	Witellikerstrasse	40	8008	Zürich
+CHE206758958	OK	1	Joachim Hans Otto Lachner	0101	Bahnhofplatz	10a	3011	Bern
+CHE137907202	OK	1	Anita Kohler	0101	Vögelinsegg	5	9042	Speicher
+CHE176320762	OK	1	Ayesha Shekeba Ariayi	0101	Schulstrasse	3	8717	Benken SG
+CHE483269576	OK	1	Andreas Lukas Peter Ruepp	0101	Mellingerstrasse	207	5405	Dättwil AG
+CHE116172363	OK	1	Sabina Kumalic	0101	Bleicherweg	33	8002	Zürich
+CHE349024339	OK	1	Felicitas Nabholz-Alig	0101	Laufenbachstrasse	23	8625	Gossau ZH
+CHE326453422	OK	1	Sandro Franco Fucentese	0101	Forchstrasse	340	8008	Zürich
+CHE143872670	OK	1	Michel Gustave Schoofs	0101	Rue du Pré-Fleuri	2a	1950	Sion
+CHE492488835	OK	1	PRO'NET MARQUES CARDOSO VÍTOR	0101	Rue du Collège	14	1964	Conthey
+CHE234499621	OK	2	Crettaz Service Basel	1	Strassburgerallee	105	4055	Basel
+CHE108297270	OK	1	Robert Lack-Spaar	0101	Industriestrasse	15	4227	Büsserach
+CHE104851196	OK	2	AXAM AG	3	Hüttenwiesenstrasse	4	8108	Dällikon
+CHE112924526	OK	2	aargauische stiftung suchthilfe ags	7	Kasinostrasse	29	5000	Aarau
+CHE109741244	OK	2	Wohlfahrtsfonds der Rytz Industriebau AG	7	Hauptstrasse	1	4455	Zunzgen
+CHE297982165	NOK	1						
+CHE106997037	OK	2	FELIX EMERY S.A.	3	Rue de Savoie	2	1530	Payerne
+CHE384422845	OK	2	Burkhalter Net Works, Zweigniederlassung der Burkhalter Technics AG	9	Hohlstrasse	475	8048	Zürich
+CHE116165009	OK	1	Milan Kalabic	0101	Landhausstrasse	1	9053	Teufen AR
+CHE390730953	NOK	1						
+CHE323444562	OK	2	CaraBird GmbH	4	Glattalstrasse	521	8153	Rümlang
+CHE106051404	OK	2	Synergie (Suisse) SA	3	route de la Gare	36	2012	Auvernier
+CHE101378358	OK	2	Albas Treuhand AG	3	Mürtschenstrasse	26	8048	Zürich
+CHE106051404	OK	2	Synergie (Suisse) SA	3	route de la Gare	36	2012	Auvernier
+CHE102432486	OK	2	Holding Corporation for Commerce and Industry Ltd.	3	Dorfstrasse	26a	9413	Oberegg
+CHE101150743	OK	2	ALSTOM Network Schweiz AG	3	Länggassstrasse	7	3012	Bern
+CHE109697896	OK	2	Dr. Max Rüegg-Rotary-Stiftung	7	Neugrundstrasse	4	8620	Wetzikon
+CHE265554960	OK	2	SWISSDEV SA	3	Chemin de l'Epenay	16	1270	Trélex
+CHE104851196	OK	2	AXAM AG	3	Hüttenwiesenstrasse	4	8108	Dällikon
+CHE418885895	OK	2	A à Z Emplois SA	9	Avenue de la Gare	7	1700	Fribourg
+CHE384422845	OK	2	Burkhalter Net Works, Zweigniederlassung der Burkhalter Technics AG	9	Hohlstrasse	475	8048	Zürich
+CHE460498634	NOK	1						
+CHE110392179	OK	2	Patronale Stiftung der Firma Friedrich Witschi AG	7	Murgenthalstrasse	87	4900	Langenthal
+CHE101127187	OK	1	Harry Schirmer	0101	Forrenstrasse	14	8718	Schänis
+CHE348144857	OK	2	Zogg Energy Control	1	Fliederstrasse	10	5417	Untersiggenthal
+CHE106051404	OK	2	Synergie (Suisse) SA	3	route de la Gare	36	2012	Auvernier
+CHE193480094	OK	1	Connor Fuhrer	0101	Bahnhofplatz	1	3110	Münsingen
+CHE254873220	OK	2	NUNO MIGUEL RODRIGUES MONTEIRO DE FREITAS	1	Vicolo Centrale	4	6806	Sigirino
+CHE288723699	NOK	1						
+CHE109791035	OK	2	Fondazione di previdenza Tenconi SA	7			6780	Airolo
+CHE167190868	OK	2	Texat Decor-Engineering AG	9	Hölzliwisenstrasse	12	8604	Volketswil
+CHE101425549	OK	2	AG Balmholz	3	Frutigenstrasse	37	3601	Thun
+CHE101425549	OK	2	AG Balmholz	3	Frutigenstrasse	37	3601	Thun
+CHE247980460	OK	1	Karim Zenati	0101	Avenue de Beau-Séjour	6	1206	Genève
+CHE194118721	OK	1	Dorel Ovidiu Olteanu	0101	Avenue Calas	1	1206	Genève
+CHE112807949	OK	2	mediserv AG	3	Neuengasse	5	2502	Biel/Bienne
+CHE112968653	OK	1	Alain Lironi	0101	Avenue Jacob-Daniel Maillard	3	1217	Meyrin
+CHE368937660	OK	1	René Zenhäusern	0101	Forchstrasse	51	8032	Zürich
+CHE373398875	OK	1	Thomas Günter Hildebrandt	0101	Hardturmstrasse	133	8005	Zürich
+CHE390643283	OK	1	Jürgen Mayer	0101	Zeughausgasse	22	9000	St. Gallen
+CHE242799189	OK	2	starproject ag	3	Schauplatzgasse	39	3011	Bern
+CHE384422845	OK	2	Burkhalter Net Works, Zweigniederlassung der Burkhalter Technics AG	9	Hohlstrasse	475	8048	Zürich
+CHE296426039	OK	1	Michael Bode	0101	Obergrundstrasse	108	6005	Luzern
+CHE114504678	OK	1	Atlas Copco Customer Finance Ab Schweden	0312	Büetigenstrasse	80	2557	Studen BE
+CHE109717116	OK	2	Wohlfahrtsfonds der Bürstenfabrik Ebnat-Kappel AG	7	Industriestrasse	34	9642	Ebnat-Kappel
+CHE395621225	OK	2	S GipS BAU S. Jusufoski	1	Erlenstrasse	30A	3612	Steffisburg
+CHE158371603	OK	1	Consorzio Ghielmimport SA & Planfer SA	0302	Via Cantonale		6805	Mezzovico
+CHE248421482	OK	2	SWISSETHICAL SA	3	Route de Romont	24	1687	Vuisternens-d/Romont
+CHE295849590	OK	1	Alexander Bucher	0101	Rosenbergstrasse	42b	9000	St. Gallen
+CHE398648485	OK	2	Magnetic Emplois SA	9				
+CHE109779838	OK	2	Personalfürsorgestiftung der Firma Peka-Metall AG	7	Luzernerstrasse	20	6295	Mosen
+CHE109776076	OK	2	Patronale Kader Wohlfahrtsstiftung Sebastian Müller AG	7	Bohler		6221	Rickenbach
+CHE105742836	OK	1	Kurt Egger	0101	Ziegelbrückstrasse	5	8867	Niederurnen
+CHE343113594	NOK	1						
+CHE109697896	OK	2	Dr. Max Rüegg-Rotary-Stiftung	7	Neugrundstrasse	4	8620	Wetzikon
+CHE299859877	OK	1	Anwar Giryes	0101	Grütstrasse	55	8802	Kilchberg ZH
+CHE384422845	OK	2	Burkhalter Net Works, Zweigniederlassung der Burkhalter Technics AG	9	Hohlstrasse	475	8048	Zürich
+CHE384422845	OK	2	Burkhalter Net Works, Zweigniederlassung der Burkhalter Technics AG	9	Hohlstrasse	475	8048	Zürich
+CHE384422845	OK	2	Burkhalter Net Works, Zweigniederlassung der Burkhalter Technics AG	9	Hohlstrasse	475	8048	Zürich
+CHE112263067	OK	2	Bacardi & Company Limited, Vaduz, Branch of Meyrin/Switzerland	11	Route de Meyrin	267	1217	Meyrin
+CHE101501305	NOK	1						
+CHE290560780	OK	2	DS Group Holding AG	3	Fadenbrücke	14	6374	Buochs
+CHE115620005	OK	1	Arge Gattoni Impresa Costruzioni SA & LGV Impresa costruzioni SA	0302	Viale Officina	6	6500	Bellinzona
+CHE352612488	NOK	1						
+CHE109776076	OK	2	Patronale Kader Wohlfahrtsstiftung Sebastian Müller AG	7	Bohler		6221	Rickenbach
+CHE100043470	NOK	1						
+CHE110392179	OK	2	Patronale Stiftung der Firma Friedrich Witschi AG	7	Murgenthalstrasse	87	4900	Langenthal
+CHE115620005	OK	1	Arge Gattoni Impresa Costruzioni SA & LGV Impresa costruzioni SA	0302	Viale Officina	6	6500	Bellinzona
+CHE109630917	OK	1	Christoph Johannes Zeller	0101	Dorfstrasse	43	8630	Rüti ZH
+CHE114806493	OK	2	Haustechnik Elmaz	1	Südstrasse	34	6010	Kriens
+CHE109779838	OK	2	Personalfürsorgestiftung der Firma Peka-Metall AG	7	Luzernerstrasse	20	6295	Mosen
+CHE106802777	OK	2	immoSTEG AG	3	Brunaustrasse	39	8002	Zürich
+CHE113279148	OK	2	ARGOT Lab Holding SA	3	Rue du Liseron	5	1006	Lausanne
+CHE115714103	OK	1	Hasan Yilmaz	0101	Rue Jean-Violette	5	1205	Genève
+CHE102386231	OK	2	Alpha Prévoyance Funéraire SA	3	Route de Crissier	12	1020	Renens VD
+CHE109779838	OK	2	Personalfürsorgestiftung der Firma Peka-Metall AG	7	Luzernerstrasse	20	6295	Mosen
+CHE109795599	OK	2	Caisse de retraite anticipée du secteur principal de la construction et du Carrelage du canton du Valais - RETABAT	7	Route de l'Avenir	11	1950	Sion
+CHE459346124	OK	2	RWB Berne SA	3	Marzilistrasse	32	3005	Bern
+CHE479069784	OK	2	Blütenreich Simone Bolli	1	Spychergasse	3a	8552	Felben-Wellhausen
+CHE101425549	OK	2	AG Balmholz	3	Frutigenstrasse	37	3601	Thun
+CHE146886527	OK	1	Prosper Anani	0101	Rue du Liseron	5	1006	Lausanne
+CHE317136365	OK	1	Rifaat Tosson	0101	Sarmenstorferstrasse	8	5615	Fahrwangen
+CHE458953149	OK	1	Niklaus Trächslin	0101	Bahnhofstrasse	10	4144	Arlesheim
+CHE313037385	NOK	1						
+CHE105894736	OK	2	A. Tschümperlin AG, Baustoffe	3	Oberneuhofstrasse	5	6340	Baar
+CHE261370409	OK	2	ACE again Sàrl	4	Avenue des Oiseaux	15	1000	Lausanne 18
+CHE102766680	OK	2	Alko AG	3	Industriestrasse	15	9050	Appenzell
+CHE372273001	OK	1	Susanne Kunz Mehlstaub	0101	Glockengasse	4	9000	St. Gallen
+CHE292495188	OK	1	Consortium EP Electricité SA & Inlectro SA	0302	Route de Coeuve	13	2900	Porrentruy
+CHE384422845	OK	2	Burkhalter Net Works, Zweigniederlassung der Burkhalter Technics AG	9	Hohlstrasse	475	8048	Zürich
+CHE106051404	OK	2	Synergie (Suisse) SA	3	route de la Gare	36	2012	Auvernier
+CHE305074881	OK	1	Markus van Son	0101	Limmattalstrasse	177	8049	Zürich
+CHE234328362	OK	2	Archcom GmbH in Liq.	4	Schellenrainstrasse	13	6210	Sursee
+CHE431816465	OK	1	Laura Beatriz Di Pollina Gold	0101	Avenue Calas	1	1206	Genève
+CHE418721779	OK	2	Juan Hermida Hidalgo Rénovations	1	La Biche	2	2054	Les Vieux-Prés
+CHE109523598	OK	2	Personalfürsorgestiftung der Proceq AG	7	Ringstrasse	2	8603	Schwerzenbach
+CHE402578708	OK	1	David Manuel Kiermeir	0101	Bellevuestrasse	15	3095	Spiegel b. Bern
+CHE109376647	OK	2	Centre International ORL Clinique des Grangettes SA, en liquidation	3	chemin des Grangettes	7	1224	Chêne-Bougeries
+CHE106670607	OK	1	Christian Waldvogel	0101	Via S. Clau Sura	1	7130	Ilanz
+CHE109776076	OK	2	Patronale Kader Wohlfahrtsstiftung Sebastian Müller AG	7	Bohler		6221	Rickenbach
+CHE101669637	OK	2	ASG Treuhand und Consulting AG	3	Oberneuhofstrasse	13	6340	Baar
+CHE114504678	OK	1	Atlas Copco Customer Finance Ab Schweden	0312	Büetigenstrasse	80	2557	Studen BE
+CHE414384625	OK	2	Gufler Sport	1	Lädergasse	42	6287	Aesch
+CHE403037131	OK	1	Christof Martin Bollmann	0101	Avenue d'Ouchy	37	1006	Lausanne
+CHE316621014	OK	1	Ass. Rue du Temple, Duckert SA & Walo Bertschinger Central AG	0302	Heimstrasse	1	8953	Dietikon
+CHE384422845	OK	2	Burkhalter Net Works, Zweigniederlassung der Burkhalter Technics AG	9	Hohlstrasse	475	8048	Zürich
+CHE105894736	OK	2	A. Tschümperlin AG, Baustoffe	3	Oberneuhofstrasse	5	6340	Baar
+CHE105874219	OK	2	saa ag	3	Talbachmatte	1	6147	Altbüron
+CHE264757147	OK	2	FFL Holding AG	3	Alfred Lienhard Strasse	1	9113	Degersheim
+CHE384422845	OK	2	Burkhalter Net Works, Zweigniederlassung der Burkhalter Technics AG	9	Hohlstrasse	475	8048	Zürich
+CHE384422845	OK	2	Burkhalter Net Works, Zweigniederlassung der Burkhalter Technics AG	9	Hohlstrasse	475	8048	Zürich
+CHE139119948	OK	1	Magdalini Manasi	0101	St.Leonhard-Strasse	31	9000	St. Gallen
+CHE116168568	OK	1	Tamara Brocksieper	0101	Weinmarkt	9	6004	Luzern
+CHE227067558	OK	1	Omar Kherad	0101	Avenue Jacob-Daniel Maillard	3	1217	Meyrin
+CHE360592451	OK	1	Marie-Therese Siegen	0101	Kantonsstrasse	14a	3930	Visp
+CHE109776076	OK	2	Patronale Kader Wohlfahrtsstiftung Sebastian Müller AG	7	Bohler		6221	Rickenbach
+CHE105717867	OK	2	COMUNDO	6	Kreuzbuchstrasse	44	6006	Luzern
+CHE327930324	OK	1	Birgit Bucher	0101	Spitalstrasse	26a	8840	Einsiedeln
+CHE102829027	OK	2	EGLESIA AG	3	Rue de l'Industrie	45	1630	Bulle
+CHE176835167	NOK	1						
+CHE102829027	OK	2	EGLESIA AG	3	Rue de l'Industrie	45	1630	Bulle
+CHE102829027	OK	2	EGLESIA AG	3	Rue de l'Industrie	45	1630	Bulle
+CHE164412943	OK	1	Oscar Claes August Svennung	0101	Bahnhofplatz	10a	3011	Bern
+CHE107917489	OK	2	Acta Construction SA	3				ohne Domizil-sans adresse-senza recapito
+CHE102829027	OK	2	EGLESIA AG	3	Rue de l'Industrie	45	1630	Bulle
+CHE100790785	OK	2	Axi Holding AG	3	Malzgasse	15	4052	Basel
+CHE100790785	OK	2	Axi Holding AG	3	Malzgasse	15	4052	Basel
+CHE109776076	OK	2	Patronale Kader Wohlfahrtsstiftung Sebastian Müller AG	7	Bohler		6221	Rickenbach
+CHE109776076	OK	2	Patronale Kader Wohlfahrtsstiftung Sebastian Müller AG	7	Bohler		6221	Rickenbach
+CHE100790785	OK	2	Axi Holding AG	3	Malzgasse	15	4052	Basel
+CHE110345139	OK	2	Friderici Services SA	3	route du Molliau		1131	Tolochenaz
+CHE109717116	OK	2	Wohlfahrtsfonds der Bürstenfabrik Ebnat-Kappel AG	7	Industriestrasse	34	9642	Ebnat-Kappel
+CHE323444562	OK	2	CaraBird GmbH	4	Glattalstrasse	521	8153	Rümlang
+CHE338386672	OK	1	Tobias Dietrich	0101	Forchstrasse	340	8008	Zürich
+CHE222398114	OK	1	Reto Sutter	0101	Forchstrasse	340	8008	Zürich
+CHE116089319	OK	1	Christian W.A. Pfirrmann	0101	Forchstrasse	340	8008	Zürich
+CHE109776076	OK	2	Patronale Kader Wohlfahrtsstiftung Sebastian Müller AG	7	Bohler		6221	Rickenbach
+CHE113279148	OK	2	ARGOT Lab Holding SA	3	Rue du Liseron	5	1006	Lausanne
+CHE115620005	OK	1	Arge Gattoni Impresa Costruzioni SA & LGV Impresa costruzioni SA	0302	Viale Officina	6	6500	Bellinzona
+CHE111727070	OK	2	Orthopädie im Zentrum AG	3	Rosenbergstrasse	42 b	9000	St. Gallen
+CHE361243415	OK	2	DOM Fibertech AG	9	Via Magazzini Generali	8	6828	Balerna
+CHE329247310	NOK	1						
+CHE158793950	OK	1	Christian Harald Mauch	0101	St. Johanns-Vorstadt	86	4056	Basel
+CHE109776076	OK	2	Patronale Kader Wohlfahrtsstiftung Sebastian Müller AG	7	Bohler		6221	Rickenbach
+CHE116118211	OK	1	Johannes Reimann	0101	Weinmarkt	9	6004	Luzern
+CHE497453092	OK	1	Keller Hydraulik	0101	Joderstrasse	1	6221	Rickenbach
+CHE107544230	OK	2	JNJ immo SA	3	Impasse de la Maladaire	5	1680	Romont FR
+CHE365720667	OK	2	AS Garage Vranja	1	Feldmattstrasse	34	6032	Emmen
+CHE114504678	OK	1	Atlas Copco Customer Finance Ab Schweden	0312	Büetigenstrasse	80	2557	Studen BE
+CHE114504678	OK	1	Atlas Copco Customer Finance Ab Schweden	0312	Büetigenstrasse	80	2557	Studen BE
+CHE102829027	OK	2	EGLESIA AG	3	Rue de l'Industrie	45	1630	Bulle
+CHE102829027	OK	2	EGLESIA AG	3	Rue de l'Industrie	45	1630	Bulle
+CHE102829027	OK	2	EGLESIA AG	3	Rue de l'Industrie	45	1630	Bulle
+CHE102829027	OK	2	EGLESIA AG	3	Rue de l'Industrie	45	1630	Bulle
+CHE102829027	OK	2	EGLESIA AG	3	Rue de l'Industrie	45	1630	Bulle
+CHE102829027	OK	2	EGLESIA AG	3	Rue de l'Industrie	45	1630	Bulle
+CHE102829027	OK	2	EGLESIA AG	3	Rue de l'Industrie	45	1630	Bulle
+CHE109776076	OK	2	Patronale Kader Wohlfahrtsstiftung Sebastian Müller AG	7	Bohler		6221	Rickenbach
+CHE356402091	OK	1	Atelier de Lutherie HILLEWAERE	0101	Rue de Villa	1	3960	Sierre
+CHE259266783	OK	2	Cadillac Europe GmbH	4	Stelzenstrasse	4	8152	Glattpark (Opfikon)
+CHE113279148	OK	2	ARGOT Lab Holding SA	3	Rue du Liseron	5	1006	Lausanne
+CHE104851196	OK	2	AXAM AG	3	Hüttenwiesenstrasse	4	8108	Dällikon
+CHE321120545	OK	1	Benoit Rizk	0101	Rue du Centre	12	1752	Villars-sur-Glâne
+CHE105769479	OK	2	Davos Destinations-Organisation (Genossenschaft)	5	Talstrasse	41	7270	Davos Platz
+CHE109871504	OK	2	Fischer Gipsergeschäft GmbH	4	Eistrasse	8 a	6102	Malters
+CHE106051404	OK	2	Synergie (Suisse) SA	3	route de la Gare	36	2012	Auvernier
+CHE114938580	OK	2	AIA Arico Invest AG	3	Flughofstrasse	50	8152	Glattbrugg
+CHE114938580	OK	2	AIA Arico Invest AG	3	Flughofstrasse	50	8152	Glattbrugg
+CHE155756585	NOK	1						
+CHE310478712	OK	2	A-Z Wäscherei AG	3	Baumackerstrasse	46	8050	Zürich
+CHE116175485	OK	1	Robert Gembler	0101	Bahnhofplatz	3	8400	Winterthur
+CHE304567247	OK	2	Bluprisma Sagl	4	via Cantonale	53	6805	Mezzovico
+CHE390482382	OK	1	Stefan Kainz	0101	Schützenwiese	8	9451	Kriessern
+CHE116142103	OK	1	Maria-Lucia Demont	0101	Centralbahnstrasse	20	4051	Basel
+CHE106840795	OK	2	TOPNET SA (VD)	3	Rue de la Mouline	8	1022	Chavannes-Renens
+CHE158371603	OK	1	Consorzio Ghielmimport SA & Planfer SA	0302	Via Cantonale		6805	Mezzovico
+CHE303354683	OK	1	Steffen Karl Geiger	0101	Düngerstrasse	81	4133	Pratteln
+CHE106051404	OK	2	Synergie (Suisse) SA	3	route de la Gare	36	2012	Auvernier
+CHE132580714	OK	1	Nina Raslova ép. Hassani	0101	Route de Châtillon	10	2830	Courrendlin
+CHE101940946	OK	2	WELS Kunststoffveredelung AG in Liquidation	3	Industriestrasse	10	2553	Safnern
+CHE109776076	OK	2	Patronale Kader Wohlfahrtsstiftung Sebastian Müller AG	7	Bohler		6221	Rickenbach
+CHE109776076	OK	2	Patronale Kader Wohlfahrtsstiftung Sebastian Müller AG	7	Bohler		6221	Rickenbach
+CHE116151556	OK	1	Martin Schubert	0101	Forchstrasse	340	8008	Zürich
+CHE253043888	OK	1	Apostolos Voulgarakis	0101	Bahnhofplatz	10a	3011	Bern
+CHE169025016	OK	2	Bolat Sanitär, Heizung und Reparaturen	1	Industriestrasse	42	8304	Wallisellen
+CHE113279148	OK	2	ARGOT Lab Holding SA	3	Rue du Liseron	5	1006	Lausanne
+CHE106051404	OK	2	Synergie (Suisse) SA	3	route de la Gare	36	2012	Auvernier
+CHE106051404	OK	2	Synergie (Suisse) SA	3	route de la Gare	36	2012	Auvernier
+CHE105632099	OK	2	Chektone GmbH	4	Looslistrasse	15	3027	Bern
+CHE105632099	OK	2	Chektone GmbH	4	Looslistrasse	15	3027	Bern
+CHE428589240	OK	1	Barbara Josefa Meyer	0101	Könizstrasse	233	3097	Liebefeld
+CHE105894736	OK	2	A. Tschümperlin AG, Baustoffe	3	Oberneuhofstrasse	5	6340	Baar
+CHE107942487	OK	2	CRC Immobilien + Beratungs AG	3	Hauptstrasse	55	4147	Aesch
+CHE115302344	OK	2	AFW Immobilien & Beteiligungen AG	3	Riedstrasse	1	6343	Rotkreuz
+CHE105616350	OK	2	Assainissements et Rénovations AR S.à r.l.	4	Rue de l'Arc-en-Ciel	22	1030	Bussigny-Lausanne
+CHE106051404	OK	2	Synergie (Suisse) SA	3	route de la Gare	36	2012	Auvernier
+CHE104432557	NOK	1						
+CHE100924749	OK	2	Challande & fils Holding S.à r.l.	4	Route de Duillier	18	1260	Nyon
+CHE213060142	OK	1	Christoph Senn	0101	Belpstrasse	11	3007	Bern
+CHE115620005	OK	1	Arge Gattoni Impresa Costruzioni SA & LGV Impresa costruzioni SA	0302	Viale Officina	6	6500	Bellinzona
+CHE272172411	OK	2	GMG Domgjoni GmbH	4	Schlösslistrasse	41a	6030	Ebikon
+CHE106477737	OK	2	Deschwanden Pflästerungen AG	3	Fitzerweg	11	3715	Adelboden
+CHE174060099	NOK	1						
+CHE108050580	OK	2	Alfaring AG	3	Badenerstrasse	808	8048	Zürich
+CHE105945397	OK	2	ACB Immo AG	3	Landstrasse	151	5430	Wettingen
+CHE106234726	OK	1	Antonino Angelone	0101	Rue de l'Orangerie	5	1202	Genève
+CHE110345139	OK	2	Friderici Services SA	3	route du Molliau		1131	Tolochenaz
+CHE106015638	OK	2	Danz Autofinish	1	Neufeldweg	4	3324	Hindelbank
+CHE109776076	OK	2	Patronale Kader Wohlfahrtsstiftung Sebastian Müller AG	7	Bohler		6221	Rickenbach
+CHE109721804	OK	2	Pensionskasse H. Goessler AG in Liquidation	7	Binzstrasse	24	8045	Zürich
+CHE298683966	OK	2	ENNETSeeKLINIK für Kleintiere AG, Zweigniederlassung Frauenfeld	9	Schaffhauserstrasse	74	8500	Frauenfeld
+CHE240055385	OK	1	Günter Friedrich Bernhard Frings	0101	Marktgasse	17	2502	Biel/Bienne
+CHE107433300	OK	2	Conzzeta AG	3	Giesshübelstrasse	45	8045	Zürich
+CHE287948847	OK	1	Benjamin Kramer	0101	Rue de la Paix	27	1630	Bulle
+CHE204996671	OK	1	Davide Mazzi	0101	Rue de la Toula	20	1630	Bulle
+CHE102004475	OK	2	RUTZ Gruppe AG	3	Wibachstrasse	3	8153	Rümlang
+CHE106051404	OK	2	Synergie (Suisse) SA	3	route de la Gare	36	2012	Auvernier
+CHE368974709	OK	1	Salah Eddine Hassani	0101	Route de Châtillon	10	2830	Courrendlin
+CHE106822840	OK	2	Herren Immobilien GmbH	4	Gfennstrasse	2	8603	Schwerzenbach
+CHE109779838	OK	2	Personalfürsorgestiftung der Firma Peka-Metall AG	7	Luzernerstrasse	20	6295	Mosen
+CHE109779838	OK	2	Personalfürsorgestiftung der Firma Peka-Metall AG	7	Luzernerstrasse	20	6295	Mosen
+CHE376074245	OK	1	PRAXIS NAIR	0101	Bahnhofstrasse	11	3294	Büren an der Aare
+CHE106051404	OK	2	Synergie (Suisse) SA	3	route de la Gare	36	2012	Auvernier
+CHE115985518	OK	1	Etat de Fribourg, Service des bâtiments	0221	Route des Daillettes	6	1700	Fribourg
+CHE351223813	OK	2	Auto Service Vasic	1	Büessikon	2	6340	Baar
+CHE495719008	OK	1	Tanja Merten	0101	Susann-Müller-Strasse	6	9630	Wattwil
+CHE107767497	OK	2	Christophe Beer	1	Rue de la Promenade	21	1630	Bulle
+CHE110086363	OK	2	EQUAL Software AG	3	Bachstrasse	38	4654	Lostorf
+CHE434306947	OK	2	Doni Reinigung Avdilji	1	Hauptstrasse	128	8280	Kreuzlingen
+CHE266941615	OK	2	Treubera.ch AG	9	Bremgartnerstrasse	16	8003	Zürich
+CHE454868786	OK	1	Sergio Nava	0101	Avenue de la Gare	14	1700	Fribourg
+CHE116163950	OK	1	Svenja Roeske	0101	St.Leonhard-Strasse	31	9000	St. Gallen
+CHE104851196	OK	2	AXAM AG	3	Hüttenwiesenstrasse	4	8108	Dällikon
+CHE104851196	OK	2	AXAM AG	3	Hüttenwiesenstrasse	4	8108	Dällikon
+CHE109776076	OK	2	Patronale Kader Wohlfahrtsstiftung Sebastian Müller AG	7	Bohler		6221	Rickenbach
+CHE109776076	OK	2	Patronale Kader Wohlfahrtsstiftung Sebastian Müller AG	7	Bohler		6221	Rickenbach
+CHE102441396	OK	2	Aepli Immo AG	3	Industriestrasse	15	9200	Gossau
+CHE325389023	OK	2	Taxi 2.0 di Carpino Giacomo	1	Piazza Brocchi	1	6926	Montagnola
+CHE181277971	OK	1	Ebrahim Tawfik Ahmed Al-Towayti	0101	Frutigenstrasse	2a	3600	Thun
+CHE109776076	OK	2	Patronale Kader Wohlfahrtsstiftung Sebastian Müller AG	7	Bohler		6221	Rickenbach
+CHE116117683	OK	1	Sibylle Marianne Lutz Eaton	0101	Langhaus	2	5400	Baden
+CHE170132541	OK	1	Michael Schmitter	0101	Frutigenstrasse	2a	3600	Thun
+CHE259516661	OK	1	Lisa Grimm	0101	Marktgasse	63	3011	Bern
+CHE221394705	OK	2	Oekopflege, D. Huber	1	Obermühlestrasse	1	8450	Andelfingen
+CHE193593829	OK	2	Fondation de Soutien à l'Espérance	7	Route de Lavigny	7	1163	Etoy
+CHE105616350	OK	2	Assainissements et Rénovations AR S.à r.l.	4	Rue de l'Arc-en-Ciel	22	1030	Bussigny-Lausanne
+CHE110428937	OK	2	C. Roell	1	Sandbreitestrasse	12	8280	Kreuzlingen
+CHE110377814	OK	2	Stiftung Personalvorsorgefonds der Firma Bäckerei-Konditorei Hug AG	7	Grossmatte	22	6014	Luzern
+CHE104851196	OK	2	AXAM AG	3	Hüttenwiesenstrasse	4	8108	Dällikon
+CHE106051404	OK	2	Synergie (Suisse) SA	3	route de la Gare	36	2012	Auvernier
+CHE331705049	OK	2	Schalla plattenleger ABDO	1	Sulzerstr.	7	4054	Basel
+CHE100924749	OK	2	Challande & fils Holding S.à r.l.	4	Route de Duillier	18	1260	Nyon
+CHE106051404	OK	2	Synergie (Suisse) SA	3	route de la Gare	36	2012	Auvernier
+CHE106051404	OK	2	Synergie (Suisse) SA	3	route de la Gare	36	2012	Auvernier
+CHE360456322	OK	2	Schweizer Michael Restaurant Englers am See	1	Hauptstrasse	56	9400	Rorschach
+CHE106051404	OK	2	Synergie (Suisse) SA	3	route de la Gare	36	2012	Auvernier
+CHE106051404	OK	2	Synergie (Suisse) SA	3	route de la Gare	36	2012	Auvernier
+CHE106051404	OK	2	Synergie (Suisse) SA	3	route de la Gare	36	2012	Auvernier
+CHE376540135	OK	2	Sarah Natter The Unicates - Möbel für Einzigartige	1	Oberrickenstrasse	22	8727	Walde
+CHE365941398	OK	1	Sascha Dunst	0101	Herzogstrasse	10	5000	Aarau
+CHE105778998	OK	2	Bad Rheinfelden AG	3	Roberstenstrasse	31	4310	Rheinfelden
+CHE145479792	NOK	1						
+CHE395776595	OK	1	Gabriela Meister	0101	Graben	9	5000	Aarau
+CHE164458106	OK	2	ABC Tablette Bocherens	1	Chemin du Bosquet	38	1030	Bussigny-Lausanne
+CHE106051404	OK	2	Synergie (Suisse) SA	3	route de la Gare	36	2012	Auvernier
+CHE425818378	OK	1	Thomas Alexander Thaler	0101	Corneliastrasse	6	8965	Berikon
+CHE377813092	OK	1	Riad Darsouni	0101	Rue du Léman	18b	1920	Martigny
+CHE326274233	NOK	1						
+CHE409633691	OK	2	Egli Gartenbau AG Sursee	3	Leopoldstrasse	6	6210	Sursee
+CHE108008247	OK	2	Georges Michel	1			1543	Grandcour
+CHE400187573	OK	1	Werner Walter Mann	0101	Ettiswilerstrasse	4	6130	Willisau
+CHE114504678	OK	1	Atlas Copco Customer Finance Ab Schweden	0312	Büetigenstrasse	80	2557	Studen BE
+CHE380071698	OK	2	ADOMAS GmbH	4	Ebikonerstrasse	75	6043	Adligenswil
+CHE112555328	OK	2	SWISS PALETTES SA	3	Chemin de Praz	22	1023	Crissier
+CHE113518318	OK	1	Industrielle Betriebe Langenthal, Elektrizitätsversorgung	0223	Talstrasse	29	4900	Langenthal
+CHE106051404	OK	2	Synergie (Suisse) SA	3	route de la Gare	36	2012	Auvernier
+CHE115694920	OK	1	Rudolf O. Kissling	0101	Forchstrasse	340	8008	Zürich
+CHE488750289	OK	2	bigmove by bigi maier	1	Kasernenstrasse	3 D	8184	Bachenbülach
+CHE429514227	OK	1	Christian Haupt	0101	Rosenbergstrasse	16	9000	St. Gallen
+CHE141282196	OK	1	Ramzi Chatti	0101	Avenue de Champel	42	1206	Genève
+CHE348353510	OK	1	Tobias Peter Gissler	0101	Clarastrasse	57	4058	Basel
+CHE411943209	OK	1	Bernhard Emanuel Gerhard Müller	0101	Löwenstrasse	12	8001	Zürich
+CHE109776076	OK	2	Patronale Kader Wohlfahrtsstiftung Sebastian Müller AG	7	Bohler		6221	Rickenbach
+CHE101265949	OK	2	Audemars Piguet Holding S.A.	3	route de France	16	1348	Le Brassus
+CHE132358848	OK	2	Abercrombie & Kent (Switzerland) GmbH	4	Sägereistrasse	20	8152	Glattbrugg
+CHE114463795	OK	2	ABIRK SA	3	Via Cantonale	18	6928	Manno
+CHE297532218	NOK	1						
+CHE103428837	OK	2	Akris Prêt-à-Porter AG	3	Kalabinth	21	9042	Speicher
+CHE116312345	OK	1	MWST-Gruppe Feusi Bildungszentrum AG	0302			3014	Bern
+CHE206951550	OK	1	Rasco Karl-Heinz Walter Brietze	0101	Bahnhofpassage		8001	Zürich
+CHE441001134	OK	2	Weilach, Planen Bauen Engineering	1	Untere Dünnernstrasse	33	4612	Wangen b. Olten
+CHE255777978	OK	1	Peter Vartok	0101	Rosenhof	1	8808	Pfäffikon SZ
+CHE400333113	OK	2	HIRSACHER AG	3	Kirchenrain	14	6374	Buochs
+CHE109819231	OK	2	mimacom ag	3	Morgenstrasse	136 A	3018	Bern
+CHE111697919	OK	2	Stiftung Verkehrshaus der Schweiz	7	Lidostrasse	5	6006	Luzern
+CHE262279289	OK	2	STUDIO MEDICO DI SARA FUMAGALLI	1	Via Curti	19	6900	Lugano
+CHE209486130	OK	1	Michael Kingerter	0101	Bahnhofstrasse	18	8253	Diessenhofen
+CHE109776076	OK	2	Patronale Kader Wohlfahrtsstiftung Sebastian Müller AG	7	Bohler		6221	Rickenbach
+CHE113652336	OK	2	Livesystems Holding AG	3	Waldeggstrasse	37	3097	Liebefeld
+CHE113123322	NOK	1						
+CHE328365993	NOK	1						
+CHE353584009	OK	1	Martin David Thurnheer	0101	Brauerstrasse	95	9016	St. Gallen
+CHE393399837	OK	1	Pancho Todorov Panchev	0101	Wydäckerring	148	8047	Zürich
+CHE440737184	OK	1	Marcel Tièche	0101	Marktplatz	9	2540	Grenchen
+CHE269422352	OK	1	Sigrid Ulrike Treu	0101	St.Leonhard-Strasse	31	9000	St. Gallen
+CHE116170950	OK	1	Matthias Krull	0101	Frutigenstrasse	2a	3600	Thun
+CHE416013683	OK	2	Bati Almeida, Titulaire João Almeida	1	Rue de la Vudalla	33	1630	Bulle
+CHE458637694	OK	1	Savas Cetintav	0101	Luzernerstrasse	17	6025	Neudorf
+CHE368555790	OK	1	Almedina Fiessinger	0101	Fasanenweg	4	3604	Thun
+CHE267290447	NOK	1						
+CHE453152567	NOK	1						
+CHE489456504	OK	1	Line Marlyse Zürcher Pfund	0101	Chemin des Grangettes	7	1224	Chêne-Bougeries
+CHE109776076	OK	2	Patronale Kader Wohlfahrtsstiftung Sebastian Müller AG	7	Bohler		6221	Rickenbach
+CHE183856648	OK	2	Défisport, Serge & Annick Meystre	2	Route des Rottes	8	1964	Conthey
+CHE139352798	OK	1	Levent Fidan	0101	Bahnhofplatz	10a	3011	Bern
+CHE349406793	NOK	1						
+CHE115194534	OK	2	Hotelcard AG	3	Hofstettenstrasse	15	3600	Thun
+CHE207131696	OK	1	Petra Hofmänner	0101	Max-Daetwyler-Platz	2	3014	Bern
+CHE107305576	OK	2	Verein BBI Züri West	6	Hardturmstrasse	175	8005	Zürich
+CHE407282741	OK	1	Jean-Louis François Dumas	0101	Panoramastrasse	20	3854	Oberried am Brienzersee
+CHE402278962	OK	2	Aloussy Qualität auf Mass	1	Lorzenmatt	11	6332	Hagendorn
+CHE105860217	OK	2	Dosim SA	3	chemin du Pré-Fleuri	5	1228	Plan-les-Ouates
+CHE180507921	OK	2	Wohn Collection Stofer GmbH	4	Solothurnstrasse	180	2540	Grenchen
+CHE113569758	OK	1	Klaus-Arno Siebenrock	0101	Freiburgstrasse	18	3010	Bern
+CHE344208033	OK	1	Katharina Rösler	0101	Mellingerstrasse	207	5405	Dättwil AG
+CHE498894731	OK	1	Danijel Besic Loredan	0101	Steinweg	1	9052	Niederteufen
+CHE109733397	OK	2	Personalvorsorgestiftung der Firma Settelen AG	7	Türkheimerstrasse	17	4055	Basel
+CHE109777650	OK	2	Fonds de prévoyance en faveur du personnel de Mécanor SA	7	Erlenstrasse	52	2555	Brügg bei Biel
+CHE332357608	OK	1	Basem Al Dalfi	0101	Luzernerstrasse	3	6252	Dagmersellen
+CHE443788835	OK	1	Bettina Maria Schembra	0101	Kawazen	7	8536	Hüttwilen
+CHE280159714	OK	2	SWISS RISK & CARE HOLDING SA	3	route de Thonon	63	1222	Vésenaz
+CHE496027781	OK	2	Alpintechnik Jakob	1	Neuschellstrasse	21	6314	Unterägeri
+CHE325608509	OK	1	Pascal Christophe Kämpfen	0101	Riedgassa	2	3911	Ried-Brig
+CHE109595379	OK	2	LEUENBERGER CONSULTING	1	Türliacherweg	1	3629	Jaberg
+CHE267471486	OK	1	Nora Oelbermann	0101	Laupenstrasse	35	3008	Bern
+CHE113469683	NOK	1						
+CHE199818116	OK	2	Cortinas Reichlin Partners AG	9	Untere Bahnhofstrasse	25	8340	Hinwil
+CHE115796207	OK	2	Schaffner Handels AG	3	Gewerbestrasse	13	4512	Bellach
+CHE497613970	OK	2	Willy Niederer Transporte AG	3	Rheinstrasse	219	7000	Chur
+CHE115796207	OK	2	Schaffner Handels AG	3	Gewerbestrasse	13	4512	Bellach
+CHE196252684	OK	2	P. Egli Mechanische Arbeiten	1	Schruffeneggweid	1	6114	Steinhuserberg
+CHE246747688	OK	1	Johannes Christoph Engesser	0101	Alte Bremgartenstrasse	2	8965	Berikon
+CHE112143799	OK	2	Eberle & Partner Holding AG	3	Grofstrasse	34	8887	Mels
+CHE110392179	OK	2	Patronale Stiftung der Firma Friedrich Witschi AG	7	Murgenthalstrasse	87	4900	Langenthal
+CHE294593933	OK	1	Carmen Picht	0101	Rue de la Vigie	5	1003	Lausanne
+CHE255343373	OK	2	Zahnarztpraxis Weite Gasse med. dent. Pajaziti Bosco	1	Weite Gasse	7	5400	Baden
+CHE163866201	OK	2	Wassermann Forst- und Bauservice	1	Ringstrasse	10	8854	Siebnen
+CHE110130047	OK	2	CSS Kranken-Versicherung AG	3	Tribschenstrasse	21	6005	Luzern
+CHE494221800	OK	2	TZ Service Zulic	1	Zugerstrasse	183	6314	Unterägeri
+CHE102712282	NOK	1						
+CHE145978368	OK	1	Nestor Papoutsis	0101	Bleicheplatz	3	8200	Schaffhausen
+CHE116117772	OK	1	Carolin Irmgard Schilling	0101	Langhaus	2	5400	Baden
+CHE436007711	OK	1	Arge Zita Cotti / Jaeger Baumanagement AG	0302	Schindlerstrasse	26	8006	Zürich
+CHE109776076	OK	2	Patronale Kader Wohlfahrtsstiftung Sebastian Müller AG	7	Bohler		6221	Rickenbach
+CHE106169106	NOK	1						
+CHE109776076	OK	2	Patronale Kader Wohlfahrtsstiftung Sebastian Müller AG	7	Bohler		6221	Rickenbach
+CHE109776076	OK	2	Patronale Kader Wohlfahrtsstiftung Sebastian Müller AG	7	Bohler		6221	Rickenbach
+CHE115523721	OK	1	Michel Starobinski	0101	Route de Chancy	98	1213	Onex
+CHE404210136	OK	2	Malerei Gina Keller	1	Auliweg	26	6424	Lauerz
+CHE178567210	OK	2	ZO + Clean Service Inhaberin L. Berat	1	Brandstrasse	6	8340	Hinwil
+CHE471889447	OK	1	Ctrl Domotique Stettler	0101	chemin de la Pépinière	18	1213	Petit-Lancy
+CHE385089866	OK	1	Pascal Philippe Rufener	0101	Rue Micheli-du-Crest	24	1205	Genève
+CHE466745185	OK	2	Rundum - Zentrum für ambulante Chirurgie AG	3	Husmatt	1	5405	Dättwil
+CHE116076311	OK	1	Claudia Radon	0101	Bahnhofplatz	3	8400	Winterthur
+CHE386873124	OK	2	Pirmin Ulrich	1	Langegg	1	6403	Küssnacht SZ
+CHE110392179	OK	2	Patronale Stiftung der Firma Friedrich Witschi AG	7	Murgenthalstrasse	87	4900	Langenthal
+CHE109776076	OK	2	Patronale Kader Wohlfahrtsstiftung Sebastian Müller AG	7	Bohler		6221	Rickenbach
+CHE116108075	OK	1	Doris Höping	0101	Lagerhausstrasse	10	8400	Winterthur
+CHE384422845	OK	2	Burkhalter Net Works, Zweigniederlassung der Burkhalter Technics AG	9	Hohlstrasse	475	8048	Zürich
+CHE112952617	OK	2	Urs Manser Tiefbau	1	Triebernstrasse	43	9057	Weissbad
+CHE318878802	OK	1	Ramon Studer	0101	Grand-Rue	26	2735	Malleray
+CHE109717116	OK	2	Wohlfahrtsfonds der Bürstenfabrik Ebnat-Kappel AG	7	Industriestrasse	34	9642	Ebnat-Kappel
+CHE115674952	OK	1	Lukas Beat Krapf	0101	Unterdorfstrasse		5707	Seengen
+CHE116117559	OK	1	Laura Anna Gillmann	0101	Langhaus	2	5400	Baden
+CHE195458510	OK	2	Ristogastro SA in liquidazione	3	Viale Stazione	29	6500	Bellinzona
+CHE400828142	OK	1	Manfred Daniel Imesch	0101	Bremgartenstrasse	119	3012	Bern
+CHE336128774	NOK	1						
+CHE428167459	OK	2	Little Poppy - Chevalier	1	Verger-l'Ecuyer	6	2068	Hauterive NE
+CHE105655545	OK	2	CM Malergeschäft GmbH	4	Zürcherstrasse	37 b	8852	Altendorf
+CHE335608190	OK	1	AUTO-MARCHE SION, DEMIRI NEXHAT	0101	Route de Préjeux	1	1950	Sion
+CHE464373256	OK	1	Ioannis Papagiannakis	0101	Alte Bremgartenstrasse	2	8965	Berikon
+CHE107305576	OK	2	Verein BBI Züri West	6	Hardturmstrasse	175	8005	Zürich
+CHE173278170	OK	1	Hans Georg Franz Fischer	0101	Alte Bremgartenstrasse	2	8965	Berikon
+CHE403349671	NOK	1						
+CHE224393412	OK	1	Julia Brigitte Bühner	0101	Bahnhofplatz	10a	3011	Bern
+CHE116449814	OK	1	Sonja von Moeller	0101	Chamerstrasse	50	6300	Zug
+CHE262402503	OK	1	Ali Ben Sarraj	0101	Faubourg de l'Hôpital	81	2000	Neuchâtel
+CHE116288014	OK	1	MWST-Gruppe Gastrag AG	0302	Elisabethenanlage	7	4051	Basel
+CHE235775686	OK	1	Sonja Saudan-Frei	0101			1200	Genève
+CHE357574300	NOK	1						
+CHE418916998	OK	2	Ganija AG, Haustechnik - Heizungen - Sanitär	3	Schaffhauserstrasse	73	8472	Seuzach
+CHE216656762	NOK	1						
+CHE392552094	OK	1	Christiane Rörig	0101	Forchstrasse	340	8008	Zürich
+CHE109776076	OK	2	Patronale Kader Wohlfahrtsstiftung Sebastian Müller AG	7	Bohler		6221	Rickenbach
+CHE302640695	OK	1	Mazda Farshad Tabrizi	0101	Forchstrasse	340	8008	Zürich
+CHE116276519	OK	1	Groupe TVA Hach Lange Sàrl	0302	Route de Compois	6	1222	Vésenaz
+CHE457774360	OK	1	Heiko Uthoff	0101	St.-Anna-Strasse	32	6006	Luzern
+CHE472081910	OK	2	3D tooldesign Sebastian Stürmer	1	Motorenstrasse	102	8620	Wetzikon ZH
+CHE211037534	OK	1	Ilze Haueter	0101	Neugasse	14	9400	Rorschach
+CHE407455792	NOK	1						
+CHE109776076	OK	2	Patronale Kader Wohlfahrtsstiftung Sebastian Müller AG	7	Bohler		6221	Rickenbach
+CHE455286196	OK	1	Kücükyildiz Firat Taxi	0101	Wülflingerstrasse	356	8408	Winterthur
+CHE157533027	OK	1	Thomas Josef Lehmann	0101	Frohbergstrasse	3	9000	St. Gallen
+CHE115260875	OK	1	Anna Elisabeth Deman	0101	Im Reinacherhof	53	4153	Reinach BL
+CHE464122441	OK	1	Basler Versicherung AG		Aeschengraben	21	4051	Basel
+CHE108400786	OK	2	Rolf Graber, Fiduciaire-Gérance	1	Envers	47	2400	Le Locle
+CHE158912433	OK	1	Marko André Jablanovic	0101	Kreuzweg	3	5400	Baden
+CHE114667783	OK	2	Lions Air Group AG	3	Verenastrasse	11	8832	Wollerau
+CHE101197911	OK	2	Fritz Schiess Holding AG	3	Floozstrasse, Wattwil		9620	Lichtensteig
+CHE354501931	OK	1	Abdulhakim SARRAJ	0101	Route de la Corniche	1	1066	Epalinges
+CHE291667357	OK	1	Vincent Maurice Paul Péquignot	0101	Rue de Conthey	54	1963	Vétroz
+CHE114483510	OK	2	Gander Roland	1	Cécile-Lauber-Gasse	4	6005	Luzern
+CHE107691227	OK	1	Miteigentümergemeinschaft Löwen-Center	0302	Zürichstrasse	7	6004	Luzern
+CHE101765620	OK	2	Rosi's Dorfladen Rosmarie Bäbler	1	Dörfli		8765	Engi
+CHE237069398	OK	2	Société Fiduciaire MOOR Sàrl	9	Route de Bellevue	7	2074	Marin-Epagnier
+CHE445578183	NOK	1						
+CHE109717116	OK	2	Wohlfahrtsfonds der Bürstenfabrik Ebnat-Kappel AG	7	Industriestrasse	34	9642	Ebnat-Kappel
+CHE106617984	OK	2	Pichler Treuhand	1	Ledi		3784	Feutersoey
+CHE367448022	OK	1	Kordula-Pia Stolzenburg	0101	Sonnenbergstrasse	27	8910	Affoltern am Albis
+CHE340392096	OK	1	Barbara Irina Ulmer	0101	General-Wille-Strasse	59	8706	Meilen
+CHE390986725	OK	2	Claudio Amaglio Falegname	1	Via Indipendenza	5	6883	Novazzano
+CHE114501763	OK	2	VistaJet Group Holding SA	3	Zugerstrasse	50	6341	Baar
+CHE112246608	OK	2	ATRYA Holding AG	3	Schochenmühlestrasse	4	6340	Baar
+CHE103496224	OK	2	STPC-Group 1 Holding AG	3	Zugerstrasse	74	6340	Baar
+CHE273569780	OK	1	Simon Petrus Stäuble	0101	Spitalstrasse	26a	8840	Einsiedeln
+CHE109069091	OK	2	Meier Bike und Bergsport Shop Gadmen	1	Obermad	343E	3863	Gadmen
+CHE102143881	OK	2	Peter Kwasny Holding	3	Rheinweg	39	8212	Neuhausen am Rheinfall
+CHE380760303	OK	2	Bickel Holding AG	3	Messenriet	2	8501	Frauenfeld
+CHE211231734	OK	1	lic. iur. oec. HSG David Zünd	0101	Neugasse	26	9000	St. Gallen
+CHE332807853	OK	1	Maziar Shafighi	0101	Mettlengässli	4	3074	Muri b. Bern
+CHE102888952	OK	2	RELAG Holding AG	3	Montanastrasse	6	6052	Hergiswil NW
+CHE110392179	OK	2	Patronale Stiftung der Firma Friedrich Witschi AG	7	Murgenthalstrasse	87	4900	Langenthal
+CHE114551761	OK	2	direco Holding AG	3	Oberer Gansbach	1	9050	Appenzell
+CHE299434578	OK	1	Salvador Nkondjo Minkoumou	0101	Avenue Léopold-Robert	60	2300	La Chaux-de-Fonds
+CHE109786034	OK	2	Vorsorgefonds Wartmann Technologie AG	7	Industriestrasse	14	4538	Oberbipp
+CHE462770617	OK	2	Battaglia Andeer Granit AG	3	Grava	121	7440	Andeer
+CHE455497385	OK	2	Copytrend Holding AG	3	Waldeggstrasse	30	3097	Liebefeld
+CHE393285033	OK	1	Walid Kroni	0101	Rue de Neuchâtel	1	1400	Yverdon-les-Bains
+CHE355888213	OK	2	Easy Transit Group SA	9	Via Brogeda	3	6830	Chiasso
+CHE109776076	OK	2	Patronale Kader Wohlfahrtsstiftung Sebastian Müller AG	7	Bohler		6221	Rickenbach
+CHE135034299	OK	1	HDI-Gerling Industrie Versicherung AG, Hannover, Niederlassung Zürich/Schweiz		Dufourstrasse	46	8008	Zürich
+CHE465441133	OK	2	Hoffmann Neopac Beteiligungen AG	3	Eisenbahnstrasse	71	3602	Thun
+CHE103516022	OK	2	IP Holding AG	3	Jägerweg	3	3627	Heimberg
+CHE114490237	OK	2	Permanence Winterthur AG	3	Bahnhofplatz	5	8400	Winterthur
+CHE220438398	OK	1	Anna Geiger	0101	Hauptstrasse	94a	9434	Au SG
+CHE217584651	OK	2	PLAN4 AG Architekten + Bauingenieure	3	Via Atria	5	7402	Bonaduz
+CHE369500188	OK	1	Arge Architekten Horcher GmbH & Schärli Architekten AG	0302	Fluhmattweg	6	6004	Luzern
+CHE112949963	OK	1	Groupement de bureaux Kurmann & Cretton SA - G. Rey-Bellet - P.A. Lation	0302	Route de Clos-Donroux	1	1870	Monthey
+CHE109776076	OK	2	Patronale Kader Wohlfahrtsstiftung Sebastian Müller AG	7	Bohler		6221	Rickenbach
+CHE109717116	OK	2	Wohlfahrtsfonds der Bürstenfabrik Ebnat-Kappel AG	7	Industriestrasse	34	9642	Ebnat-Kappel
+CHE474609259	NOK	1						
+CHE104051669	OK	2	S&P Insurance Group AG	3	Ringstrasse	27	6010	Kriens
+CHE101393961	OK	2	PRS Prime Re Holding AG	3	Lindenstrasse	2	6340	Baar
+CHE210687250	OK	1	Daniel Thomas Wolf	0101	Kauffmannweg	12	6003	Luzern
+CHE108091840	OK	2	Walter Ryter-Reichenbach	1	Gsteigstrasse		3780	Gstaad
+CHE199722976	OK	1	Martin Herrmann	0101	Gutenbergstrasse	4	9100	Herisau
+CHE474215848	OK	2	Autcomp AG	9	Unter Sagi	10	6362	Stansstad
+CHE390806579	OK	1	Marinella Gugliotta	0101	Rigistrasse	1	6330	Cham
+CHE374695778	OK	1	Nicolas Bernard Rueff	0101	Avenue de la Colline	3	1530	Payerne
+CHE136918887	OK	1	Jean Blaise Tudisco	0101	Route de Sion	14	3960	Sierre
+CHE109348467	OK	2	Marti AG Bauholding	3	Dorfstrasse	78	8766	Matt
+CHE409599580	OK	2	hör - express Nater	1	Frauenfelderstrasse	8	8555	Müllheim
+CHE366462551	OK	1	Claus Martin Cremer	0101	Ueberlandstrasse	14	3900	Brig
+CHE188877161	OK	2	ICP Intervention de crise et prévention - Carol Gachet Negro	1	Route d'Arnier	16	1092	Belmont-Lausanne
+CHE239836200	OK	1	Roger Huwyler	0101	Benkenstrasse	22	5024	Küttigen
+CHE102236531	OK	2	HACO Holding AG	3			3073	Gümligen
+CHE491197134	OK	2	Notfall-Pool Careanesth Permed AG	3	Stänzlergasse	4	4051	Basel
+CHE145731709	OK	1	Michael Kalt	0101	Leuggernstrasse	499	5325	Leibstadt
+CHE135694024	OK	1	Karin Innerhofer	0101	Ettiswilerstrasse	4	6130	Willisau
+CHE115680473	OK	1	Tomasz Waldemar Kujawski	0101	Vogelsang	84	2502	Biel/Bienne
+CHE228187722	NOK	1						
+CHE101158710	OK	2	Madas Holding AG	3	Güterstrasse	11	8957	Spreitenbach
+CHE395294126	OK	1	Matthias Baumann	0101	Bim Zytglogge	1	3011	Bern
+CHE238517293	OK	1	François Niggli - Gestion de la nature et géomatique	0101	rue de Saint-Jean	48	1203	Genève
+CHE380055021	OK	1	Arto Christian Nirkko	0101	Schlossstrasse	28	3098	Köniz
+CHE175508808	OK	2	TREBEMA AG	3	Hauptgasse	11	4600	Olten
+CHE114590442	OK	2	Echo Büromöbel AG	3	Huebstrasse	4	5043	Holziken
+CHE311214989	OK	1	Andrea Peggy Näpflin-Weekes	0101	Oberstmühle	1	6370	Stans
+CHE389697131	OK	2	Ruth Dolder GmbH in Liquidation	4	Mühlenstrasse	4	8260	Stein am Rhein
+CHE363848888	OK	1	Marek Nemec	0101	Via Nouva	3	7503	Samedan
+CHE179248003	OK	1	Katrin Flückiger Schild	0101	Aarbergergasse	24	3011	Bern
+CHE108178694	OK	2	Hasler Bau-Keramik	1	Büntelistrasse	1	9436	Balgach
+CHE448394248	OK	2	OFFICINA MECCANICA BERNARDASCI CLAUDIO	1	San Bartolomeo	19	6632	Vogorno
+CHE106182182	OK	2	Thurnherr Gebäudereinigung	1	Via Suot Chesas	15	7512	Champfèr
+CHE274013060	NOK	1						
+CHE101991688	OK	2	KPMG Holding AG	3	Badenerstrasse	172	8004	Zürich
+CHE249200185	OK	2	Rohrleitungsbau SLH AG	3	Bawangs	8	7204	Untervaz
+CHE139781840	OK	1	Karina Alexandra COBA ANTEQUERA	0101	Bahnhofplatz	10a	3011	Bern
+CHE364227140	OK	2	LafargeHolcim Helvetia Finance Ltd	3	Neue Jonastrasse	60	8640	Rapperswil
+CHE113893437	NOK	1						
+107904506	OK	2	Cent Systems AG	3	Solothurnstrasse	16	4573	Lohn-Ammannsegg
+CHE105904837	OK	2	CICA SA	3	Hochbergerstr.	60A	4057	Basel
+CHE449023323	OK	2	Waeber HMS Holding Sàrl	4	rue du Levant	17	2114	Fleurier
+CHE105983156	OK	2	Schellenberg Wittmer AG	3	Löwenstrasse	19	8001	Zürich
+CHE362886478	OK	1	Thien Luong-Quan	0101	Cours de Rive	2	1204	Genève
+CHE205114304	OK	1	Xuan-Cuong PHAM	0101	Rue Micheli-du-Crest	24	1205	Genève
+CHE107794407	OK	2	Häring & Co. AG	3	Tramstrasse	99	4132	Muttenz
+CHE229763752	OK	1	Anastasia Ilia	0101	Centralbahnstrasse	20	4051	Basel
+CHE449743386	OK	1	Sandra Christa Baumann	0101	Bubenbergplatz	8	3011	Bern
+CHE106338975	OK	1	Barbara Tobler	0101	Eichstrasse	4	8620	Wetzikon ZH
+CHE477140951	OK	1	CPM Construction - Giuriani	0101	chemin de la Malotte	18	1284	Chancy
+CHE174815171	OK	1	Angelina Zumstein	0101	Leuenstrasse	2	4702	Oensingen
+CHE336228878	OK	2	Thomas Kosin Holzbau und Energie	1	Andelfingerstrasse	13	8475	Ossingen
+CHE386375665	OK	2	Raeber MoRailSo AG	3	Rothmatte	7	6022	Grosswangen
+CHE107858800	OK	2	Air-Color SA	3	rue du Pré-Bouvier	8	1242	Satigny
+CHE110471583	OK	2	kumari fleurs M. Köppel	1	Bahnhofplatz	2	9326	Horn
+CHE423677173	OK	1	Mihai Liviu Ruja	0101	Alte Bremgartenstrasse	2	8965	Berikon
+CHE107483746	OK	2	Roth Gruppe AG	3	Bolacker	3	4564	Obergerlafingen
+CHE103360949	OK	2	WEALTHINGS (Mittelland) SA	3	Square des Places	1	1700	Fribourg
+CHE102951823	OK	2	Fideconto Holding SA	3			6534	San Vittore
+CHE100048349	OK	2	Heineken Beverages Switzerland AG	3	Obergrundstrasse	110	6005	Luzern
+CHE158175769	OK	2	Reichmuth Auto + Schiff	1	Industriestrasse	12A	8836	Bennau
+CHE491122662	OK	2	Calibo IT AG	3	Aastrasse	13	8853	Lachen SZ
+CHE474495240	OK	1	SITLog GmbH, Altenstadt an der Waldnaab, Zweigniederlassung Schweiz, Zürich	0111	Löwenstrasse	11	8001	Zürich
+CHE106097346	OK	2	Parta Private Haus- und Krankenpflege Engeli	1	Burggraben	26	9000	St. Gallen
+CHE489645494	OK	1	John Henri Robert	0101	Chemin des Grangettes	7	1224	Chêne-Bougeries
+CHE493064969	OK	1	Vincent Jacques Victor Bourdrel	0101	Faubourg de l'Hôpital	81	2000	Neuchâtel
+CHE115011912	OK	2	BaSys Holding AG	3	Gibelinstrasse	27	4500	Solothurn
+CHE116125932	OK	1	Francesco Tortorella	0101	Beethovenstrasse	7	8002	Zürich
+CHE106838829	OK	2	GRIBI REAL ESTATE AG	3	Birsstr.	320 B	4052	Basel
+CHE116171168	OK	1	Malgorzata Pietkiewicz	0101	Bahnhofplatz	10a	3011	Bern
+CHE345278510	OK	1	Simon Jörger	0101	Leuenstrasse	2	4702	Oensingen
+CHE240468267	OK	2	Estée Lauder Logistics GmbH	4	Breitackerstrasse	10	5505	Brunegg
+CHE441647017	OK	2	Christian Gindre et Nicolas Gerdil Architectes	2	rue des Vieux-Grenadiers	81205	1205	Genève
+CHE439183847	OK	2	GKS Cahenzli AG	3	Grossweid	8a	6026	Rain
+CHE100835123	OK	2	A. Schneider Société Anonyme	3	route de Saint-Julien	44	1227	Carouge GE
+CHE369982597	OK	1	Arge Marti Belchen	0302	Seedorffeldstrasse	21	3302	Moosseedorf
+CHE392148149	OK	2	Taxi und Limousinenservice Obwalden Stoller	1	Allmendstrasse	2	6060	Sarnen
+CHE418688691	OK	1	Lorenzo Vanini	0101	Corso San Gottardo	25	6830	Chiasso
+CHE151104780	OK	1	Agnes Maeder	0101	Strandbadstrasse	3	3800	Interlaken
+CHE113026877	OK	1	Haberkorn GmbH, Grosshandel, Wolfurt/A	0312	Musterplatzstrasse	3	9442	Berneck
+CHE263137806	OK	1	Wessam Arar	0101	Rue Centrale	9	1350	Orbe
+CHE115219022	OK	1	Treuhandbüro Nachbur,Pflugi	0302	Grammetstrasse	14	4410	Liestal
+CHE190043308	OK	1	Frank Oliver Faude	0101	Bahnhofstrasse	2	9435	Heerbrugg
+CHE111004037	OK	2	Egli Örgeli	1	Mösli	1	3464	Schmidigen-Mühleweg
+CHE323206815	OK	1	Inci Özerden	0101	Bahnhofplatz	10a	3011	Bern
+CHE171130898	OK	1	Isabelle Christine Bloetzer	0101	Kantonsstrasse	14a	3930	Visp
+CHE323458268	OK	1	Georgios Georgiou	0101	Rue de la Vigie	5	1003	Lausanne
+CHE228956283	OK	2	A à Z Emplois SA	9	rue Voltaire	8	1201	Genève
+CHE391794111	OK	2	Flury Planer + Ingenieure AG	3	Oberdorfstrasse	11	5703	Seon
+CHE276040754	OK	1	Tünde Katharina Breda	0101	Brünigstrasse	154	6060	Sarnen
+CHE114425932	OK	2	Föhn Beteiligungen AG	3	Grand Parc	8	6440	Brunnen
+CHE107256854	OK	2	Lüchinger AG	3	Mittelgasse	3	8888	Heiligkreuz (Mels)
+CHE490193286	OK	1	Georg Franziskus Bohn	0101	Lindenstrasse	10	6340	Baar
+CHE107533031	OK	1	Corinna Petra Barbara Bosshardt-Lührs	0101	Bahnhofplatz	9	8001	Zürich
+CHE114144516	OK	2	Flourister GmbH	4	Sihlquai	131	8005	Zürich
+CHE457001223	OK	1	Bahri Adis	0101	Dorfstrasse	28	5430	Wettingen
+CHE113530555	OK	1	Stadtverwaltung Chur, Grundbuchamt	0223	Poststrasse	37	7000	Chur
+CHE496833776	OK	1	Alain Gilbert Jean Perroud	0101	Route de Chêne	26	1207	Genève
+CHE167781696	OK	2	Peter Mock Kundenmaurer	1	Büelstrasse	16a	8545	Rickenbach ZH
+CHE116101216	OK	1	Claudio Fadri Dora	0101	Lengghalde	2	8008	Zürich
+CHE146267442	OK	2	MARC KOCHER Architekt	1	Widmerstrasse	27	8038	Zürich
+CHE210039772	OK	1	Robert Hauptmann	0101	Kantonsstrasse	60	8864	Reichenburg
+CHE394760315	OK	2	Beschriftungswerk Bolliger	1	Schosshaldenstrasse	36	3006	Bern
+CHE389407132	OK	1	Fabiana, Katrin Pazos	0101	Faubourg de l'Hôpital	81	2000	Neuchâtel
+CHE276113778	OK	1	Aletschpraxis Ralph Roten	0101	Furkastrasse	9	3904	Naters
+CHE179323449	OK	1	Erwin Theophiel Maria William Suys	0101	Rue du Scex	4	1950	Sion
+CHE101065474	OK	2	Geberit AG	3	Schachenstrasse	77	8645	Jona
+CHE103937659	OK	2	ERNI Group AG	3	Erlenrain	1	8832	Wollerau
+CHE110542740	OK	2	Sensile Medical AG	3	Fabrikstrasse	10	4614	Hägendorf
+CHE226273919	OK	1	HBG Service Mothes	0101	Tösstalstrasse	465	8498	Gibswil
+CHE295599973	OK	2	siegwart baumanagement ag	3	Kirchenrain	14	6374	Buochs
+CHE113076941	OK	2	SR Technics Holdco I GmbH	4	Flughofstrasse		8058	Zürich-Flughafen
+CHE232620509	OK	1	Tristan, Siavosh, Marc Zand	0101	Route de Chancy	98	1213	Onex
+CHE371212439	OK	1	Sofyann Boris Aurie	0101	Route André-Piller	16	1762	Givisiez
+CHE187142045	OK	1	Martina Rahel Bally	0101	Missionsstrasse	24	4055	Basel
+CHE234675591	OK	1	Cornelia Dorina Birta	0101	Theaterstrasse	14	8001	Zürich
+CHE109269141	OK	2	Gertrud Holinger-Teuscher	1	Archstrasse	1	8800	Thalwil
+CHE274537357	NOK	1						
+CHE423931851	OK	2	JCL CONSEILS, LAMONATO	1	chemin du Village-de-Perly	15	1258	Perly
+CHE497546121	OK	1	Amir Abbas Daneshpour	0101	Bahnhofstrasse	1	3600	Thun
+CHE485593906	NOK	1						
+CHE107746733	OK	2	Gonet & Cie SA	3	boulevard du Théâtre	6	1204	Genève
+CHE100706187	OK	2	Tannengut Immobilien AG	3	Tannengutweg	10	5600	Lenzburg
+CHE115209012	OK	2	SPS Beteiligungen Alpha AG	3	Frohburgstrasse	1	4601	Olten
+CHE242292068	OK	1	Ingo Schymanski	0101	Usterstrasse	2	8620	Wetzikon ZH
+CHE244216121	OK	1	Antonioli	0101	place de l'Octroi	1a	1227	Carouge GE
+CHE171579488	OK	1	Annette Meyer	0101	Zeughausgasse	22	9000	St. Gallen
+CHE460224491	OK	2	Theler Moos Ried-Brig AG	3	Widderfeld		3911	Ried-Brig
+CHE365546777	OK	2	Dental World Fribourg Dr. Med. Dent. Ignazio Scuto	1	Boulevard de Pérolles	63	1700	Fribourg
+CHE357920276	OK	2	Chelsea Village GmbH	4	Chalet Robinson		3906	Saas-Fee
+CHE444078239	OK	1	Caroline Julie Bovet	0101	Schaffhauserstrasse	115	8400	Winterthur
+CHE115974087	NOK	1						
+CHE460012954	OK	1	Bruno Stadelmann	0101	Industriestrasse	5	6182	Escholzmatt
+CHE179281472	OK	2	Bike Plan AG	9	Brückenweg	8	3930	Visp
+CHE258027721	OK	2	Christenholz AG	3	Konservenstrasse	51	8215	Hallau
+CHE306410964	OK	2	Theler Kinnmatten AG	3	Kanalstrasse West	36	3942	Niedergesteln
+CHE115136548	OK	2	Peter Lack, Coaching-Management-Ethik	1	Malzgasse	28	4052	Basel
+CHE107900371	OK	2	JOSEF WAGNER-STIFTUNG	7	Kesselbachstrasse		9450	Altstätten
+CHE301148670	OK	1	Andrej Fijan	0101	Oberstrasse	95	9000	St. Gallen
+CHE446275236	OK	2	Oldschoolgarage Salez Dürr	1	Bahnhof	2	9465	Salez
+CHE262667361	OK	1	László Dongó	0101	Route de Chavannes	9a	1007	Lausanne
+CHE110199978	OK	1	TD Design, Matteo Buvoli & Lorenzo Degiorgi	0302	Al Rià Piscen	6	6528	Camorino
+CHE269022449	OK	2	M & K Architektur Bau AG	3	Schönbergstrasse	33	3654	Gunten
+CHE116306698	OK	1	Alessandra Franzetti Pellanda	0101	Via Moncucco	10	6900	Lugano
+CHE163354527	OK	1	Caroline Joëlle Joséphine Dombrowski	0101	Grand-Rue	14	1680	Romont FR
+CHE242142606	OK	1	Sabine Kaps	0101	Höfligasse	11	6460	Altdorf UR
+CHE115404513	OK	1	Christoph Tschan	0101	Reinacherstrasse	28	4142	Münchenstein
+CHE435141011	OK	2	Raphaël Marchetti SA	9	Route de Verbier Station	61	1936	Verbier
+CHE110442788	OK	2	Hofmann Dänzer Bau & Management AG	3	Auriedweg	60	3178	Bösingen
+CHE214016149	OK	1	Robert Escande	0101	Chemin de Grandval	141	2746	Crémines
+CHE381912030	OK	1	Marcelo Sebastian Walker	0101	Luzernerstrasse	11	6010	Kriens
+CHE101618657	OK	2	Wero Holding AG	3	Eggasse	4	4852	Rothrist
+CHE479334673	OK	1	Rubina Syed	0101	Limmattalstrasse	177	8049	Zürich
+CHE446877010	OK	2	dataport consulting AG	3	Lättichstrasse	6	6340	Baar
+CHE309123917	OK	1	Fabien Degeorges	0101	Rue du Léman	18b	1920	Martigny
+CHE483048288	OK	1	Martina Stummvoll	0101	Marktgasse	17	2502	Biel/Bienne
+CHE333721898	NOK	1						
+CHE407252852	OK	1	Claudia Pouskoulas	0101	Luzernerstrasse	64	6010	Kriens
+CHE160940433	OK	1	Ines Raineri-Gerber	0101	Hagmattstrasse	14	4123	Allschwil
+CHE214831072	OK	1	Jan Schmidt	0101	Kappelistrasse	7	8002	Zürich
+CHE452702086	OK	1	Hak Hong Keo	0101	Aarenaustrasse	2b	5000	Aarau
+CHE393528419	OK	1	Patrick Oliver Zingg	0101	Forchstrasse	340	8008	Zürich
+CHE165383706	OK	1	Stjepan Pervan	0101	Alte Bremgartenstrasse	2	8965	Berikon
+CHE328915439	OK	1	Gabriel Süess	0101	Schwarzenburgstrasse	257	3098	Köniz
+CHE348114135	OK	1	Physiomed Coufal	0101	Allmendweg	1	5621	Zufikon
+CHE185786987	OK	1	Miguel Angei Ulla	0101	Rue du Léman	18b	1920	Martigny

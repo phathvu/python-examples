@@ -1,0 +1,1000 @@
+1	1	CHE-196.629.659	Diamond Beauty Valérie Zahler		Hornbachstrasse	68	8008	Zürich		CH				20170101																				
+2	1	CHE-292.544.786	Sonnergie Swiss GmbH		rue Verdaine	14	1204	Genève		CH				20170101																				
+3	1	CHE-314.981.097	Leutenegger Recycling GmbH		rue du Marché	20	1204	Genève		CH				20170101																				
+4	1	CHE-151.731.014	BERNINA Retail AG		Kupfergasse	11	4310	Rheinfelden		CH				20170101	0319112203	0319112203																		
+5	1	CHE-145.669.358	Boulangerie du Boulevard, Erkan Tanrikulu		route de Châtel	7 B	1803	Chardonne		CH				20170101																				
+6	1	CHE-216.329.174	Industriemontagen-Metallbau-Service-Yüce		chemin des Chambrettes	1 B	1131	Tolochenaz		CH				20170101	0552409587	0552409587																		
+7	1	CHE-201.085.997	Hotel Etoile AG		Englisch-Gruss-Strasse	6	3902	Glis		CH				20170101																				
+8	1	CHE-410.288.129	A.R.H. Alves Miranda consulting		Merzenacker	81a	3006	Bern		CH				20170101																				
+9	1	CHE-315.486.860	Inartis SA		chemin de la Liberté	7	1162	St-Prex		CH				20170101	0813027490	0813027490																		
+10	1	CHE-143.689.605	FIGHOLD SA		avenue de Bellevaux	17	2000	Neuchâtel		CH				20170101	0317110288	0317110288																		
+11	1	CHE-152.218.050	Prime Vision AG		chemin de Veilloud	15	1024	Ecublens VD		CH				20170101				contact@cabinetnouri.ch																
+12	1	CHE-311.295.261	BS Gartenbau GmbH		Im Park	5	3052	Zollikofen		CH				20170101				stefanini.archi@gmail.com																
+13	1	CHE-256.211.886	Weber Zürich GmbH		Wuhrmattstrasse	21	4103	Bottmingen		CH				20170101	0714114445	0714114445																		
+14	1	CHE-452.537.634	BLUE Events GmbH		chemin de Pré-Fleuri	3	1260	Nyon		CH				20170101																				
+15	1	CHE-148.268.487	L driver GmbH		Kantonsstrasse	50	8807	Freienbach		CH				20170101	0713932681	0713932681																		
+16	1	CHE-349.754.142	RAI Construction Sàrl		avenue des Uttins	1	1180	Rolle		CH				20170101																				
+17	1	CHE-400.651.458	Yoobopo SA		Schüracherstrasse	27a	8306	Brüttisellen		CH				20170101																				
+18	1	CHE-363.700.263	Carrosserie Altburg, Agushi		Im Kleinholz	3	4600	Olten		CH				20170101	0332432121	0332432121																		
+19	1	CHE-208.873.139	Claudiu-Petru Câmpean		Bärenstutz	4	3638	Blumenstein		CH				20170101																				
+20	1	CHE-424.782.571	Aegerter C.		Neugasse	35	6340	Baar		CH				20170101																				
+21	1	CHE-304.632.910	Gidisoglu Taner Consulting		chemin des Pâles	60	1095	Lutry		CH				20170101																				
+22	1	CHE-311.574.488	www.westernsaddles.ch Ines Oribasi		Rätlisbach		6030	Ebikon		CH				20170101				info@teamlifestyle.ch	http://www.sticherholzbau.ch															
+23	1	CHE-378.363.803	DE LACHANCE titulaire Duygu Gözler		Leimernweg	28a	3270	Aarberg		CH				20170101	0525505005	0525505005																		
+24	1	CHE-185.972.337	Habtemichael Petros		route des Barges	20	1896	Vouvry		CH				20170101	0336750093	0336750093																		
+25	1	CHE-188.729.773	Tinynode SA		via Baraggie	4	6612	Ascona		CH				20170101	0443132424	0443132424																		
+26	1	CHE-421.873.875	Grats Trade S.L., Barcellona, Succursale di Cadempino		Ergolzstrasse	24/8	4414	Füllinsdorf		CH				20170101																				
+27	1	CHE-299.157.195	TRANSFERROVIAIRE DE GESTION M. NIQUILLE		chemin Frank-Thomas	54	1223	Cologny		CH				20170101																				
+28	1	CHE-430.645.356	Air Swiss Montage GmbH		rue de la Gabelle	30bis	1227	Carouge GE		CH				20170101				rheinapo@bluewin.ch																
+29	1	CHE-420.340.694	STEFI Aussenisolationen GmbH in Liquidation		c/o ArComm Treuhand Anstalt			Vaduz		CH				20170101																				
+30	1	CHE-292.584.283	Sabe Trust		Hammerstrasse	25	8008	Zürich		CH				20170101																				
+31	1	CHE-320.422.162	FB Agency, Inhaber Fazli Berisha		via Industria	19	6934	Bioggio		CH				20170101																				
+32	1	CHE-114.170.749	SUIZZE LTD, London, Zweigniederlassung Frauenfeld		chemin de la Gravière	8	1227	Les Acacias		CH				20170101	0796994416	0796994416																		
+33	1	CHE-157.317.334	Les Halles de Boussens SA		Haus C	36	7404	Feldis/Veulden		CH				20170101																				
+34	1	CHE-316.081.193	Venue Consulting AG		Blumenweg	3a	8303	Bassersdorf		CH				20170101	0227318519	0227318519																		
+35	1	CHE-207.095.020	Bati-films, Zwimpfer & Barbosa Cavalheiro		Pozzistrasse	16	9642	Ebnat-Kappel		CH				20170101			0447873159																	
+36	1		Schreinerei Ulysses Schmidhalter AG		Rue de l'Avenir	11	1951	Sion		CH				20170101																				
+37	1	CHE-385.734.997	ENOTT GmbH		rue de la Cité	13	1204	Genève		CH				20170101																				
+38	1	CHE-349.115.479	Team-Limousines, RODRIGUES BRÁS		rue de la Poste	40	2504	Biel/Bienne		CH				20170101			0318188001	heizung@klimag.ch																
+39	1	CHE-264.701.201	C. Minder MEDconsulting		Mattenstrasse	28	4656	Starrkirch-Wil		CH				20170101	0919717844	0919717844																		
+40	1	CHE-227.350.959	TGIT Management AG		Naglerwiesenstrasse	4	8049	Zürich		CH				20170101	0919213483	0919213483																		
+41	1	CHE-220.537.132	Détartrage Eco Energie Sàrl		Gossauerstrasse	7	9100	Herisau		CH				20170101																				
+42	1		Solid Verwaltungs AG		chemin de Lacolat	14	1226	Thônex		CH				20170101																				
+43	1	CHE-366.493.155	Sienda New Media Technologies GmbH		Dorfstrasse	14	8424	Embrach		CH				20170101	0323451515	0323451515																		
+44	1	CHE-244.997.464	ETV Holding AG		route de la Fin du Craux	51	1822	Chernex		CH				20170101	0344229422	0344229422																		
+45	1		Révision comptable Lionel Meyer		Bahnhofplatz	1A	8304	Wallisellen		CH				20170101																				
+46	1	CHE-239.716.369	PLAY BAR, Elbasan Ajdini		Forchstrasse	424	8702	Zollikon		CH				20170101																				
+47	1	CHE-348.467.527	Kyno-Mental Sibylle Kläusler		Frongartenstrasse	11	9000	St. Gallen		CH				20170101	0223610871	0223610871																		
+48	1	CHE-461.700.695	Narod Informatik GmbH in Liquidation		route de la Gare	16 A	1295	Mies		CH				20170101																				
+49	1	CHE-314.530.116	Kathrin Schwartz GmbH		Auf dem Wolf	5	4052	Basel		CH				20170101																				
+50	1	CHE-170.989.599	Rigozzi Marchese Christa		Manessestrasse	6	8003	Zürich		CH				20170101	0716377060	0716377060																		
+51	1	CHE-400.428.417	ARA Europe GmbH		Grubenstrasse	2	8045	Zürich		CH				20170101				contact@sourmashstudio.ch																
+52	1		MR GROUP SUISSE SA in liquidazione		Brunnenwiesenstrasse	8	8305	Dietlikon		CH				20170101																				
+53	1	CHE-317.061.098	Andermatt Crown AG		route des Iles	88	1897	Bouveret		CH				20170101	0432431384	0432431384																		
+54	1	CHE-322.097.908	Taxi Cobra Villars-sur-Ollon, T. Misini		Grebelackerstrasse	6	8057	Zürich		CH				20170101	0442910453	0442910453																		
+55	1	CHE-198.298.941	Gasthof zur Metzg, Gerhard Graf		Letzigraben	134a	8047	Zürich		CH				20170101	0418704757	0418704757																		
+56	1	CHE-484.083.407	Rüegger Nähmaschinen + Nähcenter GmbH		chemin de la Tourelle	6	1209	Genève		CH				20170101	0275656386	0275656386																		
+57	1	CHE-275.082.767	Nathalie Herschdorfer Curator		Eichmattstrasse	120A	6333	Hünenberg See		CH				20170101	0415356127	0415356127																		
+58	1	CHE-244.487.878	Bebe Saude Ltda		rue Muzy	10	1207	Genève		CH				20170101																				
+59	1	CHE-416.194.917	SULEIMAN TECH SUPPORT		chemin de la Baume	2 B	1023	Crissier		CH				20170101																				
+60	1	CHE-440.512.343	ARP Ingenieure und Berater AG		Gundeldingerstrasse	73	4053	Basel		CH				20170101	0629223878	0629223878																		
+61	1	CHE-181.443.407	Bellfo.Dogan Firat Oktay		Furnerschhus	31	7075	Churwalden		CH				20170101			0618161112	info@ipswiss.ch																
+62	1		Mia's finest GmbH		Hauptstrasse	145	5742	Kölliken		CH				20170101				textcontext@bluemail.ch																
+63	1	CHE-146.439.275	STICKER ONLINE Andreas Gantert		Haldenstrasse	13	8556	Wigoltingen		CH				20170101	0719518451	0719518451																		
+64	1	CHE-401.117.339	MBK Management am Bau GmbH		Grubenstrasse	34	3322	Urtenen-Schönbühl		CH				20170101																				
+65	1	CHE-219.114.233	Arbour Estates SA		rue Galilée	6	1400	Yverdon-les-Bains		CH				20170101	0919235040	0919235040																		
+66	1	CHE-241.256.851	Veliz & Co		Chüngentobelweg	5	8832	Wollerau		CH				20170101	0712224080	0712224080																		
+67	1	CHE-243.290.178	Agdacon AG		Oberheischerstrasse	1	8915	Hausen am Albis		CH				20170101			0217812276	carr.graz@bluewin.ch																
+68	1		Arab Swiss Consulting ASC, Al-Jaibaji		Gerliswilstrasse	46	6020	Emmenbrücke		CH				20170101																				
+69	1	CHE-264.396.658	Fundaziun Pro Suraua		rue de Hesse	12	1204	Genève		CH				20170101	0313020559	0313020559																		
+70	1	CHE-437.058.496	Trebax GmbH		Bahnhofstrasse	35	8001	Zürich		CH				20170101	0444443760	0444443760																		
+71	1	CHE-327.503.991	FONDATION BATRES		Wagistrasse	23	8952	Schlieren		CH				20170101																				
+72	1	CHE-398.381.879	NationSky Global AG		chemin des Mélèzes	29	1197	Prangins		CH				20170101																				
+73	1	CHE-356.762.371	ARC Asian Relocation Consulting LLC		via Cantonale	18	6928	Manno		CH				20170101	0223201770	0223201770																		
+74	1	CHE-171.533.026	Toju Hotel GmbH in Liquidation		Fegistrasse	9	8957	Spreitenbach		CH				20170101																				
+75	1	CHE-472.422.454	FRAWO Kranführer Wolffs & Co.		Weissbadstrasse	44	9050	Appenzell		CH				20170101	0313717060	0313717060																		
+76	1	CHE-113.027.055	LKATECH Sàrl		Ragazerstrasse	17	7303	Mastrils		CH				20170101	0244851290	0244851290																		
+77	1	CHE-222.894.643	Peter Retail GmbH		Vadianstrasse	59	9000	St. Gallen		CH				20170101	0434441101	0434441101																		
+78	1		Kose Ali peinture de style		Route de l'Ecole	15	1533	Ménières		CH				20170101			0269195144	info@concept-r-performances.com																
+79	1		NICANORA Conseil Sàrl		via Stazione	14 A	6963	Pregassona		CH				20170101			0442669901	troesch@kardio-zuerich.ch																
+80	1	CHE-384.910.903	GPSVision Engineering & Trading GmbH		route de Begnins	2	1196	Gland		CH				20170101	0718416000	0718416000	0323876701	lyss@xbau.ch																
+81	1	CHE-140.098.632	Susanne Mary Wagner 'Europäische Heilerschule'		Neugasse	12	6300	Zug		CH				20170101																				
+82	1	CHE-475.724.029	PRESENCE SOCIALE GmbH		Grand Rue	77	1904	Vernayaz		CH				20170101																				
+83	1	CHE-435.266.925	STEF Concept, titulaire Ionut Cosmin Manda		Gönhardweg	66	5000	Aarau		CH				20170101	0713517770	0713517770	0523472541	ermund@poska.ch																
+84	1	CHE-202.457.133	Pan-Global Commodities Ventures Trajkovska		rue du Grenier	18	2302	La Chaux-de-Fonds		CH				20170101	0912257144	0912257144																		
+85	1	CHE-374.981.965	Blue Global Concept Philippe Kursner		Friedentalstrasse	41a	6004	Luzern		CH				20170101																				
+86	1		Holz+Bau Furrer		Klosbachstrasse	65	8032	Zürich		CH				20170101																				
+87	1	CHE-392.087.192	BSP Treuhand AG		Wildistrasse	7	3906	Saas-Fee		CH				20170101	0433211705	0433211705																		
+88	1	CHE-398.780.759	Verein Jugend- und Elternberatung des Bezirkes Bischofszell		Dorfstrasse	2	3184	Wünnewil		CH				20170101																				
+89	1	CHE-327.811.079	Tingo Automobiles		via alla Campagna	4	6900	Lugano		CH				20170101																				
+90	1	CHE-412.892.767	Arpel Sàrl		avenue de Plan	9 A	1110	Morges		CH				20170101	0273461248	0273461248																		
+91	1	CHE-138.501.038	Buchmeier		Industriestrasse	47	6304	Zug		CH				20170101																				
+92	1	CHE-225.745.092	Real Estate Digital AG		boulevard du Pont-d'Arve	21	1205	Genève		CH				20170101																				
+93	1	CHE-464.407.151	Shiatsu Inninger		Laugneristrasse	8	6353	Weggis		CH				20170101	0617232224	0617232224																		
+94	1	CHE-327.369.391	Café-Restaurant les Masses, Pascal MALHERBES		rue Pré-du-Marché	42	1004	Lausanne		CH				20170101	0313112749	0313112749																		
+95	1	CHE-353.685.998	Pietro GEROSA		Sattelbogenstrasse	11	9220	Bischofszell		CH				20170101					http://www.sattelbogen.ch															
+96	1	CHE-428.673.403	Domig Immobilien AG		Hörnlistrasse	18	8360	Eschlikon TG		CH				20170101	0628914658	0628914658																		
+97	1	CHE-463.401.482	Architecture & Coaching d'intérieur - Geiser		avenue Louis-Casaï	54	1216	Cointrin		CH				20170101																				
+98	1	CHE-433.694.859	ImmForch AG		Chamerstrasse	56	6300	Zug		CH				20170101	0419217233	0419217233																		
+99	1	CHE-416.831.227	Paladin Advisory Group AG		via alla Campagna	4	6900	Lugano		CH				20170101																				
+100	1	CHE-156.864.415	Coiffure Marianna, Inhaberin Boss Beatrice		Schmittegasse	5	5034	Suhr		CH				20170101																				
+101	1		MC-CLARK AG, Mauren (FL) succursale di Lugano		rue Saint-Georges	6	2800	Delémont		CH				20170101																				
+102	1	CHE-373.668.017	ALVERO AG		Bruderholzallee	100	4059	Basel		CH				20170101																				
+103	1	CHE-429.642.285	Lacroix & Eigenmann (colors ENT.)		Ohne Domizil		6060	Sarnen		CH				20170101	0798855070	0798855070																		
+104	1	CHE-494.913.720	RPC41 GmbH		Oristalstrasse	29	4410	Liestal		CH				20170101	0442669700	0442669700																		
+105	1	CHE-464.456.528	Iskandia Group SA		Neuhausweg	1	6340	Baar		CH				20170101	0793203234	0793203234			http://www.orthorama.ch															
+106	1	CHE-205.630.994	Pizzeria Steakhouse Diler		Forchstrasse	76	8008	Zürich		CH				20170101			0526303799																	
+107	1	CHE-445.921.720	Gipser Memedi		Unter Altstadt	5	6300	Zug		CH				20170101																				
+108	1	CHE-417.025.393	E.M.S. Montagen D. Benter		Bahnhofstrasse	2	6260	Reiden		CH				20170101																				
+109	1	CHE-398.437.161	Conswiss Techniques Ltd. in Liquidation		via Collegiata	7	6600	Muralto		CH				20170101																				
+110	1	CHE-142.916.520	Association Vue sur Mer Films		Dorfstrasse	21	6390	Engelberg		CH				20170101	0344967083	0344967083																		
+111	1		pro.getit GmbH		Allmeindstrasse	7	8873	Amden		CH				20170101																				
+112	1	CHE-276.206.670	Wolf-International GmbH		chemin de Pont-Céard	5	1290	Versoix		CH				20170101	0417612821	0417612821																		
+113	1	CHE-419.841.104	PvL Partners AG		via Emilio Bossi	6	6901	Lugano		CH				20170101																				
+114	1	CHE-155.477.441	Miracle Software Systems Inc		Grand'Rue	27	2034	Peseux		CH				20170101	0616815183	0616815183																		
+115	1	CHE-223.184.538	L. Marta Orbe VD GmbH, mit Sitz in Luzern, in Liquidation		Juggen	557	9204	Andwil SG		CH				20170101	0916046572	0916046572																		
+116	1		ONE MOMENT FILMS GmbH		avenue Louis-Casaï	81	1216	Cointrin		CH				20170101				ttr@swissonline.ch																
+117	1	CHE-141.714.698	Haustechnik-Bucher GmbH		route du Village	18	1134	Vufflens-le-Château		CH				20170101	0627232220	0627232220																		
+118	1	CHE-432.111.930	MEDICNOVA Immobilien Anstalt		Buzibachstrasse	43	6023	Rothenburg		CH				20170101	0448211582	0448211582																		
+119	1	CHE-450.813.935	Prizreni Rénovation		Weinmarkt	8	6004	Luzern		CH				20170101	0216349314	0216349314	0418114073																	
+120	1	CHE-440.632.119	Princess-Black Cary Marose Affoué		Schwadernaustrasse	61	2558	Aegerten		CH				20170101																				
+121	1	CHE-444.691.115	TWC Tires & Wheels Consulting Meyer		Holzhäusernstrasse	8	6313	Menzingen		CH				20170101	0434955034	0434955034																		
+122	1	CHE-383.651.679	Nautinvest SA		Oltnerstrasse	162	4663	Aarburg		CH				20170101																				
+123	1	CHE-488.452.159	SL Art Consulting - Tatjana Prinzessin zu Schaumburg-Lippe		Eisengasse	16	8008	Zürich		CH				20170101	0415085246	0415085246																		
+124	1	CHE-287.597.825	Berg-Käserei Oberei Hans Rudolf Gasser		Am Bach	5	5624	Bünzen		CH				20170101																				
+125	1	CHE-184.984.131	Schmidheiny&Bader GmbH		Effingerstrasse	1	3011	Bern		CH				20170101																				
+126	1	CHE-141.282.049	B.A.P records media design Bjelobaba		Saatlenzelg	22	8050	Zürich		CH				20170101																				
+127	1	CHE-296.536.857	Free Style Arsic Marinkovic		Roosstrasse	23	8832	Wollerau		CH				20170101			0419281980	a6@a6net.ch																
+128	1		LAMBILLON Consulting, Trading & Finance		Tösstalstrasse	212	8405	Winterthur		CH				20170101																				
+129	1	CHE-184.221.139	Xstrata Finance (Luxembourg) Sarl		Badenerstrasse	171	8003	Zürich		CH				20170101	0273062683	0273062683																		
+130	1	CHE-370.380.264	Avni Orllati immobilier		Bernstrasse	26	6152	Hüswil		CH				20170101	0443716311	0443716311																		
+131	1	CHE-210.502.327	Shortcut Media AG		route de Verbier	127	1936	Verbier		CH				20170101																				
+132	1		Rasso Swiss Pharma GmbH		Drahtzugstrasse	67	4057	Basel		CH				20170101																				
+133	1	CHE-340.899.231	MyTax GmbH		c/o Dr. Peter Marxer sen.			Vaduz		CH				20170101																				
+134	1		M. Richner Gartengestaltung - Gartenpflege		Uetlibergstrasse	304	8045	Zürich		CH				20170101				info@finis.ch																
+135	1	CHE-338.653.301	Ophtha OW AG		Eichholzstrasse	14	8706	Meilen		CH				20170101																				
+136	1	CHE-209.999.464	Fraich Club Özdemir		via G. B. Pioda	6	6900	Lugano		CH				20170101	0522460801	0522460801																		
+137	1	CHE-230.014.189	Retake GmbH		Meielenfeldweg	12	3052	Zollikofen		CH				20170101																				
+138	1	CHE-324.718.414	Marcel Studer, Die Helferei		Hauptstrasse	24	8832	Wollerau		CH				20170101	0223407160	0223407160																		
+139	1		Guri Hauswartung GmbH		Pfarrweid	11	8852	Altendorf		CH				20170101																				
+140	1	CHE-291.959.848	TEPPICH WERKSTATT FERGEN		ch de l Montau d'en haut	12	1874	Champéry		CH				20170101																				
+141	1	CHE-350.971.516	Spitexorganisation Pflege nach Mass GmbH		Allmendstrasse	2	3661	Uetendorf		CH				20170101	0556103438	0556103438																		
+142	1	CHE-472.138.243	Coiffure Creativ Beatriz Iannotta		Auerstrasse	3	9435	Heerbrugg		CH				20170101																				
+143	1	CHE-473.572.659	Soudoteknic SA		Wasserwerkgasse	4	3011	Bern		CH				20170101	0449154600	0449154600																		
+144	1	CHE-357.396.820	Erwin Bischof Innendekorationen / Inneneinrichtungen		Via Suro	32	7403	Rhäzüns		CH				20170101																				
+145	1		Bleuel Tools AG		Hennimoosstrasse	18	9444	Diepoldsau		CH				20170101																				
+146	1		Mit Herz und Biss GmbH		Grande Avenue	5	3965	Chippis		CH				20170101																				
+147	1	CHE-377.790.479	Gemeinschaft zur Förderung des Heimholungswerkes Jesu Christi		avenue de la Gare	38	1920	Martigny		CH				20170101					http://www.delaloyearchitectes.ch															
+148	1	CHE-378.243.866	FELMAN TRADING EUROPE AG		Grünaustrasse	7	9215	Schönenberg an der Thur		CH				20170101	0919309118	0919309118																		
+149	1	CHE-314.822.599	Sivanantham, Rest. Schwanen		Auerstrasse	3	9435	Heerbrugg		CH				20170101	0344110034	0344110034		info@prime-steakhouse.ch																
+150	1	CHE-141.734.502	Synektix GmbH in Liquidation		Sagenriet	7	8853	Lachen SZ		CH				20170101																				
+151	1	CHE-442.099.153	Siguli GmbH		Pilatusstrasse	48a	6003	Luzern		CH				20170101																				
+152	1	CHE-411.148.436	Onlinebuchhandlung Regula Seiler		Poststrasse	3	8001	Zürich		CH				20170101																				
+153	1	CHE-350.564.915	Sport Matters AG		rue Liotard	5	1202	Genève		CH				20170101																				
+154	1	CHE-459.983.118	Onkologie-Praxis Luzern AG		Baselstrasse	55	6252	Dagmersellen		CH				20170101	0764261717	0764261717																		
+155	1	CHE-239.172.593	Laurenge Bleue Sàrl		chemin du Grand-Pré	2	1184	Luins		CH				20170101																				
+156	1		Metro Market Tosun		Pré du Grenadier d'Avau	43	1649	Pont-la-Ville		CH				20170101																				
+157	1	CHE-361.081.851	Egmont AG		Talstrasse	1	8852	Altendorf		CH				20170101																				
+158	1	CHE-377.951.601	BeeWaTec AG		chemin du Levant	10	1847	Rennaz		CH				20170101																				
+159	1	CHE-468.349.469	Züger & Partner AG		Sternengasse	3	5620	Bremgarten AG		CH				20170101	0717661431	0717661431																		
+160	1	CHE-266.732.520	Magtrol Sàrl		Bäbelers	35	9050	Appenzell Steinegg		CH				20170101	0628228787	0628228787																		
+161	1		Kappa-Phar Sàrl		rue Saint-Randoald	34	2800	Delémont		CH				20170101																				
+162	1	CHE-387.329.372	Dachmaxx GmbH		Am Ausserberg	42	4125	Riehen		CH				20170101																				
+163	1		Riderscave.ch, Raphaël Aubry		Dufourstrasse	25	4052	Basel		CH				20170101																				
+164	1	CHE-299.369.840	Stefan Tschudi, TschudSoft		via San Salvatore	7	6900	Paradiso		CH				20170101																				
+165	1		Gemeinnützige Genossenschaft Pandocheion		Friedackerstrasse	48	8050	Zürich		CH				20170101																				
+166	1	CHE-242.434.807	Shkodra Baumanagement		St. Gallerstrasse	42	9230	Flawil		CH				20170101																				
+167	1	CHE-433.610.319	Gartenpflege Ursi Bader		Hauptgasse	4	3280	Murten		CH				20170101	0417292080	0417292080																		
+168	1	CHE-167.931.205	Sartorial AG, Wirtschaftsberatung		Baselstrasse	15	4242	Laufen		CH				20170101	0448817730	0448817730																		
+169	1	CHE-266.246.975	Dema chauffage Sàrl		Ebnetstrasse	6	8474	Dinhard		CH				20170101	0219442941	0219442941			http://www.peter-holzbau.ch															
+170	1	CHE-270.399.926	RH & Cie. GmbH		Neuhausstrasse	5	4057	Basel		CH				20170101					http://www.nomercyracing.ch															
+171	1	CHE-389.106.989	Qdron GmbH		Furkastrasse	42	3984	Fiesch		CH				20170101			0589440401																	
+172	1	CHE-157.990.809	Intermed PM AG		Alpenquai	28a	6005	Luzern		CH				20170101	0817571141	0817571141																		
+173	1	CHE-255.883.474	dipl. PF in informatica luigi landi		Effingerstrasse	8	3011	Bern		CH				20170101					http://www.advoplus.ch															
+174	1	CHE-263.324.515	Sarro Davide		Füllerichstrasse	53	3073	Gümligen		CH				20170101	0274702747	0274702747																		
+175	1	CHE-413.081.470	Breitschmid & Partner Vibiz Services		Schützenweidstrasse	13	6023	Rothenburg		CH				20170101																				
+176	1	CHE-155.533.418	3S Efficiency S. Azzam & S. Bianchi		route de la Cergniaule	18	1833	Les Avants		CH				20170101	0916831458	0916831458																		
+177	1	CHE-313.035.794	Cyan Holding SA		Höchistrasse	4	6353	Weggis		CH				20170101	0223475159	0223475159	0213243942	*info@tempojob-suisse.ch																
+178	1	CHE-347.646.346	GEA Consulting GmbH		Weyerstrasse	30	3084	Wabern		CH				20170101																				
+179	1	CHE-160.290.411	Bloom Identity GmbH		avenue Général-Guisan	9	3960	Sierre		CH				20170101																				
+180	1	CHE-449.119.874	BHS Holding AG		Platanenweg	3	3013	Bern		CH				20170101																				
+181	1	CHE-295.196.807	BienDIT FRENCH		rue du Maupas	34	1004	Lausanne		CH				20170101					http://www.sanmichel.ch															
+182	1		Net-Promotion SA		Hertizentrum	14	6300	Zug		CH				20170101																				
+183	1	CHE-213.332.547	Oil & Oil Sàrl		rue des Vignerons	72	1963	Vétroz		CH				20170101																				
+184	1	CHE-383.449.830	fokus:auto gmbh		Weidbrunnenstrasse	6a	8135	Langnau am Albis		CH				20170101	0716423176	0716423176																		
+185	1	CHE-192.801.675	HB Beratungscenter AG in Liquidation, Zweigniederlassung Wettingen		Bahnhofstrasse	58	8001	Zürich		CH				20170101																				
+186	1	CHE-373.745.706	BISANG Holzbau AG		Bahnhofstrasse	25	7002	Chur		CH				20170101	0264246560	0264246560			http://www.rhb.ch															
+187	1	CHE-352.677.832	Metropol Music And Drinks AG		Ruebisbachstrasse	65	8302	Kloten		CH				20170101	0218021010	0218021010																		
+188	1	CHE-466.997.120	Physiotherapie Fortis Michael Rentsch		Hauptstrasse	129	8272	Ermatingen		CH				20170101	0445435556	0445435556																		
+189	1	CHE-449.711.328	Esse Procurement Logistic and Services SA		Blegistrasse	3	6340	Baar		CH				20170101	0552806554	0552806554			http://www.heavenhound.ch															
+190	1	CHE-433.553.466	Thierry Ems Verkaufsbegleitung		Kempttalstrasse	38	8320	Fehraltorf		CH				20170101	0264112304	0264112304																		
+191	1	CHE-213.597.962	R IMMO AG Baden		rue Mercerie	12	1003	Lausanne		CH				20170101																				
+192	1	CHE-244.778.258	EAM MaaS AG		chemin de Sur-Beauvent	1b	1232	Confignon		CH				20170101																				
+193	1	CHE-236.649.914	Cupido Wedding Agency / Claudia Baldassarre		Wehntalerstrasse	530	8046	Zürich		CH				20170101																				
+194	1	CHE-224.108.020	Tissa Services GmbH		chemin du Roussillon	6	1180	Tartegnin		CH				20170101	0442017080	0442017080																		
+195	1		SV AUTOMOBILES Sàrl		Thunstrasse	16	3661	Uetendorf		CH				20170101																				
+196	1	CHE-456.227.397	Bella Immobilien Trading AG in Liquidation		chemin des Vignes	2	1209	Genève		CH				20170101																				
+197	1	CHE-291.918.708	Anker Investments AG		rue Lamartine	10	1203	Genève		CH				20170101																				
+198	1	CHE-204.827.962	Raum511 GmbH		Felsenstrasse	150	8832	Wollerau		CH				20170101																				
+199	1	CHE-195.772.231	CX Consulting Sàrl en liquidation		Gutenbergstrasse	1	4552	Derendingen		CH				20170101	0417293434	0417293434		contact@aupetitcollege.ch																
+200	1	CHE-362.257.130	BN Costruzioni SA		Bahnhofstrasse	16	8590	Romanshorn		CH				20170101																				
+201	1	CHE-262.075.367	Qombex GmbH		chemin Moïse-Duboule	35	1209	Genève		CH				20170101																				
+202	1		La Rotonda, A. und R. Napoli		Fliederstrasse	8	8908	Hedingen		CH				20170101																				
+203	1	CHE-414.687.474	COATING SUISSE GmbH		Landstrasse	55	5430	Wettingen		CH				20170101	0715348579	0715348579																		
+204	1	CHE-167.029.374	Schmid Immobilien AG Oris		chemin de la Cure	6	1092	Belmont-sur-Lausanne		CH				20170101	0817402922	0817402922																		
+205	1	CHE-498.657.510	YB ENERGY HOLDING SA		Allmei	5A	3930	Visp		CH				20170101	0227333522	0227333522	0566338002																	
+206	1	CHE-474.490.389	AdMind Public Relations, Karin Auf der Maur, Luzern		Unterriedenstrasse	39	5412	Gebenstorf		CH				20170101																				
+207	1	CHE-411.804.097	SMTC GmbH		rue de l'Ancien Comté	44	1635	La Tour-de-Trême		CH				20170101				tukan.malerei06@hotmail.com																
+208	1		KLS Trading GmbH in Liquidation		Im Spitz	5	5333	Baldingen		CH				20170101																				
+209	1	CHE-499.764.120	soppelsa architekten GmbH		Eggbergstrasse	8	4614	Hägendorf		CH				20170101																				
+210	1		LAVO Entertainment GmbH		Wohlerstrasse	2	5623	Boswil		CH				20170101																				
+211	1	CHE-441.716.405	GGM Art AG		Riedenerstrasse	4	8305	Dietlikon		CH				20170101					http://www.ruetli-dietlikon.ch															
+212	1	CHE-267.844.908	Wohnheim Pegasus Thomas Park		Via Pattadiras	11	7031	Laax GR		CH				20170101	0554425650	0554425650																		
+213	1	CHE-204.150.361	Angster Finanz		Kuttelgasse	4	8001	Zürich		CH				20170101																				
+214	1	CHE-207.832.959	Roessel Grundstücksverwaltungs KG		Bodmerstrasse	9	8002	Zürich		CH				20170101	0227561780	0227561780																		
+215	1		Gipserarbeiten PLUS GmbH		Friedenstrasse	2	6004	Luzern		CH				20170101																				
+216	1	CHE-190.054.832	AT Immobilien Projektmanagement AG		Dorf	15	9614	Libingen		CH				20170101	0229590000	0229590000																		
+217	1	CHE-227.786.819	RUSO Sàrl		Langmoosstrasse	3	9442	Berneck		CH				20170101	0433220390	0433220390																		
+218	1		Link 2 Innovation GmbH		Bellariastrasse	61	8038	Zürich		CH				20170101																				
+219	1	CHE-168.547.967	MKW Accessories, Monica Krieg		Rietstrasse	7	9443	Widnau		CH				20170101																				
+220	1		Irene Huwyler Weine GmbH		via Ubrio	40a	6616	Losone		CH				20170101																				
+221	1	CHE-435.660.943	Benoit Richard Maréchal-ferrant		Frankenstrasse	70	3018	Bern		CH				20170101	0449151130	0449151130																		
+222	1	CHE-417.217.202	Autofolierung Borredon		Hirschensprungstrasse	4	9464	Rüthi (Rheintal)		CH				20170101	0629653030	0629653030																		
+223	1	CHE-113.283.374	hofrat suess AG		Kirchgässli	2	3264	Diessbach b. Büren		CH				20170101	0244261198	0244261198																		
+224	1	CHE-462.937.260	Liese Wellness Narvaez Hoyos		Kantonsstrasse	3	8863	Buttikon SZ		CH				20170101	0819365373	0819365373																		
+225	1	CHE-163.370.070	Pizzeria Monte Rigi Ahmed		via Caguils	20	7013	Domat/Ems		CH				20170101																				
+226	1	CHE-192.686.635	Pelletier Armand		Unterstadt	3	6210	Sursee		CH				20170101			0566106689																	
+227	1	CHE-281.771.674	lirego Immobiliengesellschaft GmbH		Alte Landstrasse	192 A	8802	Kilchberg ZH		CH				20170101	0448142905	0448142905																		
+228	1	CHE-307.483.428	DariaTour - da Costa		Breitacherstrasse	17	5443	Niederrohrdorf		CH				20170101					http://www.egloff-blumendesign.ch															
+229	1	CHE-434.758.545	AHa Kosmetik GmbH		Oberberg	1	6170	Schüpfheim		CH				20170101																				
+230	1	CHE-304.194.353	Topseller GmbH		Chüngengass	9	8805	Richterswil		CH				20170101	0219611539	0219611539																		
+231	1	CHE-349.604.666	G & U Job4You GmbH		Im Unterdorf	45	8320	Fehraltorf		CH				20170101	0627851500	0627851500																		
+232	1	CHE-266.536.953	DOMODA Holding SA		route de Chêne	30	1208	Genève		CH				20170101																				
+233	1		STEPBIOS GmbH		Grimselweg	3	6005	Luzern		CH				20170101																				
+234	1		AP Horses Sàrl		rue du Centre sportif	19	1936	Verbier		CH				20170101																				
+235	1	CHE-243.139.506	Creativ Concept, Vernier & Haymoz		Seebuchtstrasse	29	6374	Buochs		CH				20170101	0223609060	0223609060																		
+236	1		LUDA Fireworks GmbH		rue du Clos	9	1800	Vevey		CH				20170101																				
+237	1	CHE-197.511.210	TRANSCIM SA		Milner House	18	Bermuda	Hamilton		CH				20170101																				
+238	1	CHE-211.721.694	Marcel Renevey Services		Stadlerstrasse	11	8404	Winterthur		CH				20170101																				
+239	1	CHE-130.666.977	Bienpur GmbH		Wiesliacher	7	8053	Zürich		CH				20170101																				
+240	1	CHE-173.496.146	Kehl Kundenmaurer GmbH		Höhenstrasse	24	8344	Bäretswil		CH				20170101	0919241404	0919241404																		
+241	1	CHE-287.050.283	Habitex SA, Victoria, Mahé, Seychelles, Succursale de Rue en liquidation		rue de Frémis	17	1241	Puplinge		CH				20170101																				
+242	1	CHE-178.882.367	Le Klub Pub Discothèque Vantaggiato Claude-Evelyne		Breitestrasse	14	8903	Birmensdorf ZH		CH				20170101	0329109191	0329109191																		
+243	1	CHE-362.394.531	Aquila Trueb & Co. AG		Rössligasse	8	6490	Andermatt		CH				20170101	0719667084	0719667084																		
+244	1	CHE-438.792.423	Géraldine Beauty Bazar, Geraldine Huggenberg und Martina Maier		Kriesbachstrasse	4	8600	Dübendorf		CH				20170101	0219461901	0219461901																		
+245	1		Scheuner Transporte Süderen GmbH		Schänzlihalde	11	3013	Bern		CH				20170101																				
+246	1	CHE-398.865.901	HP.Hellmüller GmbH		chemin des Marionnettes	124	1093	La Conversion		CH				20170101	0716721362	0716721362																		
+247	1	CHE-468.298.984	Green Investment Group SA, Panama, Zweigniederlassung Hergiswil in Liquidation		Neuhofstrasse	5A	6340	Baar		CH				20170101																				
+248	1	CHE-288.245.033	SI Stradun Immobilien AG		rue de Jargonnant	1	1207	Genève		CH				20170101				welcome@macromicro.ch																
+249	1	CHE-354.700.850	Yum Yum Baby GmbH		chemin de la Moraine	36 c	1162	St-Prex		CH				20170101	0566221818	0566221818																		
+250	1	CHE-104.179.789	Budget Transports SA		Rüdenweg	28F	3067	Boll		CH				20170101																				
+251	1	CHE-176.279.556	BIREM GmbH		ohne Domizil		6060	Sarnen		CH				20170101																				
+252	1	CHE-305.742.783	Trillium Holding AG		Weiherhofstrasse	90	4054	Basel		CH				20170101	0216913404	0216913404																		
+253	1	CHE-298.369.607	bt biofor GmbH		Bucheggweg	6	8302	Kloten		CH				20170101	0418102627	0418102627		contact@swisswebmarketing.ch																
+254	1	CHE-443.083.539	Invitech Holding AG		Viaduktstrasse	23	8005	Zürich		CH				20170101																				
+255	1	CHE-208.146.737	FRANCIS et SON AMI AG		chemin du Rosy	4	2013	Colombier NE		CH				20170101			0564263229																	
+256	1	CHE-134.821.716	autolounge AG		Rheinmühleweg	61	7006	Chur		CH				20170101	0328422663	0328422663	0324324491	info@volg-innertkirchen.ch																
+257	1	CHE-257.300.564	Monlyptus SA		Mittlere Strasse	74	3600	Thun		CH				20170101					http://www.holzimpuls.ch															
+258	1	CHE-392.937.985	Elcana Holding GmbH		avenue Communes-Réunies	56	1212	Grand-Lancy		CH				20170101																				
+259	1	CHE-151.046.208	Rundum Service Asenov		Glaserweg	9	8887	Mels		CH				20170101																				
+260	1	CHE-311.133.948	PV Solseg International Sàrl		rue Ecole-de-Médecine	12	1205	Genève		CH				20170101																				
+261	1	CHE-343.118.887	Messerli iSoft		Alpenstrasse	23	6390	Engelberg		CH				20170101																				
+262	1	CHE-178.057.624	Ecole d'Art Thérapie et d'Animation, Créavie SA		la Chaussiaz C	3	1040	Echallens		CH				20170101	0717661104	0717661104																		
+263	1	CHE-223.593.670	Real Estate Development Partners AG		Schlossackerweg	9	5723	Teufenthal AG		CH				20170101																				
+264	1	CHE-208.598.039	Fischer Electric SA pour entreprises électrotechniques		Zentweg	9	3006	Bern		CH				20170101	0562410336	0562410336																		
+265	1	CHE-219.875.421	Fritz Rüfenacht Unternehmensberatung		Sumpfstrasse	15	6300	Zug		CH				20170101																				
+266	1	CHE-201.927.165	AD CHAUFFAGE SARL		Birchi	40	1737	Plasselb		CH				20170101																				
+267	1	CHE-499.102.924	Kundenmaurer Simon Maeder		Militärstrasse	12	6060	Sarnen		CH				20170101	0719665252	0719665252			http://www.bikewindlin.ch/															
+268	1		GEIERSBERGER IMMOBILIEN		Knonauerstrasse	54	6330	Cham		CH				20170101																				
+269	1	CHE-282.053.854	Associazione NetCOMM SUISSE		via San Damiano	2A	6850	Mendrisio		CH				20170101	0448540070	0448540070																		
+270	1	CHE-392.202.553	LGW (EUROPE) ANSTALT in Liquidation		rue des Terreaux	22	2300	La Chaux-de-Fonds		CH				20170101	0327571493	0327571493																		
+271	1	CHE-425.952.611	The Continuity Company Srl		Webereistrasse	47	8134	Adliswil		CH				20170101																				
+272	1	CHE-475.322.814	Roccafugata Immobiliare SA		Sandgrube	29	9050	Appenzell		CH				20170101	0712982762	0712982762																		
+273	1	CHE-483.464.244	Cuturic Reinigung GmbH		Via Malcanton		6986	Novaggio		CH				20170101	0229060400	0229060400																		
+274	1	CHE-342.565.060	Geminy Sagl in liquidazione		senza domicilio		6830	Chiasso		CH				20170101	0562010111	0562010111																		
+275	1	CHE-164.013.891	Jordi Holding AG		via G. B. Pioda	14	6900	Lugano		CH				20170101																				
+276	1	CHE-180.886.682	The Lorenz Bahlsen Snack-World GmbH & Co KG Germany		rue Charles-Cusin	10	1201	Genève		CH				20170101																				
+277	1	CHE-483.702.716	THB Trachsel Holzbau Brienz AG		Hermann Albrecht-Strasse	15	4058	Basel		CH				20170101																				
+278	1	CHE-189.310.508	Jorge Carvalho Silva Concept Services		Gubelstrasse	11	6300	Zug		CH				20170101	0719325055	0719325055																		
+279	1	CHE-480.162.657	lichtexpress.ch SA in Liquidation		Breitwies	20	5420	Ehrendingen		CH				20170101				biel@fricap.ch																
+280	1	CHE-218.528.170	Swissfeu sécurité incendie, Audrey Carrel		Hauptstrasse	21	4133	Pratteln		CH				20170101																				
+281	1	CHE-481.856.863	Bill Haustechnik AG		avenue C.-F.-Ramuz	99	1009	Pully		CH				20170101	0442179111	0442179111																		
+282	1	CHE-195.653.460	Müller Haldenhof GmbH		via Giovanni Serodine	14A	6500	Bellinzona		CH				20170101																				
+283	1	CHE-412.660.524	Hasler Fashion		rue du Clos	17	1207	Genève		CH				20170101																				
+284	1	CHE-433.138.771	MOORE STEPHENS LUZERN AG		rue de Monthoux	30	1201	Genève		CH				20170101	0244818188	0244818188																		
+285	1	CHE-382.249.702	Jolie, titulaire Ngoc-Kha Humbert Nguyen		Via Fontanedo	17	6597	Agarone		CH				20170101	0417121552	0417121552																		
+286	1	CHE-155.244.279	Boudoir Sagl		Hohenbühlstrasse	7	8032	Zürich		CH				20170101																				
+287	1		NS - Conseils et formation Sàrl		Weiherhofstrasse	19	8580	Amriswil		CH				20170101																				
+288	1	CHE-359.529.405	Kallai Gabor		Lausenerstrasse	20	4410	Liestal		CH				20170101																				
+289	1	CHE-183.565.889	Westing Golf GmbH		chemin de Vers	32	1228	Plan-les-Ouates		CH				20170101	0618710268	0618710268		contact@kbsd.ch																
+290	1	CHE-225.184.012	Gerber's 1x1eTrading-Shop.ch (PEJOSAN Schweiz)		Luziaweg	6	8807	Freienbach		CH				20170101																				
+291	1	CHE-191.596.389	FIGAS Revision AG		In der Schappe	16-18	4144	Arlesheim		CH				20170101																				
+292	1	CHE-369.196.593	HELLA Storen AG		Sonnhaldeweg	335	4814	Bottenwil		CH				20170101																				
+293	1	CHE-324.666.711	dGPinvest Sàrl		rue Michel-Chauvet	4	1208	Genève		CH				20170101	0449512412	0449512412																		
+294	1	CHE-279.977.930	ENTREPRISE GENERALE GASHI H. SARL		Rychenbergstrasse	110	8400	Winterthur		CH				20170101																				
+295	1	CHE-464.570.288	NORNA PLUS AKTIENGESELLSCHAFT		Luzernerstrasse	22	5630	Muri AG		CH				20170101	0414842608	0414842608			http://www.lohersa.ch															
+296	1		SELECTION MARESA GASSMANN		Oberer Toracker	24	9100	Herisau		CH				20170101																				
+297	1	CHE-283.939.246	glafag ag		rue des Pâquis	33	1201	Genève		CH				20170101	0449401576	0449401576																		
+298	1	CHE-358.302.425	CLS Construction Legal Services GmbH		Böschenacherweg	5	6045	Meggen		CH				20170101	0444622232	0444622232																		
+299	1	CHE-261.269.934	Cookie Consulting Sàrl		route de Corteneaux	8	2034	Peseux		CH				20170101	0269281845	0269281845																		
+300	1		Ocular Technologies Sàrl		avenue Mon-Repos	24	1005	Lausanne		CH				20170101																				
+301	1	CHE-434.601.866	XONI Sàrl		Arsenalstrasse	40	6010	Kriens		CH				20170101																				
+302	1	CHE-252.292.928	VIGEO Sàrl		Staldenweg	11	3780	Gstaad		CH				20170101																				
+303	1	CHE-396.447.763	ZEKA-TRANSPORT GmbH in Liquidation		Sonnenbergweg	286	5728	Gontenschwil		CH				20170101																				
+304	1		Wealth Management Group AG		chemin du Petit-Bel-Air	53	1225	Chêne-Bourg		CH				20170101				nello.scanga@haus.rubner.com																
+305	1	CHE-346.455.097	Atelier 2012 SA		Chaltenbodenstrasse	6d	8834	Schindellegi		CH				20170101				kontakt@rundumshus.ch																
+306	1	CHE-276.156.753	Canaan Switzerland GmbH in Liquidation		route de Lausanne	10	1400	Yverdon-les-Bains		CH				20170101	0448333311	0448333311			http://www.protectorsecurite.ch															
+307	1		MAWARO GmbH		via dei Gelsi	28e	6826	Riva San Vitale		CH				20170101																				
+308	1	CHE-494.319.416	BMB Reinigungs GmbH		Im Esel	3	4665	Oftringen		CH				20170101																				
+309	1	CHE-178.739.557	Claudius Röthlisberger, Zimmerei		route Neuve	4	1347	Le Sentier		CH				20170101	0447206262	0447206262																		
+310	1	CHE-416.619.897	Hauser Habitat Sàrl		rue de Berne	58	1201	Genève		CH				20170101																				
+311	1	CHE-363.154.969	Curo Holdings AG		chemin de Mochettaz	18	1030	Bussigny-près-Lausanne		CH				20170101																				
+312	1		komputagroove, Florence Schreiner		Dübendorfstrasse	9a	8117	Fällanden		CH				20170101																				
+313	1	CHE-167.738.186	Felchlin Immobilien GmbH		Luzernerstrasse	1	6343	Rotkreuz		CH				20170101																				
+314	1	CHE-329.364.134	GENI-BAT, Carlos Barroso Rodrigues		route des Tattes d'Oie	93	1260	Nyon		CH				20170101																				
+315	1	CHE-356.552.313	Gilardoni Baudienstleistungen GmbH		chemin de Saucens	8	1630	Bulle		CH				20170101																				
+316	1	CHE-355.148.056	compositiv GmbH		Horwerstrasse	91	6002	Luzern		CH				20170101	0622169494	0622169494	0227078245																	
+317	1	CHE-395.799.892	The Art of Asset Management AG		viale Carlo Pereda	2	6828	Balerna		CH				20170101																				
+318	1	CHE-243.942.621	Jian Long GmbH		Oststrasse	9	8400	Winterthur		CH				20170101				info@bertschingers.ch																
+319	1	CHE-412.574.043	Recommerce AG		chemin de Jolimont	3	1091	Grandvaux		CH				20170101																				
+320	1	CHE-304.840.472	Graf-CNC-Technik GmbH		La Fin	12	1654	Cerniat FR		CH				20170101	0415357902	0415357902																		
+321	1	CHE-196.077.085	HomeLeader AG		Gundeldingerstrasse	73	4053	Basel		CH				20170101			0623912961																	
+322	1		Dr. med. H. Oberhammer Müller AG		Bahnhofstrasse	28a	8001	Zürich		CH				20170101																				
+323	1	CHE-267.548.479	Ferreira Morais Charpente Menuiserie		In der Weid	8	8942	Oberrieden		CH				20170101																				
+324	1	CHE-241.369.426	Graph Investment Solutions AG		Artherstrasse	7	6300	Zug		CH				20170101	0213117892	0213117892																		
+325	1		Mata Max Transporte GmbH		Lättenstrasse	28	8914	Aeugst am Albis		CH				20170101																				
+326	1	CHE-304.637.758	Au XXème Siècle, Bernard Sautebin		Pilgerstrasse	35	4055	Basel		CH				20170101	0443859911	0443859911																		
+327	1	CHE-486.708.454	BEEYARD, Bruno Hofer		Huuswis	9	9545	Wängi		CH				20170101	0227770761	0227770761																		
+328	1	CHE-451.903.096	Imboden AMI GmbH		route de Beaumont	20	1700	Fribourg		CH				20170101																				
+329	1	CHE-175.735.818	Zani Veselji, Rozafa		Muristrasse	19	3132	Riggisberg		CH				20170101																				
+330	1		Müller-Hirschi Holding AG		Stationsstrasse	17	8306	Brüttisellen		CH				20170101																				
+331	1	CHE-140.319.603	Aurotel Switzerland GmbH		Seestrasse	76	8266	Steckborn		CH				20170101																				
+332	1	CHE-341.192.022	SPUR Sàrl		Borrweg	65	8055	Zürich		CH				20170101	0613029002	0613029002																		
+333	1	CHE-374.248.534	CaféSila Fatma Sert Elmali		Stauffacherstrasse	16	8004	Zürich		CH				20170101																				
+334	1	CHE-410.778.741	Floortech Energiesparfundamente GmbH		Grossweidstrasse	5	6010	Kriens		CH				20170101																				
+335	1	CHE-471.346.945	Fabien Petito		Spalenring	46	4055	Basel		CH				20170101	0419805637	0419805637																		
+336	1	CHE-208.830.377	Best Availability GmbH		Bösch	73	6331	Hünenberg		CH				20170101																				
+337	1	CHE-498.271.145	The Mode Villa, Advani Services		Kempttalstrasse	38	8320	Fehraltorf		CH				20170101	0414421515	0414421515																		
+338	1	CHE-360.359.860	DFM GmbH		Beethovenstrasse	47	8002	Zürich		CH				20170101	0566108008	0566108008																		
+339	1	CHE-340.506.603	Hess Event GmbH in Liquidation		Hondrichstrasse	20	3703	Aeschi b. Spiez		CH				20170101																				
+340	1	CHE-300.031.551	Fairyland Viaggi Sagl		Lettenstrasse	7	6343	Rotkreuz		CH				20170101	0264221217	0264221217																		
+341	1	CHE-404.643.044	Porta Nuova, Beatrice Portmann		avenue Industrielle	4-6	1227	Carouge GE		CH				20170101	0327100351	0327100351																		
+342	1	CHE-340.516.777	AMM Immobilien GmbH		Mühleweg	47	4133	Pratteln		CH				20170101	0446877788	0446877788																		
+343	1	CHE-316.502.378	Low Grafik		Poststrasse	23	8505	Pfyn		CH				20170101	0223615928	0223615928																		
+344	1	CHE-382.177.132	RISTORANTE PIZZERIA MIMOSA di DANI CLAUDIO		Zürcherstrasse	49	8953	Dietikon		CH				20170101	0526200777	0526200777			http://www.baby-shop.ch															
+345	1	CHE-401.115.731	Floating Dreams GmbH		Dufourstrasse	147	8008	Zürich		CH				20170101																				
+346	1	CHE-342.324.415	KRAFTWERK Ibérica SL		ruelle du Mont	2	1926	Fully		CH				20170101	0919228412	0919228412																		
+347	1	CHE-388.662.130	TAXI24LUGANO Jonathan Mazzella		Bruderholzstrasse	36	4102	Binningen		CH				20170101			0313117540																	
+348	1		SwissTouch Technologies Sàrl		Poststrasse	3	8001	Zürich		CH				20170101																				
+349	1	CHE-350.787.852	TIMERO SARL		Lindenstrasse	37	8008	Zürich		CH				20170101																				
+350	1	CHE-188.354.762	NatCom di Natalie Chopra		rue Xavier-Stockmar	2	2900	Porrentruy		CH				20170101			0218870321																	
+351	1	CHE-420.109.984	Landgasthaus Hörnli Trogen GmbH		via Carlo Frasca	5	6900	Lugano		CH				20170101			0266631442																	
+352	1	CHE-222.434.023	Robert Golob GmbH		route du Village	37	1070	Puidoux		CH				20170101	0219632494	0219632494	0413676850																	
+353	1	CHE-423.157.235	Helnet nettoyages medeiros da silva soeiro et associé en liquidation		rue des Sept Fontaines	27	1188	Gimel		CH				20170101																				
+354	1	CHE-150.832.641	Agentur Brunner		Mittelgasse	20	5303	Würenlingen		CH				20170101																				
+355	1	CHE-348.899.306	Sanitas Vital - Patrick Bender		Haldenweg	8	4422	Arisdorf		CH				20170101	0227762542	0227762542	0227007007	info@anderegg-rinaldi.ch																
+356	1	CHE-411.236.419	winkler-invest		Studen	2	6062	Wilen (Sarnen)		CH				20170101	0562224071	0562224071																		
+357	1	CHE-369.198.741	ACE-Systems Konrad Wielgosz		Knonauerstrasse	54	6330	Cham		CH				20170101																				
+358	1	CHE-312.737.764	button-Up by Susi Zürrer		boulevard d'Arcangier	1	1814	La Tour-de-Peilz		CH				20170101	0448442010	0448442010																		
+359	1	CHE-372.056.395	Verein Solothurn Classics		rue François-Versonnex	15 bis	1207	Genève		CH				20170101																				
+360	1	CHE-388.385.976	Müller Services		Gasse	3	4524	Günsberg		CH				20170101																				
+361	1	CHE-459.748.439	Grosjean Rénovations SA en liquidation		avenue Blanc	47	1202	Genève		CH				20170101	0449500212	0449500212																		
+362	1	CHE-436.909.111	CaRo Gastro Zeihen GmbH		route de la Traversière	4	2013	Colombier NE		CH				20170101	0264651104	0264651104																		
+363	1	CHE-195.986.499	Daniela Hotz GmbH		Schaffhauserstrasse	53	8180	Bülach		CH				20170101	0815330505	0815330505																		
+364	1	CHE-306.422.358	Panicha Zermatt AG		via al Molino	31	6926	Montagnola		CH				20170101																				
+365	1	CHE-410.192.618	Z38-AG		Bristenstrasse	39	6440	Brunnen		CH				20170101	0414209988	0414209988																		
+366	1		Parah GmbH		Beustweg	4	8032	Zürich		CH				20170101																				
+367	1	CHE-215.560.496	Mantegazza Mario: Porza		rue du 23-juin	39C	2805	Soyhières		CH				20170101																				
+368	1	CHE-360.322.638	Restaurant zur Linde De Jesus da Silva		Uettligenstrasse	2	3033	Wohlen b. Bern		CH				20170101	0619314343	0619314343																		
+369	1	CHE-443.538.534	ControlTech Engineering AG		Anglikerstrasse	90	5612	Villmergen		CH				20170101	0328434111	0328434111																		
+370	1	CHE-161.073.738	GRASSART SàRL		route de Coeuve	37-41	2900	Porrentruy		CH				20170101																				
+371	1	CHE-219.120.191	MANGUP, Limani		Kernstrasse	3	3067	Boll		CH				20170101	0416105262	0416105262																		
+372	1	CHE-292.537.705	Hans Reis		Heimstrasse	7	9470	Buchs SG		CH				20170101																				
+373	1	CHE-335.049.244	Fondazione Teofilo Rossi di Montelera e di Premuda		Hauptstrasse	3	4144	Arlesheim		CH				20170101	0912208460	0912208460																		
+374	1	CHE-428.414.184	De se Mouvoir Pilates Sàrl		Vivianstrasse	2	8604	Volketswil		CH				20170101																				
+375	1	CHE-307.181.022	Stéphane Sporer		Usterstrasse	3	8617	Mönchaltorf		CH				20170101																				
+376	1	CHE-443.462.345	PHARCO PharmaConsulting AG		Sonneland	9	6206	Neuenkirch		CH				20170101																				
+377	1	CHE-217.675.638	Brusa Planung AG		via Campagna		6512	Giubiasco		CH				20170101																				
+378	1	CHE-412.710.866	BROADCAST CAPITAL SA		via Luigi Favre	9	6830	Chiasso		CH				20170101	0791749933	0791749933																		
+379	1	CHE-137.607.906	Shala Vesel Gipsergeschäft		Mythenquai	50/60	8002	Zürich		CH				20170101																				
+380	1	CHE-256.797.630	Bouimarine Peinture-plâtrerie		route Industrielle	23	1897	Bouveret		CH				20170101	0623888940	0623888940																		
+381	1	CHE-476.238.547	Belva Film GmbH		Mäderstrasse	1226	9436	Balgach		CH				20170101																				
+382	1		Lazarevic Bau GmbH		Weidenweg	14	4310	Rheinfelden		CH				20170101																				
+383	1	CHE-442.346.452	FYRE Consulting AG		Alpenstrasse	16	6300	Zug		CH				20170101																				
+384	1	CHE-113.372.090	Schneesportschule Heiden GmbH		Unterdorf	60	3233	Tschugg		CH				20170101	0447761201	0447761201	0413720511		http://www.rebstock-tschugg.ch															
+385	1	CHE-346.901.688	Sophies Lingerie & Trends GmbH		Seeblerstrasse	5	8172	Niederglatt ZH		CH				20170101					http://www.tierarztpraxis-rohner.ch															
+386	1	CHE-242.678.752	INSTITUT DE BEAUTE ISABELLE SACCOMANNO		Werftestrasse	4	6005	Luzern		CH				20170101																				
+387	1	CHE-370.864.875	Fat-Fen GmbH		rue du Collège	4	1400	Yverdon-les-Bains		CH				20170101																				
+388	1	CHE-308.088.678	Sepp Meyer GmbH		Kornmarkt	10	6004	Luzern		CH				20170101																				
+389	1	CHE-411.555.126	Fondation pour la gestion et la mise en valeur du patrimoine culturel et religieux d'Alle		Länggasse	5	6208	Oberkirch LU		CH				20170101	0333598080	0333598080	0279668424																	
+390	1	CHE-203.306.347	World of cosmetics by Yana Burdyugova		Mühlegasse	6	4104	Oberwil BL		CH				20170101																				
+391	1	CHE-371.160.794	Energiakolmio Oy		rue de la Faïencerie	2	1227	Carouge GE		CH				20170101	0275656585	0275656585																		
+392	1		2AAZ Sàrl		Bernstrasse	18	2555	Brügg BE		CH				20170101			0448837406																	
+393	1	CHE-420.465.947	AtoutBâti SARL		Via Cons	11	7180	Disentis/Mustér		CH				20170101	0523162939	0523162939																		
+394	1		BEST AIRCRAFT HOLDING LTD, Tortola, succursale de Grône		Hohlstrasse	285	8004	Zürich		CH				20170101																				
+395	1	CHE-207.367.916	Eichhof-Immo AG		chemin de Cli	11	1936	Verbier		CH				20170101	0412402798	0412402798																		
+396	1	CHE-455.931.269	International Petroleum Trading AG		Badenerstrasse	571 A	8048	Zürich		CH				20170101																				
+397	1	CHE-398.070.563	Pro Ski Rental GmbH		Feldstrasse	61	8004	Zürich		CH				20170101																				
+398	1	CHE-196.846.636	daveco webagentur kuhn		Zürcherstrasse	47	5400	Baden		CH				20170101	0216248140	0216248140																		
+399	1	CHE-305.686.073	CONSTANTINEEMER Gökdemir		via San Gottardo	111	6828	Balerna		CH				20170101	0326226984	0326226984																		
+400	1	CHE-474.872.124	adhoc gmbh		Ahornstrasse	56	9000	St. Gallen		CH				20170101	0526852212	0526852212																		
+401	1	CHE-251.536.111	SAS Institute, Inc.		Station	1	1015	Lausanne		CH				20170101	0916824159	0916824159																		
+402	1	CHE-400.144.279	SCHOBELI, s.r.o., Fulnek (CZ), Zweigniederlassung Liebistorf/Gurmels		Allmendstrasse	39	8154	Oberglatt ZH		CH				20170101	0414101484	0414101484																		
+403	1	CHE-266.615.765	Boisiland Sàrl		Luegislandstrasse	51	8051	Zürich		CH				20170101	0244791213	0244791213																		
+404	1	CHE-282.836.715	Initium Data GmbH		Hauptgasse	22a	9050	Appenzell		CH				20170101																				
+405	1	CHE-429.028.369	AGORA EXECUTIVE SEARCH - L. PERAZZOLO		Place du Village	3	1617	Remaufens		CH				20170101																				
+406	1		Pangaia Investment Partners AG		route des Arsenaux	41	1700	Fribourg		CH				20170101																				
+407	1	CHE-131.685.316	ACRON HELVETIA X Immobilien AG		Hauptstrasse	26	3917	Kippel		CH				20170101																				
+408	1	CHE-470.701.699	de Medeiros Lundgren Tabak Trend		Oberfeldstrasse	12a	8302	Kloten		CH				20170101	0412504155	0412504155																		
+409	1	CHE-268.551.751	Nathalie Keller Conseils		Les Prés		2116	Mont-de-Buttes		CH				20170101	0325444650	0325444650																		
+410	1	CHE-172.928.456	Eichenberger Weine GmbH		rue de Vermont	9	1202	Genève		CH				20170101																				
+411	1	CHE-231.131.018	Putzwirbel Carmen Eiholzer		riva Vincenzo Vela	12	6900	Lugano		CH				20170101																				
+412	1		Ono (Switzerland) GmbH		Dora-Staudinger-Strasse	17	8046	Zürich		CH				20170101																				
+413	1	CHE-188.731.994	Tomo Andrijanic Transport GmbH		Mühleäulistrasse	6	9470	Buchs SG		CH				20170101																				
+414	1	CHE-313.176.319	ID ARTIST SÀRL		Ägeristrasse	112	6300	Zug		CH				20170101																				
+415	1	CHE-494.328.065	DMP Peinture, Da Mota Pedro		Aargauerstrasse	60	8048	Zürich		CH				20170101																				
+416	1	CHE-397.157.836	Amplifon Re AG in Liquidation		Hinterbühle	1268	9427	Wolfhalden		CH				20170101																				
+417	1	CHE-434.358.393	New World Designs Sàrl		route de Piotte	49	1965	Granois (Savièse)		CH				20170101	0526432211	0526432211																		
+418	1	CHE-434.973.032	Free Jet Holidays Sàrl		route des Jeunes	49	1227	Carouge GE		CH				20170101	0218645461	0218645461																		
+419	1		water-flow-systems, Ulrich Jost		Kürzestrasse	31	4658	Däniken SO		CH				20170101			0313904041																	
+420	1	CHE-183.826.972	Zahzouh & Zitoun		Konstanzerstrasse	37	8280	Kreuzlingen		CH				20170101	0712456060	0712456060																		
+421	1	CHE-282.621.511	dental technik claudia meier		Dornacherstrasse	7	4600	Olten		CH				20170101					http://www.versicherungssupport.ch															
+422	1	CHE-446.289.103	Food Addict Sàrl		Bahnhofplatz	10	9100	Herisau		CH				20170101																				
+423	1	CHE-305.858.517	just eleven fashion gmbh		Rohrerstrasse	87	5000	Aarau		CH				20170101																				
+424	1	CHE-143.449.751	Sciages & Emballages en bois chablaisiens, G. Persoz		Brünigstrasse	131	6060	Sarnen		CH				20170101																				
+425	1	CHE-479.986.692	MAIDEN GmbH		chemin des Curiades	4	1233	Bernex		CH				20170101	0443716393	0443716393																		
+426	1	CHE-258.846.742	Hult International Business School AG		St. Gallerstrasse	74	9500	Wil SG		CH				20170101																				
+427	1	CHE-246.722.234	Good Umzüge Sargans		Burstel		8593	Kesswil		CH				20170101	0448506769	0448506769																		
+428	1	CHE-219.031.191	BookMaker comics.sagl in liquidazione		avenue Général-Guisan	117-119	1009	Pully		CH				20170101	0584245111	0584245111																		
+429	1	CHE-179.539.498	ALBASINI JEAN Menuiserie-charpente		chemin du Vieux-Canal	15	1950	Sion		CH				20170101			0313027322																	
+430	1	CHE-432.656.738	Peider Müller, falegnamaria		rue de Lausanne	7	1020	Renens VD		CH				20170101																				
+431	1	CHE-443.992.146	EIT Sàrl		Weiergutweg	12	3082	Schlosswil		CH				20170101	0714660070	0714660070																		
+432	1	CHE-248.911.912	UnternehmerZentrum Aktiengesellschaft, Eschen (LI), Zweigniederlassung Schluein		Lopperstrasse	1	6010	Kriens		CH				20170101																				
+433	1	CHE-243.820.426	PAUL NIEHANS LABORATORIES SA		Esslingerstrasse	20	8617	Mönchaltorf		CH				20170101																				
+434	1		Teleprogress AG		Jurastrasse	7	4147	Aesch BL		CH				20170101				aaron-dort@bluewin.ch																
+435	1	CHE-469.639.585	PWS Holding AG		Churerstrasse	47	8808	Pfäffikon SZ		CH				20170101	0418703535	0418703535																		
+436	1	CHE-162.506.668	Arte dei Capelli GmbH		Areal Bleiche West	24	4800	Zofingen		CH				20170101	0434998539	0434998539																		
+437	1	CHE-220.143.951	GM Invest Sursee AG		Pilgerstrasse	49	5405	Dättwil AG		CH				20170101	0218661762	0218661762		gc@alecom.ch																
+438	1	CHE-363.323.864	TRADAID SETTLEMENT		Bahnhofstrasse	22	8712	Stäfa		CH				20170101	0414800910	0414800910																		
+439	1	CHE-164.112.955	doco dominguez		Hauptstrasse	57	4495	Zeglingen		CH				20170101																				
+440	1		Spada Rocco		Maltinastrasse	15	8890	Flums		CH				20170101					http://www.goodumzug.ch															
+441	1	CHE-222.268.569	Scope Advisory GmbH		rue du Templs	6	2072	St-Blaise		CH				20170101																				
+442	1	CHE-489.733.193	Optimum Renovation Sàrl		Winkelriedstrasse	61	6003	Luzern		CH				20170101																				
+443	1	CHE-461.510.982	Baikal Wealth Management AG		place De-Grenus	8	1201	Genève		CH				20170101																				
+444	1	CHE-183.525.602	Fasola AG		rue Louis Agassiz	8	2300	La Chaux-de-Fonds		CH				20170101	0432770643	0432770643																		
+445	1	CHE-146.988.197	Haussener Architekten GmbH		Aarbergergasse	28	3011	Bern		CH				20170101																				
+446	1	CHE-239.095.521	Framik SA		Doggilochstrasse	92	7250	Klosters		CH				20170101					http://www.gujan-holz.ch															
+447	1	CHE-194.768.557	Baumgartner Transporte Egnach		Gewerbestrasse	4	8363	Bichelsee		CH				20170101			0439602813	g.coppola@vtxmail.ch																
+448	1	CHE-252.866.485	Sun Umzug GmbH		rue du Mont-Blanc	3	1201	Genève		CH				20170101																				
+449	1	CHE-268.530.571	Pillow & Pepper GmbH		Limmattalstrasse	232	8049	Zürich		CH				20170101																				
+450	1	CHE-433.269.611	Swiss Industrial Supply David Büchler		Mürtschenstrasse	10	8863	Buttikon SZ		CH				20170101																				
+451	1	CHE-252.864.724	EO Termotec Sàrl		Rathausstrasse	18	8570	Weinfelden		CH				20170101																				
+452	1	CHE-197.185.599	World Combat Federation in Liquidation		rue Jacques-Dalphin	22	1227	Carouge GE		CH				20170101																				
+453	1	CHE-335.033.088	uniq solution gmbh		Langstrasse	64	8004	Zürich		CH				20170101																				
+454	1	CHE-178.056.122	Denzler Toys		Breitloostrasse	68	8802	Kilchberg ZH		CH				20170101	0522691400	0522691400																		
+455	1	CHE-130.014.094	Christina Dimakopoulou, fashion and design products		rue Peillonnex	20	1225	Chêne-Bourg		CH				20170101																				
+456	1		Zoran Fenster GmbH		rue Jean-André Vernel	12	1400	Yverdon-les-Bains		CH				20170101				info@ac-i.ch																
+457	1	CHE-153.299.714	Bausan GmbH		Via dalla Stampa	8	7180	Disentis/Mustér		CH				20170101				paul.staub@bluewin.ch																
+458	1	CHE-358.778.070	GF Holding SA		Weite Gasse	7	5402	Baden		CH				20170101	0799586800	0799586800																		
+459	1	CHE-165.985.868	Samo Nails, Sarah Zemp		rue Masbou	6	1205	Genève		CH				20170101																				
+460	1	CHE-268.965.940	Energy + Ecology AG		rue du Général-Dufour	22	1204	Genève		CH				20170101																				
+461	1	CHE-262.220.913	Iris Giardini Sagl in liquidazione		Sinserstrasse	65	6330	Cham		CH				20170101																				
+462	1	CHE-373.664.315	Horat Architekturplanung		Felsenaustrasse	17	3004	Bern		CH				20170101	0414673236	0414673236																		
+463	1	CHE-230.655.520	I-NOVA Holding SA		route de Corin	18	3960	Sierre		CH				20170101	0417114466	0417114466																		
+464	1	CHE-341.286.887	Liechtensteinisch - Bulgarische Gesellschaft e.V.		Ettiswilerstrasse	24	6130	Willisau		CH				20170101	0449404978	0449404978																		
+465	1	CHE-269.978.649	BERTOLOSITRADE LIMITED, Berkshire, Zweigniederlassung Stansstad		Unionsgasse	14	2502	Biel/Bienne		CH				20170101																				
+466	1	CHE-163.543.815	Pinocchio, Rhyner		Mühlebachstrasse	2	8008	Zürich		CH				20170101	0916826262	0916826262																		
+467	1		yutongo GmbH		route du Mandement	17	1217	Meyrin		CH				20170101					http://www.bm-bati.ch															
+468	1	CHE-202.432.676	Top Bau Keramik B + L GmbH		Badenerstrasse	156	8004	Zürich		CH				20170101	0712443355	0712443355																		
+469	1	CHE-413.399.104	Immobilien IMBO AG		Brauerstrasse	51	8004	Zürich		CH				20170101																				
+470	1	CHE-305.667.259	Reichenbach Holding SA		chemin du Grand-Puits	47	1217	Meyrin		CH				20170101																				
+471	1	CHE-213.731.189	Aerotechnik Fahrzeugteile Europe GmbH		chemin de la Béraille	4C	1226	Thônex		CH				20170101																				
+472	1	CHE-198.325.325	Lenz Treuhand AG		via Rianella	2	6855	Stabio		CH				20170101	0554656545	0554656545	0715113389																	
+473	1		Ristorante und Pizzeria Toscana, Imam Ünlütepe		Marktplatz	3	8570	Weinfelden		CH				20170101			0219619941	montreux@beg-geol.ch																
+474	1	CHE-195.506.273	René Kuipers, Praxis für Physiotherapie		Klebestrasse	10	8041	Zürich		CH				20170101			0818362018																	
+475	1	CHE-453.608.538	Veracity GmbH		chemin de l'Aurore	48	1630	Bulle		CH				20170101	0556196600	0556196600																		
+476	1	CHE-296.262.915	Carlos das Neves Fernandes		Zentralstrasse	156	8003	Zürich		CH				20170101																				
+477	1	CHE-327.967.066	Schenkel SA		Schauplatzgasse	39	3011	Bern		CH				20170101	0917435785	0917435785																		
+478	1	CHE-273.784.485	Il Salentino, Enrico Riso		Lätternweg	4	3052	Zollikofen		CH				20170101	0417696070	0417696070																		
+479	1		Mühlemann & Partner Boilerdienst GmbH in Liquidation		rue des Epancheurs	12	2012	Auvernier		CH				20170101																				
+480	1	CHE-329.868.883	CT - Commerce AG		Graben	306	9621	Oberhelfenschwil		CH				20170101																				
+481	1	CHE-248.763.250	FC Vevey Riviera Sàrl		rue de l'Horloge	12	1164	Buchillon		CH				20170101	0416663131	0416663131		ulmer_kaminfeger@gmx.ch																
+482	1	CHE-381.150.372	SWISS MAGIC AIR LOPICIC		Eichzun	4b	3800	Unterseen		CH				20170101																				
+483	1	CHE-334.589.348	Reflex Bulgaria Ltd		Fröschenweidstrasse	12	8404	Winterthur		CH				20170101			0317215372																	
+484	1	CHE-108.633.416	Familienholding Müller vom Bohler AG		Günzenenstrasse	6a	3612	Steffisburg		CH				20170101	0623900208	0623900208																		
+485	1	CHE-375.103.737	Makeit AG		Industriestrasse	7	5314	Kleindöttingen		CH				20170101																				
+486	1	CHE-396.687.126	Jürg Kradolfer		rue Louis-De-Montfalcon	2 TER	1227	Carouge GE		CH				20170101	0918632829	0918632829																		
+487	1	CHE-416.951.682	Thomas Hägy GmbH		piazza Indipendenza	4	6500	Bellinzona		CH				20170101																				
+488	1	CHE-326.345.293	Mediahirsch AG		Hinterbüelstrasse	1	8307	Effretikon		CH				20170101																				
+489	1	CHE-374.492.353	Carrosserie MC Auto Débosselage Sàrl		Waldhöheweg	30	3013	Bern		CH				20170101			0227862550	info@dimeca.ch																
+490	1	CHE-138.474.200	Hofmann & Surber Spenglerei GmbH		Kalchbühlstrasse	169	8038	Zürich		CH				20170101																				
+491	1	CHE-386.345.380	A. BRANDÃO IMPORT - EXPORT		via Ferruccio Pelli	5	6900	Lugano		CH				20170101																				
+492	1	CHE-219.287.158	GEMFUNDS International AG		Elsauerstrasse	22	8352	Elsau		CH				20170101	0613012089	0613012089																		
+493	1	CHE-255.953.985	High Frequency Trading Solutions GmbH		via Giuseppe Motta	24	6830	Chiasso		CH				20170101	0627212056	0627212056																		
+494	1	CHE-333.960.641	Costa Elettronica Sagl		Obere Gasse	42	7000	Chur		CH				20170101	0622161127	0622161127	0442511364	mitsuo.shirahama@bluewin.ch																
+495	1	CHE-191.466.195	advocenter GmbH		Junkermattstrasse	10	4132	Muttenz		CH				20170101																				
+496	1	CHE-198.680.223	Brändle Limousine & Chauffeur Service		Rosgartenstrasse	16	7205	Zizers		CH				20170101																				
+497	1	CHE-253.149.452	MD PARTNERS TRUST		Hauptstrasse	43	6260	Reiden		CH				20170101																				
+498	1	CHE-309.590.756	Sevey SARL		Montenachweg	6	3123	Belp		CH				20170101	0213111369	0213111369																		
+499	1	CHE-349.691.872	Malerei Wagner GmbH		Luzernerstrasse	66	6403	Küssnacht am Rigi		CH				20170101	0816471106	0816471106																		
+500	1	CHE-262.749.674	Taxis Maldonado Sàrl		rue des Alpes	52	1023	Crissier		CH				20170101	0449393690	0449393690		office@lunafon.ch																
+501	1	CHE-408.671.306	BarbeQ GmbH		Lindenstrasse	10	6340	Baar		CH				20170101																				
+502	1	CHE-253.245.860	Le Café-kiosque de Colombier, Florence Godel		Höschgasse	83	8008	Zürich		CH				20170101	0918263111	0918263111																		
+503	1	CHE-148.878.562	LVAB AG		Poststrasse	6	6300	Zug		CH				20170101	0269126459	0269126459																		
+504	1	CHE-345.928.845	LCM - Lux Car Management AG		Feldblumenstrasse	20	8134	Adliswil		CH				20170101																				
+505	1	CHE-348.903.882	Motorama GmbH		Stockackerweg	47	2564	Bellmund		CH				20170101																				
+506	1	CHE-338.163.014	Moor Treuhand GmbH		Aeuli	7	7235	Fideris		CH				20170101	0216536090	0216536090																		
+507	1		Torus Insurance Holdings Limited in Liquidation		Widliackerstrasse	35	4415	Lausen		CH				20170101																				
+508	1	CHE-171.211.605	NEA Christiane GD Fleurs		chemin du Pré-Fleuri	3	1228	Plan-les-Ouates		CH				20170101																				
+509	1	CHE-191.825.897	safraco gmbh		Kaufhausplatz	5	7304	Maienfeld		CH				20170101																				
+510	1	CHE-467.768.912	Vainard Zürich AG		Untere Wolfackerstrasse	18	8280	Kreuzlingen		CH				20170101	0787104595	0787104595																		
+511	1	CHE-235.690.021	Trading House Company SA in liquidazione		Böhlisjockes	29	9057	Weissbad		CH				20170101																				
+512	1		ID Peinture Duraku		Grand-Rue	5	1700	Fribourg		CH				20170101																				
+513	1	CHE-348.302.642	COM-SWISS INTERIORS Sagl		Hauptstrasse	28	9436	Balgach		CH				20170101																				
+514	1	CHE-215.369.969	The Randle Trust		Enzenbühlstrasse	73	9230	Flawil		CH				20170101	0525339901	0525339901																		
+515	1	CHE-293.123.789	Autocenter Bülach-Süd AG		Albisstrasse	108	8038	Zürich		CH				20170101																				
+516	1		LUGERA Holding GmbH		Bahnhofstrasse	8	8953	Dietikon		CH				20170101																				
+517	1	CHE-266.674.816	Cuba Fishing Adventure Sàrl		Franklinstrasse	19	9400	Rorschach		CH				20170101	0324667700	0324667700																		
+518	1		Lotos-Produktionen GmbH		Weidweg	13	3286	Muntelier		CH				20170101																				
+519	1	CHE-322.520.172	Jäger Group GmbH		Route du Village	16	1908	Riddes		CH				20170101																				
+520	1	CHE-373.340.628	Alt Gr SA		corso Elvezia	4	6900	Lugano		CH				20170101	0227074070	0227074070																		
+521	1	CHE-323.716.884	LOFT by Senise		Industriestrasse	26	5600	Lenzburg		CH				20170101				fantasy.atelier@bluewin.ch																
+522	1	CHE-393.020.836	BlueOrchard Finance SA		chemin de la Sauge	6	1607	Palézieux		CH				20170101																				
+523	1	CHE-451.254.004	S. Gashi Bau		chemin de la Ruvine	10	1865	Les Diablerets		CH				20170101																				
+524	1		Muffler & Co. Reinigungen		Landquartstrasse	59	9320	Arbon		CH				20170101																				
+525	1	CHE-226.618.898	G-DARE SA		Mülinenstrasse	23	3006	Bern		CH				20170101					http://www.jordi-liegenschaften.ch															
+526	1	CHE-166.877.187	Hoteldesk Bernhart		rue du Village	23	1874	Champéry		CH				20170101				info@ribgmbh.ch																
+527	1	CHE-373.832.877	A.C.E. Genève Ambulances SA		avenue de Thônex	11	1226	Thônex		CH				20170101	0800124224	0800124224	0447671620																	
+528	1	CHE-135.215.228	Zubu GmbH		route de Murist	9	1470	Lully FR		CH				20170101	0244413569	0244413569		physios@physio218.ch																
+529	1	CHE-292.359.556	FEV Sàrl, succursale LOCA-SLIM		Oberglatterstrasse	35	8153	Rümlang		CH				20170101																				
+530	1	CHE-451.180.179	Lüsseltaler Wasserverbund LWV		rue Henri-Veyrassat	5	1202	Genève		CH				20170101																				
+531	1	CHE-350.480.951	Châteaux et Conseils Distributions Sàrl		Florastrasse	25	5436	Würenlos		CH				20170101	0717875550	0717875550																		
+532	1	CHE-481.200.473	Piscitelli Facility Services GmbH		via ai Molini	1	6616	Losone		CH				20170101																				
+533	1	CHE-156.562.664	BTS Baucontrol AG		Bahnhofstrasse	2	8610	Uster		CH				20170101	0799380265	0799380265																		
+534	1	CHE-336.584.971	Roland Leinauer Stiftung		rue du Locle	3A	2300	La Chaux-de-Fonds		CH				20170101	0218028191	0218028191																		
+535	1	CHE-293.183.107	Quartec GmbH		avenue Helvétique	2	1225	Chêne-Bourg		CH				20170101																				
+536	1	CHE-396.438.971	Optinet SA		avenue de la Gare	45	1920	Martigny		CH				20170101																				
+537	1		3LED Lighting GmbH		Clarastrasse	27	4057	Basel		CH				20170101			0273213535	info@est8.ch																
+538	1	CHE-231.611.123	Schreinerei Häfliger GmbH		Bärengässli	2	6460	Altdorf UR		CH				20170101																				
+539	1	CHE-425.983.480	Crown of India GmbH		Marktgasse	27	8400	Winterthur		CH				20170101				info@kaufleuten.ch																
+540	1	CHE-390.217.331	D.S. NETTOYAGES Spasojevic Rakic		Stettbachstrasse	6	8600	Dübendorf		CH				20170101	0552402669	0552402669																		
+541	1	CHE-130.061.283	Bénédict Berufsfachschule AG Zürich		Bahnhofstrasse	11	3629	Kiesen		CH				20170101	0324921378	0324921378																		
+542	1	CHE-265.266.231	KRM (Austria) GmbH		Schaffhauserstrasse	1	8226	Schleitheim		CH				20170101																				
+543	1		PANILIMA GmbH		Brauerstrasse	79b	9016	St. Gallen		CH				20170101																				
+544	1	CHE-451.518.309	Familienarztpraxis Felben-Wellhausen GmbH		Lindauerstrasse	11	8307	Effretikon		CH				20170101																				
+545	1	CHE-202.809.249	Cronimet Mining Energy AG		Speerstrasse	18	8722	Kaltbrunn		CH				20170101	0627230282	0627230282																		
+546	1	CHE-367.952.378	Amphoris AG		Bruggerstrasse	28	5102	Rupperswil		CH				20170101			0919213801	info@siamtech.ch																
+547	1	CHE-269.775.939	QualityPflegebetreuung Aktiengesellschaft		Sonnenrain	68	8700	Küsnacht ZH		CH				20170101	0629632555	0629632555																		
+548	1	CHE-319.090.107	Auberge communale, Schuler & Konrad		Schwalbenbodenstrasse	18	8832	Wollerau		CH				20170101																				
+549	1	CHE-176.212.747	BB Holding AG		Oberneuhofstrasse	5	6340	Baar		CH				20170101	0919944433	0919944433		info@irion-recyclage.ch																
+550	1	CHE-441.154.252	DOLPHIN CONSULTING & TRADING SA		Brüggera	694	1716	Schwarzsee		CH				20170101																				
+551	1	CHE-264.837.705	SGS (SL) Ltd.		Leutschenbachstrasse	95	8050	Zürich		CH				20170101	0717442211	0717442211																		
+552	1	CHE-494.496.403	activ solar Schweiz GmbH		sentier des Vignes	1B	3960	Sierre		CH				20170101																				
+553	1	CHE-319.233.938	ApfelDoc.ch GmbH		Im Gsteig	4	8700	Küsnacht ZH		CH				20170101	0434115990	0434115990																		
+554	1	CHE-169.642.798	Beauty International GmbH		Allmendstrasse	63	4612	Wangen b. Olten		CH				20170101																				
+555	1	CHE-138.219.292	Cytrus AG		Gürtelstrasse	46	7000	Chur		CH				20170101	0327513462	0327513462																		
+556	1	CHE-230.219.981	innoraum architektur ag		Hauptstrasse	63	4102	Binningen		CH				20170101																				
+557	1	CHE-294.519.871	Coutts-Baldwin Limited (en liquidation)		chemin du Caudoz	74	1009	Pully		CH				20170101																				
+558	1	CHE-461.217.281	Porchet MedTech GmbH		Untere Rebgasse	22	4058	Basel		CH				20170101																				
+559	1	CHE-449.450.317	c-m GmbH		Hertistrasse	25	8304	Wallisellen		CH				20170101	0216416161	0216416161																		
+560	1	CHE-270.939.194	Therapiepraxis Muntinga		Spissstrasse		3920	Zermatt		CH				20170101																				
+561	1	CHE-498.879.832	IMAGEWORKER AG		place Numa-Droz	1	2000	Neuchâtel		CH				20170101	0344911113	0344911113																		
+562	1	CHE-236.678.896	edge IPK Ltd		Rötelstrasse	15	8006	Zürich		CH				20170101					http://www.adimmo.ch															
+563	1	CHE-208.202.726	préparationfinancière.com Sàrl		Rotzbergstrasse	17a	6362	Stansstad		CH				20170101	0448007040	0448007040																		
+564	1	CHE-312.875.768	Davancis AG in Liquidation		Voltastrasse	106	4056	Basel		CH				20170101	0556196600	0556196600																		
+565	1	CHE-220.187.486	AKELE - Consulting AG		Simmentalstrasse	26	3700	Spiez		CH				20170101																				
+566	1	CHE-499.121.643	Grossenbacher Mandate GmbH		via del Sole	37	6600	Muralto		CH				20170101																				
+567	1	CHE-310.241.274	GMT Bau GmbH		Frohheimstrasse	2	9325	Roggwil TG		CH				20170101	0765635253	0765635253																		
+568	1	CHE-324.701.046	Zahnarzt am Schwanenplatz GmbH		Schiedhaldenstrasse	41	8700	Küsnacht ZH		CH				20170101	0719441212	0719441212																		
+569	1	CHE-325.504.040	E. Morand Deckensysteme		rue des Champs-Lovats	9	1400	Yverdon-les-Bains		CH				20170101																				
+570	1	CHE-251.726.338	Beretta Klaus Consulting GmbH		chemin de l'Etang	46	1219	Châtelaine		CH				20170101																				
+571	1	CHE-320.819.772	AKG Acoustics GmbH		Hauptstrasse	25	5037	Muhen		CH				20170101	0223106959	0223106959																		
+572	1	CHE-461.747.426	Verein Swiss Hostels		chemin du Prieuré	4	1304	Cossonay-Ville		CH				20170101					http://www.courdesse-associes.ch															
+573	1	CHE-204.029.216	Pharma Santé & Labo Santé, R.P. Gauch (Galilée) Joseph		Allerheiligenstrasse	1	4614	Hägendorf		CH				20170101	0552207474	0552207474																		
+574	1	CHE-170.166.439	GROUPE FLORAL HS, SEGHIR		Dübendorfstrasse	8	8117	Fällanden		CH				20170101																				
+575	1	CHE-471.235.955	Florence Quartier-dit-Maire		Fischmarktstrasse	2	8640	Rapperswil SG		CH				20170101	0218032102	0218032102																		
+576	1	CHE-420.313.415	SECURE HOME - Morel		Löhrstrasse	10	9402	Mörschwil		CH				20170101																				
+577	1	CHE-247.374.816	Pentair Middle East Holding Sàrl		avenue Louis-Casaï	43	1220	Les Avanchets		CH				20170101																				
+578	1	CHE-437.877.979	Coxim SA		Geltenwilenstrasse	4	9000	St. Gallen		CH				20170101	0417610929	0417610929																		
+579	1	CHE-203.058.876	DaniMe Exploitation Sàrl		Neubödliweg	1	6314	Unterägeri		CH				20170101	0213241212	0213241212																		
+580	1	CHE-279.741.706	Kaiser Verwaltungs-GmbH		Landstrasse	152	5301	Siggenthal Station		CH				20170101																				
+581	1		Stiftung Mediationsvermittlung Region Basel		Uttigenstrasse	25	3600	Thun		CH				20170101																				
+582	1	CHE-447.021.572	TOMTECHNIK, SCHEICHL		piazza Cioccaro	4	6900	Lugano		CH				20170101	0522225368	0522225368	0219054091	carro.passion@gmail.com																
+583	1	CHE-390.123.658	ESAHO Sàrl		Alter Zürichweg	6	8952	Schlieren		CH				20170101																				
+584	1		Probst Partner AG		Pfarrgasse	36	8704	Herrliberg		CH				20170101																				
+585	1	CHE-285.075.993	boll tech		Via Maderni	12	6816	Bissone		CH				20170101	0325598583	0325598583		g.martusciello@bluewin.ch																
+586	1	CHE-331.032.799	Pras Sagl		corso San Gottardo	25	6830	Chiasso		CH				20170101																				
+587	1		Kirubaharan YARL Cash + Carry		Bietschgärten	34	3942	Raron		CH				20170101																				
+588	1	CHE-150.713.597	Restaurant Freihof Pizzeria da Galipo GmbH		Bifangweg	35	4246	Wahlen b. Laufen		CH				20170101			0229060496																	
+589	1		Stiftung Tandem 91		Grafenaustrasse	7	6304	Zug		CH				20170101																				
+590	1	CHE-155.996.161	BERG HOLDING AKTIENGESELLSCHAFT in Liquidation		Hauptstrasse	1	9053	Teufen AR		CH				20170101																				
+591	1	CHE-385.815.868	real - cbt Wyss-Reumer Aline		via delle Fornaci	8	6828	Balerna		CH				20170101	0433770030	0433770030																		
+592	1	CHE-114.300.325	MEJERO di G. Meroni		Neuweg	31	8600	Dübendorf		CH				20170101																				
+593	1	CHE-434.821.600	PIWKO GEMS		Genossenschaftsstrasse	18	8050	Zürich		CH				20170101																				
+594	1	CHE-188.874.814	Impuls Drogerie Moser AG		chemin Frank-Thomas	36	1208	Genève		CH				20170101	0279480482	0279480482																		
+595	1	CHE-395.868.240	Confiserie Schneider Patrik		Dorfstrasse	5	8954	Geroldswil		CH				20170101	0445590675	0445590675																		
+596	1	CHE-174.115.211	Debby's Schoggifrüchte, Neamati		Via della Posta	4	6901	Lugano		CH				20170101																				
+597	1	CHE-167.346.343	Golf Restaurant Pereira GmbH		rue Galilée	15	1400	Yverdon-les-Bains		CH				20170101																				
+598	1	CHE-313.955.890	Doris Kocsó, Praxis für Gesundheit und Prävention		chemin de Machéry	56	1292	Chambésy		CH				20170101																				
+599	1	CHE-432.339.462	SOLAREO SA		Haus Furkasunna		7050	Arosa		CH				20170101	0414841145	0414841145	0218812892																	
+600	1	CHE-393.332.922	Fährhof Immobilien GmbH		Gerechtigkeitsgasse	25	8001	Zürich		CH				20170101																				
+601	1	CHE-307.133.514	Teslily Afro & Asia Shop, Aigbogun		chemin du Vieux Collège	2	1077	Servion		CH				20170101			0912206679	info@concettosicurezza.ch	http://www.charpente-menuiserie.ch															
+602	1	CHE-436.398.937	SDH Swiss Diagnostics Holding AG in Liquidation		Aargauerstrasse	240	8048	Zürich		CH				20170101																				
+603	1	CHE-181.421.251	Centro Acustico Ticinese Sagl		Murgtalstrasse	31/61	9542	Münchwilen TG		CH				20170101	0216940720	0216940720																		
+604	1	CHE-171.890.006	Rolf Hüni GmbH		chemin des Assenges	2	1142	Pampigny		CH				20170101	0244711701	0244711701			http://www.baumgartner-pampigny.ch															
+605	1	CHE-334.351.249	Idrizi's Gastro & Immo Solutions		Ziegeleistrasse	2	8253	Diessenhofen		CH				20170101																				
+606	1	CHE-206.088.052	Les Chocolats Allier AG		Baarerstrasse	80	6300	Zug		CH				20170101	0818336948	0818336948	0444514029	info@oberes-triemli.ch																
+607	1	CHE-246.285.908	Bureau de Cintra Batista		Rotzbergstrasse	1	6362	Stansstad		CH				20170101	0613031080	0613031080																		
+608	1	CHE-396.839.258	Liberova Immobilien		Bahnhofplatz	1	6060	Sarnen		CH				20170101	0244792345	0244792345																		
+609	1	CHE-292.732.307	RUAG Hungarian Ammotec Inc.		ruelle des Granges	2	3966	Chalais		CH				20170101																				
+610	1	CHE-447.943.402	Hof - Designe/Events and Creation		rue de la Gabelle	22	1227	Carouge GE		CH				20170101																				
+611	1	CHE-481.693.845	LE - Light Energy Systems AG in Nachtragsliquidation		Schöneggstrasse	17	8004	Zürich		CH				20170101	0319721217	0319721217	0323515146	sales@flightstore.ch																
+612	1	CHE-362.602.066	OFYR SARL		Zugerstrasse	46	6314	Unterägeri		CH				20170101	0628932323	0628932323																		
+613	1		Fromex SA		Chamerstrasse	42A	6331	Hünenberg		CH				20170101																				
+614	1	CHE-285.867.758	Talent Services GmbH		Tischmacherhof	18	8854	Galgenen		CH				20170101																				
+615	1		HMS Weis		rue des Parcs	31	2000	Neuchâtel		CH				20170101																				
+616	1	CHE-139.597.762	DCG Cengic Bau		Einschlagstrasse	2	4622	Egerkingen		CH				20170101																				
+617	1	CHE-133.328.040	Boissons Bebida Sàrl		Oberneuhofstrasse	3	6340	Baar		CH				20170101																				
+618	1		Möbel Börse - Hitprice GmbH in Liquidation		rue des Eaux-Vives	15	1207	Genève		CH				20170101																				
+619	1	CHE-218.535.402	Elias Moreira Fernandes, MJ COIFFURE		Hinterfeldstrasse	43	4242	Laufen		CH				20170101																				
+620	1	CHE-338.935.567	DLR Immo GmbH		Schulstrasse	7	9435	Heerbrugg		CH				20170101	0714404230	0714404230																		
+621	1	CHE-210.653.647	carxpert Garage Stalder AG		Dorfstrasse	10	3073	Gümligen		CH				20170101																				
+622	1	CHE-473.599.776	Bistro-Mett GmbH		Alte Kantonsstrasse	3	6440	Brunnen		CH				20170101	0279235336	0279235336																		
+623	1	CHE-485.951.495	Jean-François Clément SARL		Chapfstrasse	28	8625	Gossau ZH		CH				20170101																				
+624	1	CHE-190.461.143	Capital Services Group - Europe GmbH		Leuenallee	14	4702	Oensingen		CH				20170101																				
+625	1	CHE-303.805.295	Tycoona Holding AG		Aarauerstrasse	28	5018	Erlinsbach		CH				20170101																				
+626	1	CHE-402.169.557	GOLDMÜHLE BLAZINSCHEK		Hagenholzstrasse	100	8050	Zürich		CH				20170101																				
+627	1	CHE-329.305.195	SOGECA SA		via alla Vignascia	2A	6596	Gordola		CH				20170101																				
+628	1	CHE-325.492.371	DAROBA AG		boulevard de Pérolles	7	1700	Fribourg		CH				20170101	0522022125	0522022125																		
+629	1		RIVI SA		Auenring	33	8303	Bassersdorf		CH				20170101																				
+630	1	CHE-298.387.120	Schenker Schreinerei		quai du Seujet	18	1201	Genève		CH				20170101				help@marks.gr	http://www.t-ingenierie.com															
+631	1	CHE-211.065.128	AB Ari Bau GmbH in Liquidation		Gewerbestrasse	12	4450	Sissach		CH				20170101																				
+632	1	CHE-203.866.244	BS RENOVATION - Buchs Steve		Im Handschüssel	46	8472	Seuzach		CH				20170101	0912206889	0912206889																		
+633	1	CHE-280.912.512	Stylr SA		Hof	141	9426	Lutzenberg		CH				20170101				tomzenger@bluewin.ch																
+634	1		R. Meier Bauingenieur GmbH		prom.des Champs-Fréchets	10	1217	Meyrin		CH				20170101																				
+635	1	CHE-372.307.083	Qbasis i Trend Fund		Route principale		3961	St-Luc		CH				20170101	0614015869	0614015869																		
+636	1	CHE-379.754.483	L'Angolo del Sud GmbH in Liquidation		rue des Epinettes	8a	1227	Carouge GE		CH				20170101																				
+637	1	CHE-157.944.749	Express Union International Sàrl, succursale de Lausanne		Habsburgerstrasse	22	6003	Luzern		CH				20170101																				
+638	1	CHE-165.719.918	Maître dû Bois Abassi		Teichstrasse	15	4106	Therwil		CH				20170101	0628750807	0628750807	0712440913	r.boscardin@bluewin.ch																
+639	1	CHE-147.748.342	AMF Elettroconsulenze Sagl		Schachenstrasse	5	6010	Kriens		CH				20170101	0812868000	0812868000																		
+640	1	CHE-204.289.562	MUTZGY AG		Obere Hauptgasse	14	3600	Thun		CH				20170101																				
+641	1	CHE-358.915.065	de Raemy dR coaching & security		Langgasse	91	9008	St. Gallen		CH				20170101																				
+642	1	CHE-237.718.251	Gastrovogel Sàrl		place Centrale	9	1920	Martigny		CH				20170101				info@alima-verwaltung.ch																
+643	1	CHE-230.532.610	PDM Touristik GmbH		Untere Rebgasse	22	4058	Basel		CH				20170101	0318593686	0318593686																		
+644	1	CHE-397.612.071	Gerber Finanzdienstleistungen		Baarerstrasse	18	6300	Zug		CH				20170101																				
+645	1	CHE-429.628.351	StreRol GmbH		chemin du Bochet	2	1195	Bursinel		CH				20170101																				
+646	1	CHE-264.102.348	Hayler Holding GmbH		Schlossstrasse	95c	3008	Bern		CH				20170101																				
+647	1	CHE-267.580.721	Summit Foods SA		Fichtenweg	10	9470	Buchs SG		CH				20170101																				
+648	1	CHE-482.233.802	Temstar AG		Oberseestrasse	56	8640	Rapperswil SG		CH				20170101			0617130375	info@schumacher-elektro.ch																
+649	1	CHE-277.723.761	Aellen Transports		Holzgasse	4	8001	Zürich		CH				20170101																				
+650	1	CHE-339.080.141	Green Architecture GmbH		Grünau	1	8233	Bargen SH		CH				20170101	0622161010	0622161010	0717337704																	
+651	1		MnemosYna Condrea		Mühlewiesenweg	7	8500	Frauenfeld		CH				20170101																				
+652	1	CHE-319.799.683	SCHMID, Innenarchitektur plus		Hauptstrasse	36	4952	Eriswil		CH				20170101	0338234970	0338234970																		
+653	1	CHE-314.405.132	DENI-BAT SA		Poststrasse	1	9100	Herisau		CH				20170101	0712779104	0712779104																		
+654	1	CHE-296.758.369	seven24seven Rüegg		Zentweg	17	3006	Bern		CH				20170101	0449266672	0449266672																		
+655	1	CHE-477.724.833	Daldrop + Dr. Ing. Huber GmbH + Co. KG		Isisbüelstrasse	2	8800	Thalwil		CH				20170101	0417697070	0417697070																		
+656	1	CHE-379.338.251	MANIOLA TRUST		Überlandstrasse	101	8600	Dübendorf		CH				20170101																				
+657	1	CHE-370.461.632	Muggensturm GmbH		Ergetenacker	51	8525	Niederneunforn		CH				20170101	0614679500	0614679500		info@kaden.ch																
+658	1	CHE-496.462.993	SWISSEN Fund		Brättligäu	6	5600	Lenzburg		CH				20170101					http://www.augenarzt-lenzburg.ch															
+659	1	CHE-183.589.507	Entreprise de construction, Pereira Duarte David		Zihlmattweg	44	6005	Luzern		CH				20170101																				
+660	1	CHE-466.098.782	BFG Bureau Fiduciaire SARL		Kieselgasse	2	8008	Zürich		CH				20170101	0414804747	0414804747																		
+661	1	CHE-499.476.023	Lions Bar, Ivecen Özgür		Eplatures-Grise	17	2300	La Chaux-de-Fonds		CH				20170101			0613789669																	
+662	1	CHE-411.072.313	SAPENSUS Sàrl		Altstetterstrasse	223	8048	Zürich		CH				20170101	0218073049	0218073049	0919137009																	
+663	1		HD Drinks GmbH		Langackerstrasse	1	4332	Stein AG		CH				20170101																				
+664	1	CHE-151.377.846	Olivaw SA		Thunstrasse	12	3612	Steffisburg		CH				20170101																				
+665	1	CHE-338.998.177	Staub Bodenleger		rte de Luc	137	1966	Ayent		CH				20170101	0713888350	0713888350																		
+666	1	CHE-257.336.964	HRZ Projects GmbH		Dorfstrasse	24	8494	Bauma		CH				20170101	0244261056	0244261056		francois.llavador@gmail.com																
+667	1	CHE-305.203.641	Coiffure Haar Werk, Aileen Berus		quai Ernest-Ansermet	2	1205	Genève		CH				20170101	0338555855	0338555855																		
+668	1	CHE-493.947.768	Candrian Catering AG, Zweigniederlassung Gastronomie Bahnhof Basel		Schänisweg		5001	Aarau 1 Fächer		CH				20170101																				
+669	1	CHE-460.374.630	PetroKhem & Energy SAGL		Le Boéchet	6	2336	Les Bois		CH				20170101	0719514990	0719514990																		
+670	1	CHE-270.267.064	AF Keramik GmbH		Dorfstrasse	200	5463	Wislikofen		CH				20170101	0565587875	0565587875																		
+671	1	CHE-116.440.440	Daniel Navid Consulting		chemin de l'Epenay	6	1270	Trélex		CH				20170101	0327241434	0327241434																		
+672	1	CHE-187.143.524	Denken Partners GmbH		Unterfeldstrasse	15	8050	Zürich		CH				20170101																				
+673	1	CHE-473.432.567	Fa. 4 all in 1 Sanierung Matar		Hegdornstrasse	56	3904	Naters		CH				20170101																				
+674	1	CHE-166.666.762	KREUZSPIEGL MIRROR INTERIOR		Pfingstweidstrasse	94	8005	Zürich		CH				20170101																				
+675	1		Living Bamboo GmbH		sans adresse		3963	Montana		CH				20170101																				
+676	1	CHE-184.884.995	Autonoleggio Berini Sagl		Oetwilerstrasse	29	8634	Hombrechtikon		CH				20170101																				
+677	1		PAE Sàrl Parc Aventure Evaux		chemin du Ruttet	10	1196	Gland		CH				20170101																				
+678	1	CHE-386.203.076	Prema's weinclub Cavardiras GmbH		Hohrainlistrasse	23	8302	Kloten		CH				20170101																				
+679	1	CHE-276.372.044	Antonio Marzoli Malergeschäft		Belpstrasse	26	3007	Bern		CH				20170101			0227863677		http://www.asp-vorsorge.ch															
+680	1	CHE-301.326.316	Saray Holding AS		Hüserhüüs		3987	Riederalp		CH				20170101																				
+681	1	CHE-369.266.176	alia via GmbH		Thunstrasse	8	3005	Bern		CH				20170101																				
+682	1	CHE-284.743.361	Import Export, Teoh		rue de la Dîme	78	2000	Neuchâtel		CH				20170101			0556501647	asanireisen@bluewin.ch																
+683	1	CHE-147.917.604	BF-Engineering Sagl		Stationsweg	12	5502	Hunzenschwil		CH				20170101																				
+684	1		Pistache Jens Herkenrath		Siewerdtstrasse	105	8050	Zürich		CH				20170101			0217290717	info@st-clerc.ch																
+685	1		Intercoiffure Kaiser AG		Marktstrasse	9	4512	Bellach		CH				20170101																				
+686	1	CHE-199.760.741	SwissChildClinic AG in Liquidation		Bahnhofstrasse	198	8620	Wetzikon ZH		CH				20170101	0277831826	0277831826																		
+687	1		KROATIV GmbH		rue de Saint-Victor	4	1206	Genève		CH				20170101			0227349076		http://www.nbtravel.ch															
+688	1	CHE-213.474.911	hiddenframe GmbH		Speerblick	10	8212	Neuhausen am Rheinfall		CH				20170101	0313987025	0313987025																		
+689	1	CHE-144.956.252	Ecuries de la Rossat SA		Maienstrasse	6	2540	Grenchen		CH				20170101			0244262911	dan.sanitaire@gmail.com																
+690	1	CHE-447.326.132	Apo Consult AG in Liquidation		avenue du Théâtre	16	1005	Lausanne		CH				20170101																				
+691	1	CHE-339.866.710	Hotel White Horse Knauseder		chemin des Marionnettes	124	1093	La Conversion		CH				20170101																				
+692	1	CHE-359.542.972	K-Atelier, Kubli Thomas, Architektur und Designmodelle		Place du Midi	24	1951	Sion		CH				20170101	0264690170	0264690170																		
+693	1		Leubaz Gestion & Conseil		Luggwegstrasse	14	8048	Zürich		CH				20170101				info@fingerhut.cc																
+694	1	CHE-167.072.973	Gandegghütte, R. Lehner u. Y. Lehner-Gaudin		Saatlenstrasse	277	8050	Zürich		CH				20170101	0816303090	0816303090																		
+695	1	CHE-437.054.423	POP AND CHIC SARL		ch. de Derrière Sonzier	2	1822	Chernex		CH				20170101																				
+696	1	CHE-148.049.962	ISS Facility Services AG, Zweigniederlassung Winterthur		rue de Graveline	8	1400	Yverdon-les-Bains		CH				20170101																				
+697	1	CHE-369.806.109	MIKISAN (Switzerland) GmbH		via Zurigo	35	6900	Lugano		CH				20170101																				
+698	1	CHE-498.178.764	Efico Foundation		Kantonsstrasse	7	6234	Triengen		CH				20170101			0447877374																	
+699	1	CHE-242.443.580	BIT-Software Schweiz Christian Schifferle		route André Piller	39	1720	Corminboeuf		CH				20170101	0448518070	0448518070																		
+700	1	CHE-146.371.683	sinnathamby sivanantham		Zürcherstrasse	350	8406	Winterthur		CH				20170101	0413753660	0413753660																		
+701	1	CHE-315.638.420	Lac Leman Medical Management SA		rue des Courtils	44	2016	Cortaillod		CH				20170101																				
+702	1	CHE-350.687.073	Kiosk Markthalle Kilic		General-Guisan-Strasse	6	6300	Zug		CH				20170101	0344130468	0344130468		hajrush.bajrami@hotmail.ch																
+703	1	CHE-156.662.490	Alma Concept Assurances et Finances, Lucia Jose de Almeida		Aegeristrasse	50	6301	Zug		CH				20170101	0326825725	0326825725																		
+704	1	CHE-257.836.379	Stadtlandkind GmbH		Seedammstrasse	3	8808	Pfäffikon SZ		CH				20170101																				
+705	1	CHE-493.108.845	Epal.toitures Sàrl		Grand-Rue	24	1180	Rolle		CH				20170101																				
+706	1	CHE-403.906.117	HBAV-Holding AG		Im Feld	3	8424	Embrach		CH				20170101																				
+707	1	CHE-370.177.792	EQVAL SA		Grand-Rue	38 A	1297	Founex		CH				20170101																				
+708	1	CHE-357.407.694	Immobiliare Montegeneroso SA		rue des Charmettes	57	2000	Neuchâtel		CH				20170101																				
+709	1	CHE-462.519.187	vA1A Immobilien AG		Marktgasse	16	8302	Kloten		CH				20170101																				
+710	1	CHE-409.120.960	STARNIGHT, Mentor Qelaj		Lagerstrasse	32	8004	Zürich		CH				20170101	0417994222	0417994222																		
+711	1	CHE-432.581.916	Scheidegger Gartenbau GmbH		Talstrasse	73	3922	Stalden VS		CH				20170101	0327305589	0327305589	0447343588																	
+712	1	CHE-381.762.931	Bar Chez Sam Sàrl		Wülflingerstrasse	126	8408	Winterthur		CH				20170101	0217288526	0217288526																		
+713	1	CHE-407.248.632	dl-c, designlab-construction sa		route de Colovrex	16	1218	Le Grand-Saconnex		CH				20170101	0817401469	0817401469			http://www.redzone.ch															
+714	1	CHE-217.772.336	Glenmark Therapeutics AG		piazza Molino Nuovo	15	6900	Lugano		CH				20170101	0434559261	0434559261																		
+715	1	CHE-414.935.519	Aboflex GmbH		Schlossweg	16	8852	Altendorf		CH				20170101			0617312264																	
+716	1	CHE-303.376.319	KUMARO Holding AG		quai Charles-Page	19	1205	Genève		CH				20170101	0791743219	0791743219																		
+717	1	CHE-150.193.551	Société coopérative de promotion et vente des produits laitiers du Val d'Illiez PROMOVI		avenue d'Agaune	30	1890	St-Maurice		CH				20170101	0627941029	0627941029																		
+718	1	CHE-191.457.954	Verein Wärmeverbund Kirchweg Hüttlingen (VWKH)		Allmendweg	4	6232	Geuensee		CH				20170101																				
+719	1	CHE-179.918.186	Hôtel des Pargots - Chopard-dit-Jean Philippe		Laufenstrasse	21	4222	Zwingen		CH				20170101	0712775906	0712775906		info@assets-protection.ch																
+720	1	CHE-195.691.377	PoolBox SA		Seestrasse	93	6052	Hergiswil NW		CH				20170101																				
+721	1	CHE-495.703.504	Thomas Preuhs Holding AG		Sihleggstrasse	23	8832	Wollerau		CH				20170101	0274517171	0274517171																		
+722	1	CHE-217.606.979	Aviotraining SA		route de Founex	1	1296	Coppet		CH				20170101	0566778200	0566778200																		
+723	1	CHE-165.905.266	MV Life Science Consulting GmbH		Industriestrasse	22	6302	Zug		CH				20170101	0273220519	0273220519	0719828244	info@schrag-eier.ch																
+724	1	CHE-338.508.308	Gabriel Bonfim Collection AG		Wiesenstrasse	1	8953	Dietikon		CH				20170101	0442017650	0442017650																		
+725	1	CHE-387.258.080	iForge GmbH		Kantonsstrasse	114	6048	Horw		CH				20170101																				
+726	1	CHE-433.960.989	Tambini Consulting		Zollikerstrasse	6	8008	Zürich		CH				20170101	0216241320	0216241320																		
+727	1	CHE-479.221.684	TECOmedical SARL		Heugärtenweg	1	6232	Geuensee		CH				20170101																				
+728	1		MK - MARKET Krcmarevic		route de l'Antenne	69	1997	Haute-Nendaz		CH				20170101																				
+729	1	CHE-363.761.342	Abris Confort Sàrl		Seefeldstrasse	283	8008	Zürich		CH				20170101				wild_isabel@bluewin.ch																
+730	1	CHE-379.747.974	Bar Karaoké La Bomba - HMIDA		rue des Bains	35	1205	Genève		CH				20170101	0919852590	0919852590																		
+731	1	CHE-342.061.894	AKYADO-NAIL LOUNGE, Christina Berthoud		Weiermattstrasse	68	3027	Bern		CH				20170101	0526701818	0526701818																		
+732	1	CHE-299.066.931	SCONDAQ GmbH		Bädlistrasse	92	8583	Sulgen		CH				20170101																				
+733	1	CHE-146.498.378	apm GmbH		Spitalgasse	30	3011	Bern		CH				20170101																				
+734	1	CHE-463.060.777	Restaurant des Quais Sàrl		Kreuzgasse	4	7204	Untervaz		CH				20170101	0432119292	0432119292																		
+735	1	CHE-465.094.907	ALAMOS SA		Humbelstrasse	14	8824	Schönenberg ZH		CH				20170101																				
+736	1	CHE-196.757.903	Sauser Immobilien AG		Chemin des Traverses	10	1669	Les Sciernes-d'Albeuve		CH				20170101																				
+737	1	CHE-246.118.044	bauerei.com Reithaar Appenzeller & Co		via Giuseppe Motta	16	6830	Chiasso		CH				20170101																				
+738	1	CHE-340.814.602	Boulevard Autocenter - Chadi Mourtada		Bahnhofplatz	17	8400	Winterthur		CH				20170101	0916824981	0916824981																		
+739	1	CHE-285.160.788	COPPELIA ROBOTICS MARC FREESE		Tüfi	795	9105	Schönengrund		CH				20170101																				
+740	1	CHE-437.940.939	Citec Ingénieurs-Conseils SA, succursale de Neuchâtel		Laupenstrasse	1	8636	Wald ZH		CH				20170101	0266631113	0266631113																		
+741	1	CHE-254.317.120	Bisonfarm.ch Lenz		Rütistrasse	3a	5400	Baden		CH				20170101																				
+742	1	CHE-394.644.057	Rainca Transport GmbH		Kirchgasse	24	8001	Zürich		CH				20170101	0448313131	0448313131																		
+743	1	CHE-444.341.431	FX Diversity AG		Kirchstrasse	10	8953	Dietikon		CH				20170101																				
+744	1	CHE-263.075.364	Gautschi Consulting		corso San Gottardo	84	6830	Chiasso		CH				20170101																				
+745	1	CHE-468.229.575	Titocci - Metalcostruzioni		Alte Landstrasse	74	8702	Zollikon		CH				20170101																				
+746	1	CHE-466.064.547	DLZ Dienstleistungszentrum GmbH		Rohrgartenstrasse	54	9642	Ebnat-Kappel		CH				20170101	0327211974	0327211974																		
+747	1	CHE-363.679.930	ICALEMAN SA		chemin des Roches	1	1700	Fribourg		CH				20170101																				
+748	1	CHE-240.947.384	Pegonia Group GmbH		Obere Rainstrasse	26	6345	Neuheim		CH				20170101																				
+749	1	CHE-300.816.948	Swiss-China Trading GmbH		Pilatusstrasse	18	5737	Menziken		CH				20170101																				
+750	1	CHE-138.523.844	L'Atelier dell'Orologio Sagl		Hauptplatz	2	8640	Rapperswil SG		CH				20170101																				
+751	1		P.ARC AG		Lomattenstrasse	7	3906	Saas-Fee		CH				20170101			0334376725	info@pilzfarm.ch																
+752	1	CHE-360.421.654	Max Peter Consulting MPC GmbH		Chemin de la Glâne	6	1726	Posat		CH				20170101																				
+753	1	CHE-352.301.657	Values First Consulting Sdn. Bhd.		Tödistrasse	52	8002	Zürich		CH				20170101																				
+754	1	CHE-447.755.533	DDKgroup Ltd		Lerchenstrasse	5	7323	Wangs		CH				20170101	0417670822	0417670822																		
+755	1	CHE-248.778.381	EXECUTIVE MANAGEMENT CONSULTING GMBH		via Angelo Nessi	38 b	6600	Locarno		CH				20170101																				
+756	1	CHE-304.421.945	Tattoo Family GmbH		Schulhausgasse	22	3113	Rubigen		CH				20170101	0798175446	0798175446																		
+757	1		Julien Barby		Eggimannstrasse	24	3008	Bern		CH				20170101																				
+758	1	CHE-230.228.129	A.B. Exclusives Wanddesign Brendel		Gerbestrasse	6	8805	Richterswil		CH				20170101				info@janine-buehler.ch																
+759	1	CHE-387.898.411	OneSolutions SA		rue des Eaux-Vives	15	1207	Genève		CH				20170101																				
+760	1	CHE-292.611.431	SOCIECO sa		Eichstrasse	14	6330	Cham		CH				20170101	0556123737	0556123737																		
+761	1		Vision Bancorp AG		Felsenaustrasse	5	7000	Chur		CH				20170101																				
+762	1	CHE-219.960.570	CENTRE SCOOTER ET VELOMOTEURS A. ILACQUA Sàrl		Schoeckstrasse	20	9008	St. Gallen		CH				20170101	0216162670	0216162670	0432449945																	
+763	1	CHE-344.183.574	FEEL BEAUTIFUL Schneider Gabriela		Bahnhofstrasse	4A	3900	Brig		CH				20170101				spielegge@bluewin.ch																
+764	1	CHE-311.931.944	Le Cellier de St-Léonard SA		Dorfstrasse	32	9108	Gonten		CH				20170101	0432669880	0432669880																		
+765	1		Walter Hasler AG		chemin de la Tourelle	12	1209	Genève		CH				20170101																				
+766	1		Lepri GmbH		avenue de Beaulieu	7	1004	Lausanne		CH				20170101																				
+767	1	CHE-344.446.259	IMMOVENTIS GmbH		Schwalbenweg	27	4528	Zuchwil		CH				20170101	0617710391	0617710391	0414803750	alpha-enterprise@bluewin.ch																
+768	1		Loral AG		Haut du Village	39	2353	Les Pommerats		CH				20170101				info@dermatologie-gossau.ch																
+769	1	CHE-135.382.464	Steinbock Haus-Service, Inhaber R. Friedrich		rue Fritz-Courvoisier	40	2300	La Chaux-de-Fonds		CH				20170101																				
+770	1	CHE-178.183.329	SwissVESTO AG		ch. Pont-du-Centenaire	109	1228	Plan-les-Ouates		CH				20170101																				
+771	1	CHE-488.418.228	Real Brazilian - titulaire Di Domenico		Rebhalde	7b	8152	Opfikon		CH				20170101	0612615112	0612615112																		
+772	1	CHE-422.845.083	PHYSIO LINEO GmbH		Erliacker	63	4462	Rickenbach BL		CH				20170101	0614639393	0614639393																		
+773	1	CHE-366.754.580	TeePee Holding SA		chemin de Mornex	2	1003	Lausanne		CH				20170101																				
+774	1	CHE-432.245.447	AM Bauunternehmung GmbH		Chasseralstrasse	5	3063	Ittigen		CH				20170101																				
+775	1	CHE-327.314.852	I-PERTEXT Sàrl		Bellevuestrasse	19e	3073	Gümligen		CH				20170101																				
+776	1	CHE-373.844.188	Blumenstation - Giesch		Hauptstrasse	12	5201	Brugg AG		CH				20170101																				
+777	1	CHE-252.646.771	SWISS FINANCIAL INVESTING GmbH		Dorfbachweg	3	5035	Unterentfelden		CH				20170101	0324813334	0324813334																		
+778	1	CHE-205.943.329	PER Consulting SAGL		Aueliweg	35	3507	Biglen		CH				20170101	0329311579	0329311579			http://www.labu.ch															
+779	1	CHE-479.929.748	Novotec Engineering GmbH		Rüchligweg	101	4125	Riehen		CH				20170101	0818308383	0818308383																		
+780	1	CHE-378.865.418	Müller & Partner Schreinerei AG		Hauptstrasse	16	3254	Messen		CH				20170101																				
+781	1	CHE-299.139.056	Ready Energy SA		Bubengasse	3	4524	Günsberg		CH				20170101	0712982888	0712982888																		
+782	1	CHE-472.786.896	Lüönd Baumanagement GmbH		Lauriedstrasse	7	6300	Zug		CH				20170101																				
+783	1	CHE-454.911.399	Anderegg Handel GmbH		viale Carlo Cattaneo	1	6900	Lugano		CH				20170101	0554421845	0554421845		info@zertus.ch																
+784	1	CHE-429.684.148	Fredheim Ekström Fotos		Lörracherstrasse	50	4125	Riehen		CH				20170101	0336730275	0336730275																		
+785	1	CHE-430.362.705	Privatkoch Palackovic		Römerweg	54	5443	Niederrohrdorf		CH				20170101																				
+786	1	CHE-499.580.761	COSMOiX AG		Seestrasse	157	8704	Herrliberg		CH				20170101																				
+787	1	CHE-380.097.700	Kosmetik Elena, Ritz		Genossenschaftsstrasse	2	4132	Muttenz		CH				20170101	0269139116	0269139116																		
+788	1	CHE-133.060.162	Prencipe Swiss Home Care		Rebstockrain	2	6006	Luzern		CH				20170101					http://www.green-gartenunternehmen.ch															
+789	1	CHE-391.096.308	Corum Vermögensverwaltung (Deutschland) GmbH		Seeplatz	6	6403	Küssnacht am Rigi		CH				20170101	0223107493	0223107493																		
+790	1	CHE-237.236.124	Cogespro Sàrl, succursale de Peseux		chemin du Levant	157	1005	Lausanne		CH				20170101	0818345448	0818345448																		
+791	1	CHE-208.852.999	E. Aliu Allround Bau GmbH in Liquidation		rue de Chantepoulet	25	1201	Genève		CH				20170101																				
+792	1	CHE-476.616.460	Friedegg-Immobilien AG		Aelggistrasse	22	6072	Sachseln		CH				20170101																				
+793	1	CHE-496.934.673	get HR GmbH		Hauptstrasse	6a	8253	Diessenhofen		CH				20170101					http://www.alder-apotheke.ch															
+794	1	CHE-254.846.022	Entschleuniger - Nani Kümpel		rue de Mâche	57	2503	Biel/Bienne		CH				20170101																				
+795	1		T4 SAGL in liquidazione		Schindlerstrasse	17	8006	Zürich		CH				20170101	+4232379494	+4232379494																		
+796	1	CHE-395.257.349	Immobilien Kreuzer GmbH		Avenue du Simplon	23 A	1920	Martigny		CH				20170101																				
+797	1	CHE-342.627.821	Tal Shimko Avneon		Zürcherstrasse	65	9500	Wil SG		CH				20170101	0564968292	0564968292	0613174081	info@internavis-ag.ch																
+798	1	CHE-239.373.861	Inartec Sacher		Seemattstrasse	21A	6333	Hünenberg See		CH				20170101	0622078090	0622078090																		
+799	1	CHE-372.245.298	Jean Paul Vulliemin Sàrl		via Campagna	19	6952	Canobbio		CH				20170101																				
+800	1	CHE-159.118.892	Pro Sky Switzerland AG		Grosspeterstrasse	16	4052	Basel		CH				20170101																				
+801	1	CHE-271.073.858	E. + R. Forrer Gartenbau AG		Seestrasse	80	8810	Horgen		CH				20170101	0619269020	0619269020		fitim_sela@hotmail.com																
+802	1		MEYLAN Maçonnerie Sàrl, succursale d'Aubonne		Bahnhofstrasse	4	6048	Horw		CH				20170101	+4232370606	+4232370606	0616917489	glasereiregio@hispeed.ch																
+803	1		Marienstein AG		Guglerstrasse	7	2560	Nidau		CH				20170101																				
+804	1	CHE-350.520.591	Elektro Lopez		Bösch	67	6331	Hünenberg		CH				20170101																				
+805	1	CHE-111.627.391	Benning International GmbH		Glärnischweg	9	5610	Wohlen AG		CH				20170101	0227764373	0227764373																		
+806	1	CHE-274.582.346	CHAYTON Dayen		Schwimmbadstrasse	4	5210	Windisch		CH				20170101	0616814209	0616814209																		
+807	1	CHE-241.570.885	HTG High Technology Glass SA		rue de la Place-d'Armes	13	2114	Fleurier		CH				20170101																				
+808	1	CHE-472.239.536	mooser.lauber.stucky architekten SIA AG		Zürcherstrasse	262	8406	Winterthur		CH				20170101	0552463384	0552463384																		
+809	1	CHE-412.164.219	Cessna Zurich Citation Service Center GmbH, succursale de Genève		Flurstrasse	30	8048	Zürich		CH				20170101	0618113454	0618113454																		
+810	1	CHE-337.418.424	Panima GmbH		Hadlaubstrasse	39	8044	Zürich		CH				20170101																				
+811	1	CHE-158.563.143	Floorama GmbH		rue Le-Corbusier	3	1208	Genève		CH				20170101			0227358601	bazar@figue.ch																
+812	1	CHE-193.119.327	Artpath GmbH		route de Saint-Cergue	13	1295	Tannay		CH				20170101	0326228975	0326228975																		
+813	1	CHE-289.873.290	EduBox GmbH		Riedweg	84	3920	Zermatt		CH				20170101	0443621333	0443621333																		
+814	1	CHE-429.967.818	Schweizer Produktivitätsmanagement GmbH		Im Gubel	5	8630	Rüti ZH		CH				20170101																				
+815	1	CHE-490.847.076	BühMat GmbH		Freiburgstrasse	634	3172	Niederwangen b. Bern		CH				20170101	0417545800	0417545800																		
+816	1	CHE-380.293.052	Genève-écoute-dialogue, Samuel Philibert		rue d'Italie	11	1204	Genève		CH				20170101																				
+817	1	CHE-130.900.794	Mengis Druck AG		Moosstrasse	31	9014	St. Gallen		CH				20170101				mail@widmerkohler.ch																
+818	1	CHE-453.946.248	Swiss Helicopter AG		route des Jeunes	23	1227	Carouge GE		CH				20170101	0277221619	0277221619																		
+819	1	CHE-302.773.356	Studio9 SA		Sternenmatt	15	6423	Seewen SZ		CH				20170101	0448363551	0448363551																		
+820	1	CHE-431.334.924	PME perspectives SA		Bahnhofstrasse	1	8560	Märstetten		CH				20170101																				
+821	1		Bost GmbH		Bahnhofstrasse	23	6304	Zug		CH				20170101			0266608578	jomini.chaussures@bluewin.ch																
+822	1	CHE-152.485.094	Dragicevic Service		Zürcherstrasse	63	8953	Dietikon		CH				20170101																				
+823	1	CHE-203.861.413	Bartolomei 'Garde-Temps'		av. du Devin-du-Village	8	1203	Genève		CH				20170101	0438449090	0438449090																		
+824	1	CHE-421.814.772	Katharin Network & Communication GmbH in Liquidation		rue des Vergers	4	1462	Yvonand		CH				20170101					http://www.espace-dentaire.ch															
+825	1	CHE-347.848.625	COM.TEL Wolfgang Biewer		Althusstrasse	15	6182	Escholzmatt		CH				20170101	0564706655	0564706655																		
+826	1	CHE-311.740.166	Agraw Trading GmbH		chemin de la Viane	105	1052	Le Mont-sur-Lausanne		CH				20170101																				
+827	1	CHE-478.019.105	AZ Zeitungen AG		Personenunterführung Martin Disteli		4600	Olten		CH				20170101	0552122732	0552122732																		
+828	1	CHE-152.800.876	Restaurant Löwen, Kathrin Schwartz		rue de Lausanne	45	1201	Genève		CH				20170101	0417691080	0417691080																		
+829	1	CHE-215.753.397	International Quality Distribution Limited, Dubai, succursale de Genève		route de Thonon	82	1222	Vésenaz		CH				20170101	0433779643	0433779643																		
+830	1	CHE-272.342.274	Archimedes Private Office (Suisse) Sàrl		Lindenplatz	3	5722	Gränichen		CH				20170101																				
+831	1	CHE-279.910.860	Claudette Lucien, Your Nutrition Balance		Gertrudstrasse	83	8003	Zürich		CH				20170101																				
+832	1	CHE-251.420.980	Zürcher Fahrlehrer Verband		Totentanz	1	4051	Basel		CH				20170101																				
+833	1	CHE-325.480.758	El Dorado Gastro GmbH		Im Grundhof	1	4600	Olten		CH				20170101																				
+834	1		bluebat GmbH		Bergstrasse	29c	8174	Stadel b. Niederglatt		CH				20170101				alhgmbh@bluewin.ch																
+835	1	CHE-460.000.945	Advance conseils gestion Sébastien Nardo		Bergstrasse	101	8707	Uetikon am See		CH				20170101				info@service-fashion-style.ch																
+836	1	CHE-358.055.971	JVK Consulting, John van Kommer		Seidenparkweg	25	8712	Stäfa		CH				20170101	0562842525	0562842525																		
+837	1	CHE-337.927.950	L'Empire Kids Micello		Dorfstrasse	52	5745	Safenwil		CH				20170101																				
+838	1	CHE-461.638.062	Zauberstab-Handel Brose		route de la Crête	27B	1967	Bramois		CH				20170101					http://www.airnett.ch															
+839	1		Premium Immobilien NW GmbH		Feffetstrasse	14	9464	Rüthi (Rheintal)		CH				20170101																				
+840	1		Restaurant du Nant d'Avril SA		Worblentalstrasse	46	3063	Ittigen		CH				20170101																				
+841	1	CHE-157.037.283	A.M IT Sàrl en liquidation		Surbtalstrasse	22	5312	Döttingen		CH				20170101																				
+842	1	CHE-262.122.423	Swiss Gateway Associates SA		rue des Saars	6	2000	Neuchâtel		CH				20170101																				
+843	1	CHE-295.918.185	Fondation suisse pour l'édition d'art (FSEA)		route de Malagnou	8	1208	Genève		CH				20170101	0326653434	0326653434		vaudan.gil@netplus.ch																
+844	1	CHE-422.168.578	The Fulano 2008 Trust		Dorfstrasse	77	3273	Kappelen		CH				20170101	0554405716	0554405716																		
+845	1	CHE-454.691.660	Les Délices du Loriot Sàrl		Wolleraustrasse	41B	8807	Freienbach		CH				20170101	0277228100	0277228100																		
+846	1	CHE-179.618.382	Nue's Tankstelle, 6130 Willisau		Mailand-Strasse	6	4053	Basel		CH				20170101			0326313367	urs_pfister@gmx.ch																
+847	1	CHE-270.822.155	MOS-TANGRAM Software GmbH in Liquidation		rue Galilée	4	1400	Yverdon-les-Bains		CH				20170101																				
+848	1	CHE-299.100.373	HPB Service und Analytik GmbH		Hottingerstrasse	17	8032	Zürich		CH				20170101	0324231522	0324231522			http://www.secretary-plus.ch															
+849	1	CHE-293.963.140	City Taxi Pratteln und Umgebung, Figen		via Maggio	1	6900	Lugano		CH				20170101	0313515400	0313515400																		
+850	1	CHE-412.460.787	centuno design sportswear sabine rodriguez gonzález-hufschmid		Knäus		8825	Hütten		CH				20170101	0417401402	0417401402																		
+851	1	CHE-488.232.617	MEV Cars Switzerland GmbH		Untere Weidstrasse	16	6343	Rotkreuz		CH				20170101																				
+852	1	CHE-329.399.500	pure energy GmbH		Buechring	6	4434	Hölstein		CH				20170101	0717557615	0717557615																		
+853	1	CHE-393.196.984	Infomation Sàrl		Stollenhäuser	9	4145	Gempen		CH				20170101																				
+854	1	CHE-196.672.394	brandlovers GmbH		rue Jacques-Gachoud	3	1700	Fribourg		CH				20170101																				
+855	1	CHE-288.927.500	Autowerkstatt & Reifenshop GmbH		Gewerbestrasse	14	8155	Niederhasli		CH				20170101																				
+856	1	CHE-362.073.475	Minusgren Sagl		via Selva	4	6900	Massagno		CH				20170101																				
+857	1	CHE-182.854.523	OTICE ESTABLISHMENT in Liquidation		Schwanenstrasse	32	8840	Einsiedeln		CH				20170101				info@frid-a.ch																
+858	1	CHE-291.890.263	BURNAID Baumberger		Im Buchenpark	4	8304	Wallisellen		CH				20170101																				
+859	1	CHE-290.669.460	psivoq gmbh		via G. B. Pioda	4	6900	Lugano		CH				20170101	0522384000	0522384000																		
+860	1	CHE-184.620.309	ADN Records, Paulo Pinto Adão		rue Basse	38	1422	Grandson		CH				20170101					http://www.avautomobiles.ch															
+861	1	CHE-178.367.680	pp software perfect processes gmbh		Sevogelstrasse	32	4052	Basel		CH				20170101																				
+862	1		Buri Mauerwerk und Schalungen GmbH		Langgreut	18	9322	Egnach		CH				20170101																				
+863	1	CHE-409.306.252	FM Media AG		Agleistrasse	4	8046	Zürich		CH				20170101	0628975161	0628975161																		
+864	1	CHE-258.202.214	Physio Lounge GmbH		Tribschenstrasse	40	6005	Luzern		CH				20170101	0266652365	0266652365																		
+865	1	CHE-239.764.150	Velvet Line Sagl		Aeussere Luzernerstrasse	21	4665	Oftringen		CH				20170101																				
+866	1	CHE-281.393.945	SPG Finest Properties (Geneva) SA		Schwänberg	4902	9100	Herisau		CH				20170101	0323232904	0323232904		info@knxshop4u.ch																
+867	1	CHE-348.232.711	Rolem Invest AG		Schönenwerdstrasse	42	8620	Wetzikon ZH		CH				20170101																				
+868	1	CHE-330.460.715	BERNASCONI & Co. SA		Ohmstalerstrasse	28	6247	Schötz		CH				20170101																				
+869	1		DER-AUTOHANDEL.CH ANDREAS SCHAUB		Seepark	6	9422	Staad SG		CH				20170101																				
+870	1	CHE-326.294.388	Delta Finance 2012 SA		via Alberto Giacometti	1	6900	Lugano		CH				20170101	0719510755	0719510755																		
+871	1	CHE-148.230.183	MAGNA International Europe AG		rue de Riant-Coteau	17	1196	Gland		CH				20170101			0277833605	info@camping-glaciers.ch	http://www.gdkmotos.ch															
+872	1	CHE-345.532.306	So-einzigartig GmbH		Bahnhofstrasse	21	6300	Zug		CH				20170101	0329351015	0329351015																		
+873	1	CHE-211.511.286	Erasertech Webdesign, Dario Bajic		Berchtoldstrasse	37	3012	Bern		CH				20170101																				
+874	1	CHE-250.805.159	La Teca Sagl		Goldgasse	4	7000	Chur		CH				20170101	0449391939	0449391939																		
+875	1	CHE-425.979.952	TRIMLINE GROUP EUROPE GmbH		Ramisbühl	4	4713	Matzendorf		CH				20170101				info@rasania.ch																
+876	1	CHE-279.327.927	7Media - Thierry Yersin		Strada Cantonale		6537	Grono		CH				20170101	0917434948	0917434948																		
+877	1	CHE-424.422.598	Ameti Peinture		Verenastrasse	4B	8832	Wollerau		CH				20170101																				
+878	1	CHE-107.601.282	DuckDive GmbH		via Angelo Maspoli	18	6850	Mendrisio		CH				20170101	0628420260	0628420260																		
+879	1		Holiframes Limited, Birmingham UK, Zweigniederlassung Niederglatt ZH		chemin du Calvaire	19	1005	Lausanne		CH				20170101																				
+880	1	CHE-420.659.776	Schelbert Glockenschmiede AG		Escalier du Châteu	2	2001	Neuchâtel 1		CH				20170101				info@centrobeautypink.com																
+881	1	CHE-325.727.284	Th. Kuhn GmbH		via del Sole	6	6600	Muralto		CH				20170101			0213311710	location-vente@bernard-nicod.ch																
+882	1	CHE-192.780.151	BISTROT DE PARIS SAGL		Lindauerstrasse	27	8317	Tagelswangen		CH				20170101																				
+883	1	CHE-468.511.907	Chalet Apartment Rentals Sàrl		Auenwies	66	9437	Marbach SG		CH				20170101																				
+884	1	CHE-167.556.981	Wagner + Boss GmbH		Kantonsstrasse	58	3902	Glis		CH				20170101																				
+885	1	CHE-188.986.270	Ulrich Nagel GmbH		Bielstrasse	2	4537	Wiedlisbach		CH				20170101																				
+886	1	CHE-292.950.910	Huron Consulting Switzerland GmbH		Hauptstrasse	50	8840	Einsiedeln		CH				20170101	0618511440	0618511440																		
+887	1	CHE-212.148.478	Hunde-Wohl GmbH		place de Saint-Gervais	1	1201	Genève		CH				20170101	0416605233	0416605233																		
+888	1	CHE-153.694.884	M&M Advisors Sàrl		Feldstrasse	14	8952	Schlieren		CH				20170101																				
+889	1	CHE-231.853.703	Bureau d'Etudes Géologiques SA, succursale de Montreux		place du Marché	10	2300	La Chaux-de-Fonds		CH				20170101	0244792152	0244792152																		
+890	1	CHE-342.629.783	Gebrüder Schrag		Via Monte Ceneri	28	6516	Gerra Piano		CH				20170101	0416105454	0416105454																		
+891	1	CHE-398.343.689	Buxtorf Quality Services GmbH		Kohlenberg	4	4051	Basel		CH				20170101	0526596969	0526596969																		
+892	1	CHE-226.424.207	Allrounder Xhuli		Neugonzenbach	15	9601	Lütisburg Station		CH				20170101	0415584980	0415584980	0417264319																	
+893	1	CHE-387.373.522	Intergraph CS s.r.o.		via Primo Agosto		6828	Balerna		CH				20170101																				
+894	1	CHE-228.062.316	Gourmetro Fairfood AG		Bodenacherstrasse	86	8121	Benglen		CH				20170101																				
+895	1	CHE-187.787.236	Leopand GmbH		Bahnhofstrasse	9	8360	Eschlikon TG		CH				20170101	0344222273	0344222273	0566682952	info@akkuman-cham.ch																
+896	1	CHE-197.514.941	Axpo Informatica S.r.l.		Gewerbestrasse	5	6330	Cham		CH				20170101	0244591307	0244591307																		
+897	1	CHE-225.939.176	MOSER-SQTS		Hohlstrasse	556	8048	Zürich		CH				20170101	0917918405	0917918405																		
+898	1		Wyss Haustechnik AG		corso Elvezia	4	6900	Lugano		CH				20170101																				
+899	1	CHE-176.686.051	Huaxiamed GmbH		route de Lausanne	270	1292	Chambésy		CH				20170101																				
+900	1	CHE-158.488.955	Mulieri Import Export		Ville	3	2525	Le Landeron		CH				20170101	0414842929	0414842929																		
+901	1	CHE-225.476.319	Cafe Bar Djoric Balkan		Schmiedgasse	28	9004	St. Gallen		CH				20170101																				
+902	1		christian schwyter architektur		via Vignola	12	6900	Lugano		CH				20170101				gino.diminico@datazug.ch																
+903	1	CHE-163.693.834	Karl Brünisholz Versicherungs-Beratung		Sägeweg	24	3283	Kallnach		CH				20170101					http://www.zimcar.ch															
+904	1	CHE-403.863.519	Finoris Real Estate AG		Grossplatzstrasse	20	8118	Pfaffhausen		CH				20170101																				
+905	1	CHE-193.491.117	VID-IP SA en liquidation		Rennweg	38	8001	Zürich		CH				20170101																				
+906	1	CHE-216.606.244	Logeco Sàrl en liquidation		avenue Louis-Ruchonnet	2 Bis	1003	Lausanne		CH				20170101																				
+907	1	CHE-465.531.233	Le Plaza Basel-Stadt AG		Regensdorferstrasse	13	8049	Zürich		CH				20170101	0218026240	0218026240																		
+908	1	CHE-276.761.865	Gents GmbH		Hinterdorfstrasse	27	8597	Landschlacht		CH				20170101	0919213871	0919213871																		
+909	1	CHE-356.445.835	Bäckerei-Konditorei Bumann AG		Untere Bahnhofstrasse	12	8580	Amriswil		CH				20170101	0329133990	0329133990																		
+910	1	CHE-253.261.190	prec-tec GmbH		Grossacher	4	3326	Krauchthal		CH				20170101																				
+911	1	CHE-238.215.892	Lohse Consulting		Himmelrychstrasse	37	5634	Merenschwand		CH				20170101																				
+912	1	CHE-483.267.821	OBOROCEANU EXPRESS		route de la Greffaz	29	1895	Vionnaz		CH				20170101	0443901410	0443901410			http://www.sb-vsa.ch															
+913	1	CHE-198.003.175	BKRK Holding AG		Militärstrasse	117	8004	Zürich		CH				20170101																				
+914	1	CHE-304.471.156	Multiel, Kolcu		Hansmatt	12	6370	Stans		CH				20170101	0412105770	0412105770																		
+915	1		Restaurant Axalp Stübli Walther		rue du Séminaire	5	2900	Porrentruy		CH				20170101																				
+916	1	CHE-490.409.724	Euronet Services Schweiz GmbH		Castaletweg	57	7206	Igis		CH				20170101	0585677580	0585677580																		
+917	1	CHE-192.684.694	Lenovo Germany Holding GmbH		Sägetstrasse	12	3123	Belp		CH				20170101																				
+918	1	CHE-488.100.068	BBmarket Brülisauer		rue Jean-Gabriel Eynard	8	1205	Genève		CH				20170101	0344965605	0344965605																		
+919	1	CHE-451.010.548	RUAG Ammotec GmbH		via delle Scuole	15	6900	Lugano		CH				20170101																				
+920	1	CHE-382.892.393	Friedli & Caprani AG Biel/Bienne, Strassen- und Tiefbau		rue des Pilettes	3	1700	Fribourg		CH				20170101	0712883144	0712883144																		
+921	1	CHE-136.083.975	artelier23 schreinerei gmbh		rue de l'Ancien Comté	39	1635	La Tour-de-Trême		CH				20170101	0227858888	0227858888																		
+922	1		Virtuse Group (Suisse) SA		rue de l'Athénée	40	1206	Genève		CH				20170101																				
+923	1	CHE-247.293.336	GreenGoWeb Sàrl		piazza Riscossa	16	6900	Lugano		CH				20170101																				
+924	1	CHE-465.446.277	Milaim HOXHA		Lochrietstrasse	3	8890	Flums		CH				20170101	0523460062	0523460062																		
+925	1	CHE-219.278.751	BAR LULY di M. Lucia		Leutwilerstrasse	200	5706	Boniswil		CH				20170101				info@v12media.ch																
+926	1	CHE-467.243.897	ARUJ Holding SA		impasse des Cerisiers	5	1774	Cousset		CH				20170101																				
+927	1	CHE-216.936.345	Ide-fix ag		chemin de la Carcellière	22	1222	Vésenaz		CH				20170101																				
+928	1	CHE-134.881.635	AC Schlegel		Etzelstrasse	23	8808	Pfäffikon SZ		CH				20170101																				
+929	1	CHE-356.315.262	isodach-solar.ch gmbh in Liquidation		Unter-Allmend	10	6018	Buttisholz		CH				20170101	0798912447	0798912447																		
+930	1	CHE-439.871.232	the Tom's GmbH in Liquidation		rue du Lac	89	1815	Clarens		CH				20170101	0432439987	0432439987																		
+931	1		Maler und Gipser Kryezi		via San Salvatore	2	6900	Paradiso		CH				20170101																				
+932	1		Gallmann Restaurant Oberes-Triemli GmbH		Eichhaldering	33	5037	Muhen		CH				20170101																				
+933	1	CHE-489.291.077	Apricore AG		Rüschenzopfstrasse	5	8856	Tuggen		CH				20170101																				
+934	1	CHE-181.123.090	Carpe Diem Trading Sagl		Grand-Montfleury	14	1290	Versoix		CH				20170101																				
+935	1	CHE-359.976.342	dive works solutions, Inhaber Martin Kammerer		Haselstrasse	9	5400	Baden		CH				20170101																				
+936	1	CHE-256.770.252	kaps rechtsberatung ag		Zürcherstrasse	82	8640	Rapperswil SG		CH				20170101																				
+937	1	CHE-325.089.118	Dual Real Estate Investment SA		Sternenhofstrasse	11	4153	Reinach BL		CH				20170101	0438104505	0438104505																		
+938	1	CHE-395.237.312	NeuchEole SA		chemin de la Bichette	14	1267	Vich		CH				20170101																				
+939	1	CHE-429.473.427	VarMaLat GmbH		route du Soleil d'Or	2	2400	Le Locle		CH				20170101																				
+940	1	CHE-376.072.424	Davos Luxury Properties AG		Via da Fidaz	43	7019	Fidaz		CH				20170101			0717479393																	
+941	1	CHE-495.126.216	IEEE Europe GmbH		chemin du Pommier	30	1218	Le Grand-Saconnex		CH				20170101	0612649797	0612649797																		
+942	1	CHE-293.870.248	TMax Asset Management AG in Liquidation		Hauptstrasse	12	8274	Tägerwilen		CH				20170101			0279243877																	
+943	1	CHE-214.473.185	GKAN Holdings SA		ohne Domizil		9434	Au SG		CH				20170101	0449912222	0449912222																		
+944	1	CHE-311.583.300	Kompetenzzentrum Adipositas und Stoffwechsel (KAS) AG		via Giuseppe Motta	18	6830	Chiasso		CH				20170101				info@accord-reinigung.ch																
+945	1	CHE-398.309.304	Elektro Nafzger GmbH		Glattfelderstrasse	10	8187	Weiach		CH				20170101																				
+946	1	CHE-176.897.263	JACDEFF Concept Sàrl		Schweighofstrasse	410	8055	Zürich		CH				20170101	0328414458	0328414458																		
+947	1	CHE-109.142.368	Amberg Architekten AG		Kolbenstrasse	16	6032	Emmen		CH				20170101	0443616636	0443616636	0817831233																	
+948	1	CHE-131.804.638	Modular di Claudio Castellana		Sandrain	1	4944	Auswil		CH				20170101				isler@dorfgarage-isler.ch																
+949	1	CHE-230.548.918	A. Romano GmbH in Liquidation		Hauptstrasse	4	4132	Muttenz		CH				20170101																				
+950	1	CHE-486.394.203	MPT MANAGEMENT AND MARKETING SA		Obergrundstrasse	61	6003	Luzern		CH				20170101																				
+951	1	CHE-244.693.260	NOVADIA Sàrl		rue du Pré-Bouvier	3	1217	Meyrin		CH				20170101																				
+952	1	CHE-358.376.292	Ecoser AG		rue du Mont-Blanc	7	1201	Genève		CH				20170101	0622127755	0622127755																		
+953	1	CHE-112.820.795	J.G. Parent		rue du Saule	8	1920	Martigny		CH				20170101																				
+954	1	CHE-197.878.337	Cliden BV		avenue de Grandson	68	1400	Yverdon-les-Bains		CH				20170101	0279480990	0279480990		info@schluck-stube.ch																
+955	1	CHE-298.346.486	AMES JEWELLERY SA		via Riviera	1	6900	Lugano		CH				20170101	0918359900	0918359900																		
+956	1		Alfa-Bio Export / Import, Inhaber A. Zairi		Mettstrasse	147b	2504	Biel/Bienne		CH				20170101																				
+957	1	CHE-345.125.852	Illumination Swiss AG		Centralstrasse	77	2540	Grenchen		CH				20170101	0719132072	0719132072																		
+958	1	CHE-265.247.848	GEM-AC General and Executive Management, Andreas Christoforides		Hofackerstrasse	17	8217	Wilchingen		CH				20170101																				
+959	1	CHE-372.241.142	Hair & Beauty Salon, Rima Malki		Alter Zürichweg	3	5702	Niederlenz		CH				20170101	0313512444	0313512444																		
+960	1	CHE-111.776.401	B-Bikes GmbH		Chäsereiacher	7	3317	Limpach		CH				20170101	0562229373	0562229373																		
+961	1	CHE-478.314.780	Good Mobility GmbH		rue de la Coulouvrenière	17	1204	Genève		CH				20170101	0714772376	0714772376																		
+962	1	CHE-321.149.230	bitup.ch Jabs & Zerilli		Märtmattenstrasse	3	3930	Visp		CH				20170101																				
+963	1	CHE-189.171.603	Daniel Carlino Business Concept		rue de l'Industrie	23	1030	Bussigny-près-Lausanne		CH				20170101																				
+964	1	CHE-195.789.941	Empire of Hair Ltd., Zweigniederlassung Rothenburg		Maiengrün	2	6206	Neuenkirch		CH				20170101			0719512537	info@elektro-jung.ch																
+965	1	CHE-223.750.314	Reto Hartmann Informatik		Buchenweg	3	5200	Brugg AG		CH				20170101																				
+966	1	CHE-330.326.637	Quinn Emanuel Urquhart & Sullivan, LLP, Los Angeles, Zurich Branch		Tirlerstrasse	1	3930	Visp		CH				20170101																				
+967	1	CHE-232.046.668	RAINTEC AG		Bremgartnerstrasse	10	8953	Dietikon		CH				20170101	0719510000	0719510000																		
+968	1		Restaurant Breisacherhof, Yasar		Ober Altstadt	13	6300	Zug		CH				20170101																				
+969	1	CHE-105.433.973	Restaurant Tropical SARL		chemin des Biolleyres	2	1043	Sugnens		CH				20170101	0417508959	0417508959																		
+970	1	CHE-320.584.623	SAAS Stratégies et Architecture Sàrl		Hohenbühlweg	4	7000	Chur		CH				20170101	0216363366	0216363366																		
+971	1		HAYWARD's GmbH		Mittlerer Rafensburgweg	1	8274	Tägerwilen		CH				20170101																				
+972	1	CHE-341.375.255	INSIDE Lounge Bar Angela Nenita		Châtelstrasse	8	8355	Aadorf		CH				20170101	0617238014	0617238014																		
+973	1		Lindenapotheke Füllinsdorf, Dr. Andreas Brunner		Umfahrungsstrasse	13	6467	Schattdorf		CH				20170101																				
+974	1	CHE-445.286.987	Medvetico GmbH		Feldstrasse	57	8400	Winterthur		CH				20170101																				
+975	1	CHE-172.325.364	KAMINO CAPITAL SARL		Roosstrasse	53	8832	Wollerau		CH				20170101	0417121355	0417121355																		
+976	1	CHE-137.392.019	Valserdepot-fricktal Martin Schafroth		rue du Général-Dufour	22	1204	Genève		CH				20170101																				
+977	1	CHE-481.606.680	Harmonica, Dragan Simovic		rue du Nant	8	1207	Genève		CH				20170101																				
+978	1	CHE-455.154.979	GEIER W. Rohrleitungsbau		rue de la Dude	37	1267	Vich		CH				20170101			0447412672	info@bandfix.ch																
+979	1	CHE-335.967.128	Foletti Bucher Malerei GmbH		ohne Domizil		6300	Zug		CH				20170101	0522028810	0522028810	0274701444	info@ibelle.ch																
+980	1		Protech Energy AG		viale Stazione	23	6500	Bellinzona		CH				20170101																				
+981	1	CHE-365.708.784	Color Tresa Sagl		Gotthardstrasse	39	8800	Thalwil		CH				20170101																				
+982	1	CHE-214.333.147	Beauty Case, Bellwald Sandra		Zugerstrasse	76B	6340	Baar		CH				20170101																				
+983	1	CHE-177.872.030	J.M. Bulliard		Bahnhofstrasse	57	8965	Berikon		CH				20170101	0919602300	0919602300	0447861807																	
+984	1	CHE-399.509.225	HZ Hörmittelzentralen AG		Grossacherstrasse	35	8634	Hombrechtikon		CH				20170101	0417406670	0417406670																		
+985	1	CHE-386.231.196	Tagesstern Wettingen GmbH		Hauptstrasse	27	9650	Nesslau		CH				20170101																				
+986	1		Flurina Immobilien GmbH		chemin de la Distillerie	4	1233	Bernex		CH				20170101																				
+987	1		Easy-Trans BENOUSSAID		rue De-Beaumont	8	1206	Genève		CH				20170101																				
+988	1	CHE-185.684.039	J & A Informatik GmbH		Bahnhofstrasse	7	8488	Turbenthal		CH				20170101	0628964949	0628964949																		
+989	1	CHE-286.770.133	Bootswerft Krähenbühl GmbH		Hauptstrasse	81	3266	Wiler b. Seedorf		CH				20170101																				
+990	1	CHE-446.528.845	Events Sport SA		Bitzistrasse	15	6370	Stans		CH				20170101	0527202233	0527202233																		
+991	1		C. Cramatte		Mellingerstrasse	12	5443	Niederrohrdorf		CH				20170101																				
+992	1	CHE-404.176.700	PROGRESSIV FUTURES FOUNDATION		Schönhaldenstrasse	16	8708	Männedorf		CH				20170101	0564013632	0564013632	0919222251	info@mantescapital.com																
+993	1	CHE-160.269.865	'Chez Yoko' Ghegaglia H.		Einsiedlerstrasse	23	8834	Schindellegi		CH				20170101	0219475200	0219475200		bernerhoechi@bluewin.ch																
+994	1		Riverfield TT GmbH		General-Guisan-Strasse	8	6300	Zug		CH				20170101																				
+995	1	CHE-428.429.837	Savenergy Consulting GmbH		Rue des Cèdres	9	1920	Martigny		CH				20170101																				
+996	1		Malen und Schreiben Zürich AG		place du Motty	14	1024	Ecublens VD		CH				20170101			0449456770																	
+997	1	CHE-324.911.744	Braun&Braun GmbH		avenue de Marcelin	70	1110	Morges		CH				20170101	0327259110	0327259110																		
+998	1	CHE-420.199.697	pearlmed GmbH		rue Sandoz-Travers	14	2105	Travers		CH				20170101																				
+999	1	CHE-233.417.891	ecogest solutions Sàrl		Bahnhofstrasse	33	3800	Unterseen		CH				20170101	0279701220	0279701220																		
+1000	1	CHE-108.523.578	Swiss Consulting Center SA		rue Ancienne	76	1227	Carouge GE		CH				20170101	0229064040	0229064040		contact@signaturedeluxe.com																

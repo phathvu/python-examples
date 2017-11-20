@@ -1,0 +1,1000 @@
+1	1	1		Samuel	Raillard	1992	19921206		rue Ph.-Henri-Mathey	13	2300	La Chaux-de-Fonds	NE	CH			101803405	20170101	3370720		
+2	1	1		Ian	Poyton	1992	19921206		Schädrütistrasse	31	6006	Luzern	LU	CH			74119564	20170101	9443119		
+3	1	1		Raoul	Brändlin	1992	19921206		via Lavizzari	2	6600	Locarno	TI	CH			71585209	20170101	5387224		
+4	1	2		Rozerim	Cimetay	1992	19921206		Sommergasse	12	4123	Allschwil	BL	CH			79301992	20170101			
+5	1	1		Heiri	Feusi	1992	19921206		Landhausstrasse	12	9000	St. Gallen	SG	CH			72333178	20170101			
+6	1	1		Roman	Studer	1992	19921206		Maumoulin	3	1694	Villargiroud	FR	CH			74665879	20170101			
+7	1	1		Patrick	Audriaz	1992	19921206		chemin des Terrailles	17	1304	Cossonay-Ville	VD	CH			71645317	20170101	8535311		
+8	1	2		Virginia	Michel	1992	19921206		Fruthwilerstrasse	76	8272	Ermatingen	TG	CH			71806429	20170101	3455085		
+9	1	2		Sonja	Zeller	1992	19921206		Sternengasse	2	5620	Bremgarten AG	AG	CH			105476791	20170101			
+10	1	1		Daniel	Genet	1992	19921206		rue de Carouge	65	1205	Genève	GE	CH			72754963	20170101	9310967		
+11	1	2		Leila	Ricard	1992	19921206		rue des Sablons	3	2000	Neuchâtel	NE	CH			105927025	20170101	5572303		
+12	1	2		Tsering	Tchitsatsang	1992	19921206		Arenenbergstrasse	2	8268	Salenstein	TG	CH			72172702	20170101			
+13	1	2		Celine	Dux	1992	19921206		Haus City		3945	Gampel	VS	CH			71397628	20170101	6487186		
+14	1	2		Giulia	Volume	1992	19921206		Hauptstrasse	23	5200	Brugg AG	AG	CH			72212476	20170101	3500085		
+15	1	2		Natalie	Jäcklein	1992	19921206		Neustadtgasse	29	8400	Winterthur	ZH	CH			74587696	20170101	7346146		
+16	1	1		Romaric	Nouwa	1992	19921206		rue des Eterpaz	7	1337	Vallorbe	VD	CH			72125353	20170101	9701818		
+17	1	1		Matthias	Hüter	1992	19921206		Hauptstrasse	63	4552	Derendingen	SO	CH			78731635	20170101	3655364		
+18	1	1		Yanik	Villar	1992	19921206		Flurstrasse	32	8048	Zürich	ZH	CH			73042021	20170101			
+19	1	2		Zoe	Ceruti	1992	19921206		Dorfstrasse	17	8102	Oberengstringen	ZH	CH			73340104	20170101	7304740		
+20	1	2		Gjyste	Krasniqi	1992	19921206		Müllheimerstrasse	145	4057	Basel	BS	CH			71277748	20170101	7605253	5365366	
+21	1	2		Emmanuelle	Saint	1992	19921206		Haldenstrasse	36	3550	Langnau im Emmental	BE	CH			106177870	20170101	6640409		
+22	1	1		Johannes	Rosner	1992	19921206		Untere Steigstrasse	12	8444	Henggart	ZH	CH			71323420	20170101			
+23	1	2		Somaya	Nabisadeh	1992	19921206		Zinnengasse	9	8001	Zürich	ZH	CH			72814507	20170101	3100165		
+24	1	1		Seylan	Ayana	1992	19921206		Saegestr	9	8374	Dussnang	TG	CH			78730843	20170101			
+25	1	1		Nelson	Antonio	1992	19921206		chemin des Chaux	2	1197	Prangins	VD	CH			74663509	20170101			
+26	1	1		Nikson	Lekaj	1992	19921206		chemin d'En-Perrey	29	1616	Attalens	FR	CH			71994655	20170101			
+27	1	2		Pia	Birchler	1992	19921206		Burggasse	2	4132	Muttenz	BL	CH			72525079	20170101	3411170		
+28	1	2		Juliana	Martins	1992	19921206		Crestacalva	16	7212	Seewis Dorf	GR	CH			71865418	20170101	2101327		
+29	1	1		Emin	Ahmeti	1992	19921206		rue Cramer	9	1202	Genève	GE	CH			73028338	20170101			
+30	1	1		Robert	Aird	1992	19921206		Bahnhofstrasse	126	9244	Niederuzwil	SG	CH			73219879	20170101			
+31	1	1		Francesco	Rufli	1992	19921206		Treytel		2022	Bevaix	NE	CH			79426285	20170101			
+32	1	1		Ali	Rinaldo	1992	19921206		Engeloostrasse	9	5621	Zufikon	AG	CH			72400201	20170101			
+33	1	1		David	Baumer	1992	19921206		Hinterdorfstrasse	2A	5618	Bettwil	AG	CH			72325183	20170101			
+34	1	1		Simone	Marcon	1992	19921206		rue du Lac	25	1020	Renens VD	VD	CH			71647957	20170101			
+35	1	2		Selma	Plas	1992	19921206		route Alois-Fauquex	129	1018	Lausanne	VD	CH			72374371	20170101			
+36	1	2		Luna	Ramazzina	1992	19921206		ch. Bois-de-la-Fontaine	17	1007	Lausanne	VD	CH			74035390	20170101		7049560	
+37	1	2		Caroline	Terryn	1992	19921206		Baumgartenstrasse	4	8957	Spreitenbach	AG	CH			106482568	20170101			
+38	1	2		Jeanne	Beney	1992	19921206		Furkastrasse	20	3982	Bitsch	VS	CH			74317975	20170101			
+39	1	2		Laure	Joss	1992	19921206		Bergacherstrasse	4	8630	Rüti ZH	ZH	CH			105358153	20170101	9323947		
+40	1	2		Sabine	Hannibal	1992	19921206		Limmatstrasse	119	8005	Zürich	ZH	CH			105426166	20170101	3418581		
+41	1	2		Patrizia	Strobl	1992	19921206		Eschenzerstrasse	14	8260	Stein am Rhein	SH	CH			79301446	20170101			
+42	1	2		Serife	Abdija	1992	19921206		Grubenweg	2	3186	Düdingen	FR	CH			73678738	20170101	3239954		
+43	1	2		Chantal	Iseli	1992	19921206		rue des Bains	11	1205	Genève	GE	CH			106951303	20170101	9302286		
+44	1	2		Katarina	Tahirsylaj	1992	19921206		rue de Malagny	5	1196	Gland	VD	CH			106274716	20170101			
+45	1	1		Yann	Voirol	1992	19921206		chemin du Château	53	1473	Font	FR	CH			72698665	20170101			
+46	1	2		Fatushe	Goci	1992	19921206		Einfangstrasse	15	8406	Winterthur	ZH	CH			105778783	20170101			
+47	1	1		Osman	Suljevic	1992	19921206		Armandweg	10	3007	Bern	BE	CH			72539113	20170101	2982345		
+48	1	1		Maxime	Kramer	1992	19921206		Rheinstrasse	145	7000	Chur	GR	CH			71491264	20170101	6333977		
+49	1	1		David	Herrenschwand	1992	19921206		Zwingenstr.	5	4225	Brislach	BL	CH			101281987	20170101	3402837		
+50	1	2		Anna-Lena	Loretan	1992	19921206		Dufourstrasse	101	8008	Zürich	ZH	CH			71647921	20170101	7554329		
+51	1	2		Christine	Sellmeier	1992	19921206		Seestrasse	26b	8703	Erlenbach ZH	ZH	CH			76624447	20170101	5378318		
+52	1	2		Chayenne	Steiert	1992	19921206		strada San Matteo		6955	Cagiallo	TI	CH			71984635	20170101			
+53	1	2		Anna	Christen	1992	19921206		rue de Chantepoulet	4	1201	Genève	GE	CH			104977783	20170101	9573073		
+54	1	1		Silvan	Inglin	1992	19921206		Brühlwiesenstrasse	11B	9545	Wängi	TG	CH			73339609	20170101			
+55	1	1		Hans	Bobst	1992	19921206		rue de l'Etang	20	1630	Bulle	FR	CH			72363898	20170101	9612394		
+56	1	1		Yannick	Gehrke	1992	19921206		Guggenbühl	10	8555	Müllheim Dorf	TG	CH			73146004	20170101			
+57	1	1		Natan	Luscher	1992	19921206		Unterwartweg	15	4132	Muttenz	BL	CH			72910327	20170101			
+58	1	2		Nereyda	Aebischer	1992	19921206		Römerweg	3	3303	Jegenstorf	BE	CH			74235223	20170101			
+59	1	1		Mikaël	Rodrigues	1992	19921206		Bruderholzstrasse	65	4153	Reinach BL	BL	CH			71996824	20170101	2423650		
+60	1	2		Delia	Kradolfer	1992	19921206		Höhestrasse	35	8702	Zollikon	ZH	CH			105265738	20170101	7556492		
+61	1	1		Vincent	Daigle	1992	19921206		rue du Doubs	103	2300	La Chaux-de-Fonds	NE	CH			73693264	20170101	6249907		
+62	1	2		Johanna	Bühler	1992	19921206		Station	9	1015	Lausanne	VD	CH			72019450	20170101			
+63	1	2		Laura	Besancet	1992	19921206		Pelikanstrasse	21	9008	St. Gallen	SG	CH			74411701	20170101	7510663		
+64	1	2		Lorena	Neidhart	1992	19921206		Güterstrasse	91	4053	Basel	BS	CH			74519374	20170101	7234737		
+65	1	1		David	Pfammatter	1992	19921206		le Gottau		1772	Nierlet-les-Bois	FR	CH			74318347	20170101	7313864		
+66	1	2		Zelie	Meilland	1992	19921206		Attinghausenstrasse	7	3014	Bern	BE	CH			74445694	20170101			
+67	1	2		Chloé	Plouchard	1992	19921206		route des Planches	29	1338	Ballaigues	VD	CH			72172966	20170101			
+68	1	1		Koji	Tateishi	1992	19921206		Bottigenstrasse	56	3018	Bern	BE	CH			72169714	20170101	4671830		
+69	1	2		Filipa	Mendes	1992	19921206		Schweikhüsern	1	6018	Buttisholz	LU	CH			71856229	20170101	7580710		
+70	1	2		Anett	Laszlo	1992	19921206		Le Vieux-Pressoir		1098	Epesses	VD	CH			74301616	20170101			
+71	1	1		Etienne	Corpataux	1992	19921206		Le Cachot	39	2405	La Chaux-du-Milieu	NE	CH			73055119	20170101			
+72	1	1		Anton	Moser	1992	19921206		Tempelstrasse	9	3608	Thun	BE	CH			74463346	20170101		3799681	
+73	1	1		Roger	Weibel	1992	19921206		Casinoplatz	7	7000	Chur	GR	CH			72974020	20170101			
+74	1	2		Tanja	Beck	1992	19921206		Bahnhofstrasse	23	3270	Aarberg	BE	CH			105573535	20170101			
+75	1	2		Noémie	Secci	1992	19921206		Blackenmatt	33	4612	Wangen b. Olten	SO	CH			71960578	20170101	3224711		
+76	1	1		Jean-Pierre	Gomes	1992	19921206		Hintertrottenstrasse	206	5236	Remigen	AG	CH			74194219	20170101			
+77	1	1		Leonardo	Guimaraes	1992	19921206		Untermattweg	23	3027	Bern	BE	CH			76969399	20170101	9816378		
+78	1	2		Paula	Oliveira	1992	19921206		Schwanenfelsstr.	20	8212	Neuhausen am Rheinfall	SH	CH			71262097	20170101			
+79	1	2		Nika	Vogel	1992	19921206		chalet les Savolaires		1882	Les Posses-sur-Bex	VD	CH			105929749	20170101	5302231		
+80	1	2		Jette	Yelken	1992	19921206		Haini-Rennhasstrasse	15	9403	Goldach	SG	CH			73828438	20170101	7200550		
+81	1	2		Stefanie	Jost	1992	19921206		route de la Fenetta	4	1753	Matran	FR	CH			72679258	20170101	7961007		
+82	1	1		Keyton	Willemin	1992	19921206		Niederberg	104B	3531	Oberthal	BE	CH			74191339	20170101	3320686		
+83	1	1		Loic	Schouller	1992	19921206		Kontrollstrasse	12	2503	Biel/Bienne	BE	CH			72820309	20170101			
+84	1	1		Solano	Rodriguez	1992	19921206		rue du Comte-Géraud	7	1213	Onex	GE	CH			74088070	20170101			
+85	1	2		Yvonne	Heimberg	1992	19921206		Grosswisstrasse	16	8154	Oberglatt ZH	ZH	CH			72677926	20170101			
+86	1	1		Burak	Mutlu	1992	19921206		Schiedhaldenstrasse	75	8700	Küsnacht ZH	ZH	CH			102668497	20170101			
+87	1	1		Felipe	Baro	1992	19921206		rue du Puits	5	2300	La Chaux-de-Fonds	NE	CH			73670101	20170101			
+88	1	2		Thuc	Thang	1992	19921206		Studentenweg	11	6390	Engelberg	OW	CH			73684765	20170101			
+89	1	1		Raphael	Gubinelli	1992	19921206		Ringstrasse	111	4106	Therwil	BL	CH			72757552	20170101	3454102		
+90	1	2		Egzona	Azizi	1992	19921206		Entlisbergstrasse	50	8038	Zürich	ZH	CH			73980586	20170101	6431060		
+91	1	2		Rahel	Byland	1992	19921206		Les Parchets		1865	Les Diablerets	VD	CH			72767797	20170101	3479453		
+92	1	1		Milza	Safar	1992	19921206		Dammweg	77	5000	Aarau	AG	CH			72392092	20170101	7213976		
+93	1	2		Alessia	Trüb	1992	19921206		Jägerheim		6387	Oberrickenbach	NW	CH			106306891	20170101			
+94	1	1		Julien	Bourgnon	1992	19921206		via Nolgio	1	6900	Massagno	TI	CH			71597425	20170101	9414231		
+95	1	2		Ana	Gosnar	1992	19921206		Colmarerweg	12	4153	Reinach BL	BL	CH			71417944	20170101	7710080		
+96	1	1		Antoine	Marguerie	1992	19921206		Erlinsbacherstrasse	68	5000	Aarau	AG	CH			74033926	20170101			
+97	1	2		Patricia	Gonçalves	1992	19921206		Heugatterstrasse	7A	8600	Dübendorf	ZH	CH			71464588	20170101	7550914	8225304	
+98	1	1		Paulo	Gomes	1992	19921206		Zugerstrasse	31	6314	Unterägeri	ZG	CH			72165538	20170101			
+99	1	2		Oriane	Delestre	1992	19921206		Ostring	15	3006	Bern	BE	CH			73619929	20170101	4101635		
+100	1	1		Slavoljub	Panic	1992	19921206		Thujastrasse	8	8038	Zürich	ZH	CH			73004833	20170101	7915453		
+101	1	1		Khang	Doan	1992	19921206		Bahnhofstrasse	3	3314	Schalunen	BE	CH			74091481	20170101			
+102	1	1		Nicolas	Bizouarn	1992	19921206		Unterer Mattweg	2	9532	Rickenbach b. Wil	TG	CH			73687537	20170101	3410519		
+103	1	2		Emilie	Bonzon	1992	19921206		Grubenstieg	18	8200	Schaffhausen	SH	CH			72992773	20170101	4800343		
+104	1	1		Andy	Mathys	1992	19921206		en Bas-le-Port	2	2088	Cressier NE	NE	CH			71422750	20170101			
+105	1	2		Barbara	Hofkamp	1992	19921206		via San Gottardo	110	6900	Massagno	TI	CH			74488921	20170101			
+106	1	1		Thibault	Nussbaumer	1992	19921206		Leemattenstrasse	19	5442	Fislisbach	AG	CH			105778120	20170101			
+107	1	2		Rahel	Ingold	1992	19921206		Ankengasse	6	8623	Wetzikon ZH	ZH	CH			74589514	20170101			
+108	1	2		Peggi	Albrecht	1992	19921206		Rennweg	11	8580	Amriswil	TG	CH			73148905	20170101			
+109	1	1		Dylan	Broderick	1992	19921206		au Village	18	1863	Le Sépey	VD	CH			74591989	20170101			
+110	1	2		Katinka	Burger	1992	19921206		Weiherstrasse	11A	9400	Rorschach	SG	CH			73416913	20170101	8703979		
+111	1	2		Jasmin	Hess	1992	19921206		route de Dorman	41	1912	Leytron	VS	CH			74559544	20170101			
+112	1	1		Ergün	Akkayalier	1992	19921206		rue des Noirettes	11	1227	Carouge GE	GE	CH			74564848	20170101			
+113	1	2		Barbara	Biernacki	1992	19921206		avenue des Cavaliers	17	1224	Chêne-Bougeries	GE	CH			103140160	20170101			
+114	1	1		Timo	Käser	1992	19921206		Gartenmattstrasse	10	4532	Feldbrunnen	SO	CH			72751966	20170101			
+115	1	1		Paul	Ah Choon	1992	19921206		Hauptstrasse	126	5015	Erlinsbach SO	SO	CH			72373861	20170101	7236756		
+116	1	2		Jelena	Mihajlovic	1992	19921206		Grand-Rue	43	2710	Tavannes	BE	CH			106162639	20170101			
+117	1	1		Nicola	Rieder	1992	19921206		Schachenmatten	17	8906	Bonstetten	ZH	CH			72746368	20170101			
+118	1	1		Nicolas	Paul	1992	19921206		Müllackerstrasse	34	8152	Glattbrugg	ZH	CH			77518162	20170101			
+119	1	1		Andre	Meier	1992	19921206		Gufelstockstrasse	484	8765	Engi	GL	CH			71783632	20170101			
+120	1	2		Susanne	Lüscher	1992	19921206		Haldeneggsteig	7	8006	Zürich	ZH	CH			105079183	20170101	4420300		
+121	1	2		Antonette	Kraehenbuehl	1992	19921206		Genossenschaftsstrasse	18	8050	Zürich	ZH	CH			73040806	20170101	2507872		
+122	1	1		Nicolo	Fallati	1992	19921206		Tägernaustrasse	101	8645	Jona	SG	CH			73283905	20170101	3615764		
+123	1	1		Antonio	Félix	1992	19921206		Via Nova	89A	7013	Domat/Ems	GR	CH			73236061	20170101			
+124	1	2		Vlora	Tahiri	1992	19921206		Kaiserstuhlstrasse	82	8172	Niederglatt ZH	ZH	CH			73999189	20170101			
+125	1	2		Esther	Mulser	1992	19921206		avenue du Curé Baud	16A	1212	Grand-Lancy	GE	CH			73819381	20170101			
+126	1	1		Enes	Zulficari	1992	19921206		Gässli	15	5723	Teufenthal AG	AG	CH			72419746	20170101	9220260		
+127	1	2		Telma	Fernandes	1992	19921206		Leuengasse	37	4057	Basel	BS	CH			73055674	20170101			
+128	1	2		Rosmarie	Bernhard	1992	19921206		Schwarzseestrasse	5	1712	Tafers	FR	CH			72046333	20170101			
+129	1	2		Mägi	Forster	1992	19921206		chemin de la Caille	47	1222	Vésenaz	GE	CH			71808187	20170101			
+130	1	1		Yanick	Imhof	1992	19921206		avenue William-Fraisse	4	1006	Lausanne	VD	CH			74127835	20170101	4331269		
+131	1	2		Em-on	Khonsap	1992	19921206		Limmattalstrasse	53	8954	Geroldswil	ZH	CH			72914182	20170101	9195145		
+132	1	2		Sybilla	Erbacher	1992	19921206		Baselstrasse	66	4500	Solothurn	SO	CH			71496163	20170101	6540679		
+133	1	1		Paul	von Ah	1992	19921206		Rietstrasse	25	8700	Küsnacht ZH	ZH	CH			74116183	20170101	5345403		
+134	1	1		Dmitry	Miroshnikov	1992	19921206		Inneri Zälgstrasse	27	3784	Feutersoey	BE	CH			74519785	20170101			
+135	1	2		Henriette	Roduit	1992	19921206		rue de la Prulay	48	1217	Meyrin	GE	CH			73169308	20170101			
+136	1	2		Ana	Smiljanic	1992	19921206		Rinderbergstrasse	19	3770	Zweisimmen	BE	CH			72357811	20170101	7843552		
+137	1	1		Josef	Seleger	1992	19921206		Sonnenbergstrasse	39	8800	Thalwil	ZH	CH			72747034	20170101			
+138	1	1		Maxim	Pringalle	1992	19921206				6804	Bironico	TI	CH			101523712	20170101			
+139	1	1		Florian	Schiess	1992	19921206		Hirschengasse	1	7206	Igis	GR	CH			71431501	20170101	9491048		
+140	1	1		Heribert	Trachsel	1992	19921206		Hotel Terminus		1897	Bouveret	VS	CH			106947706	20170101	6468308		
+141	1	2		Micheline	Schaeffler	1992	19921206		Grueneburg	20	3213	Kleinbösingen	FR	CH			73481311	20170101			
+142	1	2		Esther	Buser	1992	19921206		Les Amatennes	2	2744	Belprahon	BE	CH			73086931	20170101	6723443		
+143	1	1		Rolf	Stellmach	1992	19921206		Feldackerstrasse	58	8887	Mels	SG	CH			73458361	20170101	3130357		
+144	1	1		Orlando	Caravita	1992	19921206		Hauptstrasse	37	8274	Tägerwilen	TG	CH			73085014	20170101	9572954		
+145	1	2		Nadia	Hartmeier	1992	19921206		Winterthurerstrasse	68	8006	Zürich	ZH	CH			72179419	20170101			
+146	1	1		Xavier	Denti	1992	19921206		Sihlquai	282	8005	Zürich	ZH	CH			73809502	20170101			
+147	1	1		Zarif	Fejzuli	1992	19921206		chemin de la Fin		1904	Vernayaz	VS	CH			74089765	20170101			
+148	1	2		Nina	Rentsch	1992	19921206		Raingässli	15	8706	Meilen	ZH	CH			105041005	20170101	6836884		
+149	1	2		Yurika	Naramoto	1992	19921206		Unterdorfstrasse	7A	8370	Sirnach	TG	CH			73214398	20170101			
+150	1	2		Lina	Eggimann	1992	19921206		Alpenstrasse	85	2540	Grenchen	SO	CH			74052466	20170101	6603383		
+151	1	1		Karl-Christian	Taubmann	1992	19921206		via Prati Botta	20	6917	Barbengo	TI	CH			71455255	20170101			
+152	1	1		Donat	Schibler	1992	19921206		St.Pelagibergstrasse	13	9225	St. Pelagiberg	TG	CH			72331390	20170101			
+153	1	1		Davide	Rinaldo	1992	19921206		via al Crespo	5	6596	Gordola	TI	CH			102513559	20170101	4825215		
+154	1	2		Eliana	Fattorini	1992	19921206		Steinackerweg	26	8488	Turbenthal	ZH	CH			73304533	20170101	3339280		
+155	1	2		Sara	Barchi	1992	19921206		Luegislandstrasse	144	8051	Zürich	ZH	CH			73045105	20170101	9513592		
+156	1	1		Luca	Vernazza	1992	19921206		Poststrasse	132	8957	Spreitenbach	AG	CH			71817853	20170101	9662754		
+157	1	2		Jakoba	Huber	1992	19921206		route de la Prairie	40	3963	Crans-Montana	VS	CH			74643628	20170101			
+158	1	2		Annick	Lerch	1992	19921206		Marktgasse	58	4310	Rheinfelden	AG	CH			72281122	20170101	8974304		
+159	1	2		Lony	Welter	1992	19921206		les Bioleys	7136	1996	Bioley-de-Brignon (Nendaz)	VS	CH			102211345	20170101			
+160	1	1		Nick	Freytag	1992	19921206		Oberer Graben	6	4600	Olten	SO	CH			72369547	20170101	3402551		
+161	1	1		Achilles	Seiler	1992	19921206		Bergweg	2	5522	Tägerig	AG	CH			72787870	20170101	7992013		
+162	1	1		Rusel	Rabbipal	1992	19921206		chemin de Bon-Abri	9	1007	Lausanne	VD	CH			72202111	20170101	4023242		
+163	1	1		Jampa	Rinda	1992	19921206		route du Nant-d'Avril	107	1217	Meyrin	GE	CH			106062730	20170101			
+164	1	2		Larissa	Krumm	1992	19921206		Bachtobelstrasse	11	8106	Adlikon b. Regensdorf	ZH	CH			73011064	20170101			
+165	1	1		Roman	Berti	1992	19921206		Rebengässli	7A	5210	Windisch	AG	CH			72750706	20170101			
+166	1	1		Bryan	Madu	1992	19921206		Hauptstrasse	20	8546	Islikon	TG	CH			73703407	20170101			
+167	1	2		Elisabetta	Santoro	1992	19921206		Poz	33	7556	Ramosch	GR	CH			74660722	20170101			
+168	1	1		Michael	Erni	1992	19921206		Hinter der Mühle	13	4125	Riehen	BS	CH			71524084	20170101	2428529		
+169	1	2		Yamna	Idboubrik	1992	19921206		chemin des Eterpeys	2	1010	Lausanne	VD	CH			71386909	20170101			
+170	1	1		Mirko	Atzeni	1992	19921206		rue Ernest-Roulet	7	2034	Peseux	NE	CH			72288523	20170101	7555591		
+171	1	1		Dennis	Greisinger	1992	19921206		Albulastrasse	38	7000	Chur	GR	CH			73045285	20170101			
+172	1	1		Roland	Bippus	1992	19921206		route de Saint-Georges	47	1213	Petit-Lancy	GE	CH			72821095	20170101			
+173	1	1		Marino	Marcalo	1992	19921206		Albisstrasse	45	6312	Steinhausen	ZG	CH			74668372	20170101			
+174	1	1		Jovan	Tatic	1992	19921206		Rheinstrasse	9	9470	Buchs SG	SG	CH			72337189	20170101			
+175	1	1		Olaf	Egner	1992	19921206		Schaffhauserstrasse	75	8222	Beringen	SH	CH			100960213	20170101	4119042		
+176	1	1		Alexandre	Pfister	1992	19921206		Goldbrunnenstrasse	114	8055	Zürich	ZH	CH			71550637	20170101			
+177	1	1		Jonathan	Metzger	1992	19921206		Pilatusstrasse	1	6340	Baar	ZG	CH			72281365	20170101	8881503		
+178	1	2		Jessica	Lopes	1992	19921206		Chemin de la Dîme	1	2207	Coffrane	NE	CH			73876921	20170101	7531982		
+179	1	2		Velika	Aksic	1992	19921206		via Brenno Bertoni	13	6900	Lugano	TI	CH			103488193	20170101	6883376		
+180	1	2		Janina	Bieri	1992	19921206		Röslistrasse	2	8006	Zürich	ZH	CH			73939501	20170101			
+181	1	1		Jorge	Antunes	1992	19921206		Eisenbahnstrasse	31	3604	Thun	BE	CH			74546221	20170101	4752952		
+182	1	1		Martin	Tschäppeler	1992	19921206		chemin de Champerfou	8	1870	Monthey	VS	CH			72897478	20170101	7090217		
+183	1	2		Raffaella	Martocchi	1992	19921206		Kapellenweg	1	5015	Erlinsbach SO	SO	CH			73817119	20170101	8609789		
+184	1	1		Ait	Elhassan	1992	19921206		Amietstrasse	26	3400	Burgdorf	BE	CH			73003909	20170101			
+185	1	2		Maude	Steiner	1992	19921206		Hauptstrasse	3	6170	Schüpfheim	LU	CH			72294220	20170101	3831383	8521029	
+186	1	1		Adrian	Rätz	1992	19921206		Wilmattstrasse	5	4106	Therwil	BL	CH			105219121	20170101	8462066		
+187	1	1		Shanmugapiriyan	Nallainathan	1992	19921206		Dorfmattweg	3	3075	Rüfenacht BE	BE	CH			106772752	20170101	7720690		
+188	1	2		Elif	Ademi	1992	19921206		Sustenweg	12	3014	Bern	BE	CH			73526422	20170101			
+189	1	2		Sharon	Furfaro	1992	19921206				4652	Winznau	SO	CH			71548348	20170101		8041781	
+190	1	2		Sanela	Durmisi	1992	19921206		Kandererstrasse	35	4057	Basel	BS	CH			71984569	20170101	7381716		
+191	1	1		Alessio	Lippis	1992	19921206		Amriswilerstrasse	72	8590	Romanshorn	TG	CH			72850588	20170101			
+192	1	2		Paula	Martinetti	1992	19921206		Via Maistra	111	7505	Celerina/Schlarigna	GR	CH			72452311	20170101	9416529		
+193	1	2		Saljai	Seglias	1992	19921206		In der Sommerau	8	8053	Zürich	ZH	CH			74516950	20170101	9236711		
+194	1	1		Goran	Rankovic	1992	19921206		Tscherfingergasse	21	8888	Heiligkreuz (Mels)	SG	CH			73221313	20170101	7813105		
+195	1	2		Timea	Süss	1992	19921206		Sollrütistrasse	24	3098	Schliern b. Köniz	BE	CH			74661901	20170101	3493436		
+196	1	2		Colette	Morand	1992	19921206		Gartenstrasse	4	9240	Uzwil	SG	CH			72881845	20170101			
+197	1	2		Sandra	Moreira	1992	19921206		Dorfstrasse	3	8576	Mauren TG	TG	CH			78248575	20170101			
+198	1	1		Sandro	Padula	1992	19921206		Shopping Center	9	8957	Spreitenbach	AG	CH			71872876	20170101	3600553		
+199	1	1		Jerome	Boni	1992	19921206		Huebwiesenstrasse	8	8954	Geroldswil	ZH	CH			74110504	20170101	7501463		
+200	1	2		Lucienne	Isch	1992	19921206		rue des Cordiers	4	1207	Genève	GE	CH			74230819	20170101			
+201	1	2		Maslinda	Beqiri	1992	19921206		Bümplizstrasse	58E	3027	Bern	BE	CH			71505466	20170101			
+202	1	2		Regueiferos	Regueiferos	1992	19921206		Rosenweg	12	5040	Schöftland	AG	CH			73804009	20170101			
+203	1	1		Walter	Fürst	1992	19921206		Mattenweg	12	4133	Pratteln	BL	CH			72222403	20170101			
+204	1	1		Benjamin	Boegli	1992	19921206		Freihofstrasse	22	8700	Küsnacht ZH	ZH	CH			74247217	20170101			
+205	1	1		Renivaldo	Dias	1992	19921206		Rosenweg	18	4500	Solothurn	SO	CH			102589093	20170101			
+206	1	2		Maria De Fatima	Rodrigues	1992	19921206		Dottenbergstrasse	17	6043	Adligenswil	LU	CH			71942914	20170101	9302789		
+207	1	1		Stanislav	Boiko	1992	19921206		Mythenstrasse	2	6410	Goldau	SZ	CH			103595857	20170101			
+208	1	2		Stefanie	Schenk	1992	19921206		rue des Deux-Marchés	9	1800	Vevey	VD	CH			72804235	20170101	9031657		
+209	1	2		Lea	Holenstein	1992	19921206		Murtenstrasse	137	3008	Bern	BE	CH			105959896	20170101	9443688	3605004	
+210	1	1		Björn	Gattermann	1992	19921206		rue du Closel	10	2074	Marin-Epagnier	NE	CH			103601755	20170101	9121130		
+211	1	2		Ingrid	Behrens	1992	19921206		Neuweg	30	8222	Beringen	SH	CH			73561390	20170101			
+212	1	1		Taulant	Memaj	1992	19921206		route de la Gare	13	2017	Boudry	NE	CH			77170879	20170101			
+213	1	1		Dusgun	Kogak	1992	19921206		Belsitostrasse	20	8645	Jona	SG	CH			74120332	20170101			
+214	1	1		Naim	Stocker	1992	19921206		Gontenstrasse	11	9050	Appenzell	AI	CH			71838916	20170101			
+215	1	1		Antonio	Camboni	1992	19921206		Metzgerweg	6	8906	Bonstetten	ZH	CH			102630880	20170101	7400445		
+216	1	1		Jörg	Kleipa	1992	19921206		avenue de Rochettaz	51	1009	Pully	VD	CH			102747487	20170101			
+217	1	2		Jasmin	Hadorn	1992	19921206		Felsenrainstrasse	82	8052	Zürich	ZH	CH			74651587	20170101	8590868		
+218	1	2		Franziska	Schmid	1992	19921206		Ziegelmattstrasse	11	4415	Lausen	BL	CH			72975550	20170101	8020770		
+219	1	1		Martin	Langmeier	1992	19921206		Im Feld		7303	Mastrils	GR	CH			73926208	20170101			
+220	1	2		Olivia	Barde	1992	19921206		Waldeggweg	18	8302	Kloten	ZH	CH			73836406	20170101	3691410		
+221	1	2		Soraia	Ribeiro	1992	19921206		Heidenbühl	6	8840	Einsiedeln	SZ	CH			71797939	20170101			
+222	1	1		Alberto	Rossi	1992	19921206		Wilberg	24	4657	Dulliken	SO	CH			71392513	20170101			
+223	1	1		Henry	Balay	1992	19921206		Ancienne Poste		1308	La Chaux (Cossonay)	VD	CH			71908870	20170101			
+224	1	1		Armando	Santalucia	1992	19921206		route du Jura	9	1700	Fribourg	FR	CH			72535738	20170101	7561412		
+225	1	2		Erika	Klimkovà	1992	19921206		Rapperswilerstrasse	17	8620	Wetzikon ZH	ZH	CH			102325846	20170101			
+226	1	1		Yves	Seiler	1992	19921206		avenue du Lignon	71	1219	Le Lignon	GE	CH			101641198	20170101			
+227	1	2		Nadine	Dietsche	1992	19921206		Rauracherstrasse	6	4106	Therwil	BL	CH			73090117	20170101	2135221		
+228	1	2		Aissata	Fowler	1992	19921206		Herdernstrasse	88	8004	Zürich	ZH	CH			101464177	20170101	9112212		
+229	1	1		Thomas	Gysel	1992	19921206		Diethelmstrasse	28	6363	Fürigen	NW	CH			72104104	20170101	2421326		
+230	1	1		Stephan	Züllig	1992	19921206		Untere Bahnhofstrasse	1A	8910	Affoltern am Albis	ZH	CH			71483503	20170101	5355043		
+231	1	1		André	Nitz	1992	19921206		Neuhaus	502	9036	Grub SG	SG	CH			77556478	20170101	9400100		
+232	1	1		Eric	Koch	1992	19921206		Aeulistrasse	17	9470	Buchs SG	SG	CH			73381414	20170101		1020836	
+233	1	2		Lilly	Abegg	1992	19921206		Rheinstrasse	28	9430	St. Margrethen SG	SG	CH			73087543	20170101	2135221		
+234	1	2		Ilaria	Conese	1992	19921206		Schützenweg	27	9470	Buchs SG	SG	CH			73414963	20170101	7412532		
+235	1	2		Marlis	Denzler	1992	19921206		Mösliweg	75	2503	Biel/Bienne	BE	CH			73934416	20170101			
+236	1	2		Fabienne	Brügger	1992	19921206		Zugerstrasse	34	6312	Steinhausen	ZG	CH			104476063	20170101			
+237	1	2		Ornella	Moor	1992	19921206		St. Gallerstrasse	24	8488	Turbenthal	ZH	CH			101803354	20170101	7710821	7476325	
+238	1	1		Ibrahim	Tahlil	1992	19921206		route de Saanen	16	1660	Château-d'Oex	VD	CH			72728104	20170101	8750880		
+239	1	2		Besarta	Berisha	1992	19921206		Fährstrasse	28	4632	Trimbach	SO	CH			73929388	20170101			
+240	1	1		Christoph	Meyer	1992	19921206		Zwillikerstrasse	10	8910	Affoltern am Albis	ZH	CH			100868473	20170101			
+241	1	2		Janina	Boss	1992	19921206		Greithstrasse	22	8640	Rapperswil SG	SG	CH			79387885	20170101	8702466		
+242	1	1		Saban	Jasarevic	1992	19921206		Alfred-Schindlerstrasse	1	6030	Ebikon	LU	CH			73832821	20170101			
+243	1	1		Elias	Gall	1992	19921206		Rumimatt	4	4558	Winistorf	SO	CH			73812391	20170101			
+244	1	1		Robert	Schobinger	1992	19921206		Neuhardstrasse	23	4600	Olten	SO	CH			72199666	20170101	8431812		
+245	1	2		Anthime	Heinzmann	1992	19921206		Löwenplatz	2	5612	Villmergen	AG	CH			72371242	20170101			
+246	1	1		Sandro	Signer	1992	19921206		chemin du Trot	11	3979	Grône	VS	CH			71650996	20170101	4388992		
+247	1	1		Jose	Diaz	1992	19921206		via Cortivallo	26	6900	Lugano	TI	CH			72911707	20170101			
+248	1	2		Julia	Salmina	1992	19921206		Erlenweg	9	3604	Thun	BE	CH			72921994	20170101	4561220		
+249	1	1		Pierre-Alexandre	Perre	1992	19921206		Quellstrasse	17	5032	Rohr AG	AG	CH			73971784	20170101			
+250	1	2		Isabel	Assuncao	1992	19921206		Berghaldenstrasse	4	8800	Thalwil	ZH	CH			73855105	20170101			
+251	1	1		Reynier	Diaz	1992	19921206		via Crösa	11A	6874	Castel San Pietro	TI	CH			105926116	20170101		4308437	
+252	1	2		Sophie	Messerli	1992	19921206		route du Closalet	8	1822	Chernex	VD	CH			74038336	20170101			
+253	1	1		Vasco	Ceccoli	1992	19921206		via San Martino	11	6850	Mendrisio	TI	CH			71622112	20170101			
+254	1	1		Muhib	Sakiri	1992	19921206		Schwaderloch	7	8253	Diessenhofen	TG	CH			72140092	20170101	4294620		
+255	1	1		Ruedi	Reusser	1992	19921206		Schulstrasse	151	4323	Wallbach	AG	CH			71247613	20170101			
+256	1	1		Patrizio	Panizzolo	1992	19921206		Mühle	99	7306	Fläsch	GR	CH			72866977	20170101			
+257	1	2		Simona	Gabetti	1992	19921206		Erlenstrasse	6	9450	Altstätten SG	SG	CH			105221077	20170101	9290173		
+258	1	1		Dimitri	Isler	1992	19921206		Terra di Sopra		6939	Arosio	TI	CH			72241297	20170101			
+259	1	1		Kastriot	Kokollari	1992	19921206		Lichtena		1716	Schwarzsee	FR	CH			71231821	20170101	6770548		
+260	1	2		Julia	Wueger	1992	19921206		via Consiglio Mezzano	45	6644	Orselina	TI	CH			72768901	20170101	6526806		
+261	1	1		Stanislav	Fabik	1992	19921206		Milchstrasse	2	6060	Sarnen	OW	CH			79256776	20170101	9271969		
+262	1	2		Emilie	Maraldi	1992	19921206		route du Tonkin	10b	1870	Monthey	VS	CH			73161544	20170101			
+263	1	1		Goran	Andonov	1992	19921206		Waisenhausweg	8	8645	Jona	SG	CH			72965647	20170101			
+264	1	2		Gazni	Özkök	1992	19921206		avenue de la Gare	41	1880	Bex	VD	CH			74251717	20170101			
+265	1	1		Nimnuan	Elsasser	1992	19921206		route de Moudon	30	1610	Oron-la-Ville	VD	CH			72363520	20170101			
+266	1	1		Pietro	Andretta	1992	19921206		Wartensteinstrasse	34	9008	St. Gallen	SG	CH			73484566	20170101	8333140	6947696	
+267	1	2		Jacqueline	Hecht	1992	19921206		Oberhofstrasse	6	8353	Elgg	ZH	CH			72203377	20170101	4373500		
+268	1	1		Paulo	Cardoso	1992	19921206		Grundstrasse	22	8344	Bäretswil	ZH	CH			72616342	20170101			
+269	1	1		Julian	Kumschick	1992	19921206		Industriestrasse	21	5507	Mellingen	AG	CH			74312848	20170101			
+270	1	1		Thibault	Gapany	1992	19921206		Beckenmattweg	14	4442	Diepflingen	BL	CH			103396483	20170101	2774108		
+271	1	1		Jose	Lopes	1992	19921206		Guldenenstrasse	10	8610	Uster	ZH	CH			73935124	20170101			
+272	1	1		Florin	Venica	1992	19921206		rue Emer-de-Vattel	17	2000	Neuchâtel	NE	CH			73846465	20170101			
+273	1	1		David	Karen	1992	19921206		Weidstrasse	18	6343	Rotkreuz	ZG	CH			72610675	20170101			
+274	1	2		Rosemarie	Koretz	1992	19921206		Schlossmatte	16	3110	Münsingen	BE	CH			77221636	20170101			
+275	1	2		Bernadete	Almeida	1992	19921206		Ackerstrasse	38	8610	Uster	ZH	CH			106846273	20170101	6475446		
+276	1	2		Aissah	Van Eer	1992	19921206		Herzogstrasse	12	4900	Langenthal	BE	CH			72315664	20170101			
+277	1	2		Juliana	Stämpfli	1992	19921206		Alleestrasse	12	3550	Langnau im Emmental	BE	CH			72870040	20170101			
+278	1	1		Silvan	Doppelhofer	1992	19921206		Fabrikstrasse	30	8887	Mels	SG	CH			72215239	20170101			
+279	1	2		Sabina	Zuliani	1992	19921206		Schönbeinstrasse	23	4056	Basel	BS	CH			74429941	20170101			
+280	1	1		Fabian	Bruni	1992	19921206		Pflanzerbachstrasse	76	8967	Widen	AG	CH			72003340	20170101	6210454	7799524	
+281	1	1		Sascha	Kalt	1992	19921206		Flugbrunnenstrasse	19	3065	Bolligen	BE	CH			103659691	20170101			
+282	1	1		Diego	Studer	1992	19921206		rue de la Prulay	65	1217	Meyrin	GE	CH			72749983	20170101	9942275		
+283	1	2		Monica	Lissberg	1992	19921206		route Neuve	85	1024	Ecublens VD	VD	CH			73252060	20170101	4405841		
+284	1	2		Laura	Le	1992	19921206		Hofwiesenstrasse	48	8057	Zürich	ZH	CH			71863114	20170101			
+285	1	1		Jean-Pierre	Lehmann	1992	19921206		Hügelstrasse	7	8002	Zürich	ZH	CH			73175947	20170101	3422745		
+286	1	2		Sumathy	Pathamanathan	1992	19921206		Kirchhalde	24	8592	Uttwil	TG	CH			74464984	20170101			
+287	1	2		Cornelia	Inauen	1992	19921206		Dorfmatte	6	6112	Doppleschwand	LU	CH			74101921	20170101	8261686		
+288	1	2		Jasmin	Fiechter	1992	19921206		Lindenhofstrasse	38	4052	Basel	BS	CH			104333488	20170101			
+289	1	2		Boonpar	Koch	1992	19921206		rue Cernil-Antoine	9	2300	La Chaux-de-Fonds	NE	CH			72208339	20170101	2775819		
+290	1	1		Bruno	Ramos	1992	19921206		Alleestrasse	10	9326	Horn	TG	CH			73756459	20170101	7570582		
+291	1	2		Marcela	Hysek	1992	19921206		Küngacker	302	4952	Eriswil	BE	CH			71472205	20170101	4183293		
+292	1	2		Slavica	Batinic	1992	19921206		chemin des Bochattets	11	1296	Coppet	VD	CH			71565553	20170101			
+293	1	1		Robin	Du Pasquier	1992	19921206		Asternweg	5	8057	Zürich	ZH	CH			73332244	20170101	8590737		
+294	1	2		Ayla	Zwiker	1992	19921206		Schmiedeweg	2	4563	Gerlafingen	SO	CH			72759130	20170101	3213688		
+295	1	1		Driton	Ferati	1992	19921206		Höhenweg	16	5070	Frick	AG	CH			72216022	20170101			
+296	1	1		Gregory	Norbert	1992	19921206		Leeweg	4	8180	Bülach	ZH	CH			73862113	20170101			
+297	1	1		Joel	Weiss	1992	19921206		Chemin de Chandieu	22	1006	Lausanne	VD	CH			71533489	20170101	3004355	6913220	
+298	1	2		Laura	Caldeira	1992	19921206		Vorderlenden	523	9035	Grub AR	AR	CH			73253869	20170101			
+299	1	2		Michelle	Senn	1992	19921206		Kleinhüningeranlage	43	4057	Basel	BS	CH			72050743	20170101			
+300	1	1		Philippe	Kläy	1992	19921206		Praettigauerstrasse		7302	Landquart	GR	CH			106271950	20170101			
+301	1	2		Raquel	Chaveiro	1992	19921206		Oltnerstrasse	38	4653	Obergösgen	SO	CH			74427121	20170101			
+302	1	1		Dario	Orlando	1992	19921206		Oberdorfstrasse	8	8874	Mühlehorn	GL	CH			73213816	20170101	9214318		
+303	1	2		Jolanda	Antonietti	1992	19921206		Edisriederstrasse	41	6072	Sachseln	OW	CH			73508956	20170101	7611506		
+304	1	2		Arbresha	Mehmeti	1992	19921206		rue de l'Hôtel-de-Ville	2	1800	Vevey	VD	CH			71551978	20170101			
+305	1	2		Tania	Correia	1992	19921206		Hambelweg	2	5524	Niederwil AG	AG	CH			79427464	20170101			
+306	1	1		Daniel	Laeng	1992	19921206		Gerbeweg	43	8708	Männedorf	ZH	CH			72827056	20170101			
+307	1	2		Sarah	Vogt	1992	19921206		Bischofszellerstrasse	263	9212	Arnegg	SG	CH			101565391	20170101	2451959		
+308	1	2		Giulia	Snozzi	1992	19921206		Weinbergstrasse	22	8630	Rüti ZH	ZH	CH			72000475	20170101			
+309	1	1		Egzon	Sulja	1992	19921206		Hüslerstrasse	32	5453	Remetschwil	AG	CH			78817393	20170101			
+310	1	1		Gunter	Dobratz	1992	19921206		rue Dancet	18	1205	Genève	GE	CH			101851636	20170101			
+311	1	2		Rosa	Hui	1992	19921206		St. Jakobs-Strasse	151	4132	Muttenz	BL	CH			72586426	20170101			
+312	1	1		Martin	Tokuchen	1992	19921206		route de la Forêt	57	1926	Fully	VS	CH			74666341	20170101	8572128		
+313	1	2		Varathanayaki	Balasubramaniam	1992	19921206		rue Henri-Frédéric Amiel	13	1203	Genève	GE	CH			72387697	20170101			
+314	1	1		Luc	Stoffer	1992	19921206		Plein Soleil		1854	Leysin	VD	CH			71643028	20170101	7220061		
+315	1	2		Andrea	Burkhard	1992	19921206		rue Neuve	16	2502	Biel/Bienne	BE	CH			74042569	20170101	9312671		
+316	1	2		Ruth	Willa	1992	19921206		Laufenstrasse	19	4053	Basel	BS	CH			76624849	20170101			
+317	1	2		Susi	Scacchi	1992	19921206		Micafilstrasse	4	8048	Zürich	ZH	CH			72496447	20170101			
+318	1	2		Serije	Veliju	1992	19921206		Niederriedstrasse	19	3282	Bargen BE	BE	CH			74653009	20170101			
+319	1	2		Chimena	Moos	1992	19921206		Aarenaustrasse	29	5000	Aarau	AG	CH			73830586	20170101	7132449		
+320	1	1		Timor	Ilkhan	1992	19921206		chemin Ladame	7	1226	Thônex	GE	CH			71925613	20170101	7808557		
+321	1	2		Rachel	Digier	1992	19921206		rue des Deux-Marchés	14	1800	Vevey	VD	CH			103615477	20170101	7966104		
+322	1	1		Markus	Meier	1992	19921206		Zielackerstrasse	30	8500	Frauenfeld	TG	CH			71665600	20170101	9663406		
+323	1	1		Andreas	Battaglia	1992	19921206		Heinrich Federer-Strasse	6	8038	Zürich	ZH	CH			106161127	20170101			
+324	1	1		Matthieu	Leimgruber	1992	19921206		Sandstrasse	7	8716	Schmerikon	SG	CH			74659633	20170101			
+325	1	2		Camille	Uldry	1992	19921206		Bergstrasse	13	6010	Kriens	LU	CH			101524585	20170101	5341190	7126512	
+326	1	1		Abuzer	Öter	1992	19921206		Neugutstrasse	33	8304	Wallisellen	ZH	CH			73120138	20170101		8054106	
+327	1	2		Caroline	Schürmann	1992	19921206		Bognau		6216	Mauensee	LU	CH			73475452	20170101	2425005		
+328	1	1		Patrick	Wallimann	1992	19921206		rue du Conseil-General	11	1205	Genève	GE	CH			74357290	20170101			
+329	1	1		Michael	Zerezghi	1992	19921206		passage de la Poste	4	2800	Delémont	JU	CH			73419868	20170101			
+330	1	2		Stephanie	Thomas	1992	19921206		Bodenfeldstrasse	24	8902	Urdorf	ZH	CH			74045539	20170101	6017002		
+331	1	1		Muhammed-Hüzeyfe	Altun	1992	19921206		Dorfstrasse	18	4704	Niederbipp	BE	CH			72463600	20170101			
+332	1	2		Esther	Bürki	1992	19921206		Riedhofstrasse	364	8049	Zürich	ZH	CH			71695429	20170101	6810508		
+333	1	1		Christoph	Kurmann	1992	19921206		Neumattstrasse	37	8902	Urdorf	ZH	CH			74045665	20170101			
+334	1	1		Sascha	Blankenhorn	1992	19921206		Bodengasse	6	3935	Bürchen	VS	CH			72166858	20170101			
+335	1	1		David	Hügli	1992	19921206		Lettenholzstrasse	4	8038	Zürich	ZH	CH			72499855	20170101	4632414		
+336	1	2		Gioela	Lüchinger	1992	19921206		Eschenweg	10	6030	Ebikon	LU	CH			74498116	20170101			
+337	1	2		Leona	Knobel	1992	19921206		Badenerstrasse	659	8048	Zürich	ZH	CH			71667274	20170101	3025679		
+338	1	1		Qahil	Selmani	1992	19921206		Via Lucmagn	90	7184	Curaglia	GR	CH			73160383	20170101			
+339	1	1		Jerushanthy	Rajendran	1992	19921206		Bachwisenstrasse	7B	9200	Gossau SG	SG	CH			103026424	20170101			
+340	1	2		Alexandra	Rodriguez	1992	19921206		Kätzigen		6252	Dagmersellen	LU	CH			74646256	20170101			
+341	1	2		Emma	Porchet	1992	19921206		In Weizenächern	31	8103	Unterengstringen	ZH	CH			73578715	20170101			
+342	1	2		Alba	Torres	1992	19921206		Weghus		6112	Doppleschwand	LU	CH			102326893	20170101			
+343	1	1		Salim	Selimovic	1992	19921206		Bankstrasse	10	8750	Glarus	GL	CH			79534027	20170101			
+344	1	2		Ana	Soares	1992	19921206		rue de Carroz-Devant	10	1844	Villeneuve VD	VD	CH			74414080	20170101			
+345	1	2		Magdalena	Markovic	1992	19921206		Leonhardsstrasse	38	4051	Basel	BS	CH			71885749	20170101			
+346	1	1		Joao	Guilherme	1992	19921206		Schlüsselstrasse	8	8645	Jona	SG	CH			73942522	20170101			
+347	1	2		Rahel	Jordi	1992	19921206		Heinrich-Bosshard-Strasse	26	8405	Winterthur	ZH	CH			71537482	20170101			
+348	1	1		René	Berendts	1992	19921206		chemin du Fâtre	2	2952	Cornol	JU	CH			78205375	20170101			
+349	1	1		Jorge	Da Costa	1992	19921206		Via Caplania		7031	Laax GR	GR	CH			106989913	20170101			
+350	1	2		Lucie	Thibaud	1992	19921206		Thunstrasse	1	3672	Oberdiessbach	BE	CH			58287502	20170101	9614514		
+351	1	1		Dario	Zevola	1992	19921206		Kerenzerstrasse	11	8753	Mollis	GL	CH			73000330	20170101			
+352	1	2		Juliette	Knörr	1992	19921206		Arxhof	14	4435	Niederdorf	BL	CH			72620314	20170101			
+353	1	2		Ursula	Waldburger	1992	19921206		via alla Chiesa	61	6802	Rivera	TI	CH			72851398	20170101	4928505		
+354	1	1		Jordan	Schriber	1992	19921206		place de la Gare	14	1020	Renens VD	VD	CH			73170793	20170101	6851623		
+355	1	2		Melanie	Fraude	1992	19921206		Schützenstrasse	32	8400	Winterthur	ZH	CH			101724232	20170101			
+356	1	2		Jeannette	David	1992	19921206		rue des Indiennes	8A	2074	Marin-Epagnier	NE	CH			100871926	20170101			
+357	1	2		Timea	Saner	1992	19921206		chemin du Village	34C	1012	Lausanne	VD	CH			71668591	20170101	2990002		
+358	1	2		Jessica	Coelho	1992	19921206		Alter Hirschen		6038	Honau	LU	CH			73015927	20170101			
+359	1	2		Sophie	Herkommer	1992	19921206		rue de Malagny	6	1196	Gland	VD	CH			78783316	20170101			
+360	1	2		Tyra	Dittmann	1992	19921206		via al Gaggio	13	6912	Pazzallo	TI	CH			74659780	20170101			
+361	1	2		Strahinja	Djukic	1992	19921206		Chalet Tiara		3818	Grindelwald	BE	CH			72547891	20170101			
+362	1	2		Chantal	Müller	1992	19921206		Klingentalstrasse	67	4057	Basel	BS	CH			72372451	20170101			
+363	1	2		Rosa	Vetter	1992	19921206		Agnesstrasse	15	8004	Zürich	ZH	CH			74597998	20170101	8551141		
+364	1	2		Faustine	Molliet	1992	19921206		via al Fiume	5	6963	Pregassona	TI	CH			71977741	20170101			
+365	1	2		Martina	Oberhofer	1992	19921206		Gadmenhofweg		6403	Küssnacht am Rigi	SZ	CH			73918438	20170101	3251430		
+366	1	1		Leonardo	Pires	1992	19921206		Bäckerstrasse	7	8952	Schlieren	ZH	CH			72694477	20170101	6531231		
+367	1	2		Saranda	Haxhijaj	1992	19921206		Herrenmatten	8	4153	Reinach BL	BL	CH			71550994	20170101			
+368	1	2		Elzbieta	Papka	1992	19921206		Regensbergstrasse	47	8050	Zürich	ZH	CH			72121012	20170101			
+369	1	2		Sabine	Schumacher	1992	19921206		rue de la Vidondé	2	1912	Leytron	VS	CH			71643283	20170101	3112159		
+370	1	1		Togba	Koné	1992	19921206		impasse de la Carrière	4	2732	Reconvilier	BE	CH			72130162	20170101	8543762		
+371	1	2		Uma	Wirth	1992	19921206		chemin des Blanchettes	70	1093	La Conversion	VD	CH			73637443	20170101	2812183		
+372	1	2		Maria de los Angeles	Rodriguez	1992	19921206		avenue des Crosets	39	1800	Vevey	VD	CH			71599894	20170101			
+373	1	2		Zahide	Plaku	1992	19921206		Mittlere Scharten	1	8836	Bennau	SZ	CH			72830275	20170101			
+374	1	1		Matthias	Hatanek	1992	19921206		Belchenring	1	4123	Allschwil	BL	CH			73679044	20170101	7806579		
+375	1	2		Elisabeth	Voinier	1992	19921206		Oststrasse	8A	8500	Frauenfeld	TG	CH			73019743	20170101	3701200		
+376	1	2		Nera	Makarevic	1992	19921206		boulevard de la Forêt	36	1009	Pully	VD	CH			74387677	20170101			
+377	1	1		Ercan	Gülacti	1992	19921206		Binzmühlestrasse	78A	8050	Zürich	ZH	CH			72692164	20170101			
+378	1	2		Jenny	Vögele	1992	19921206		Sportweg	3	5507	Mellingen	AG	CH			102951136	20170101			
+379	1	1		Anton	Rothmund	1992	19921206		Winterthurerstrasse	52	8006	Zürich	ZH	CH			71324893	20170101			
+380	1	1		Fernand	Durussel	1992	19921206		route de Plan-de-Croix	122	1899	Torgon	VS	CH			74520889	20170101	6631319		
+381	1	1		Vincent	Da Silva	1992	19921206		Cerneux Renard	2	2740	Moutier	BE	CH			73692487	20170101			
+382	1	2		Carolina	Wyttenbach	1992	19921206		Oberdierikonerstrasse	40	6030	Ebikon	LU	CH			72101428	20170101			
+383	1	2		Sabrina	Bassin	1992	19921206		route de Cité-Ouest	2	1196	Gland	VD	CH			72966163	20170101			
+384	1	1		Steve	Cox	1992	19921206		Coin-Dessus	10	2863	Undervelier	JU	CH			72146035	20170101	4623865		
+385	1	1		Sandro	Leuppi	1992	19921206		Baslerstrasse	25	4133	Pratteln	BL	CH			73374712	20170101	9076778		
+386	1	1		Fabio	Wynistorf	1992	19921206		Mettlenweg	94	2504	Biel/Bienne	BE	CH			72449674	20170101			
+387	1	2		Jessica	Gonçalves	1992	19921206		rue des Granges	5	1870	Monthey	VS	CH			72017200	20170101	2620655		
+388	1	1		Paul	Derendinger	1992	19921206		Hurdnerwäldlistrasse	139	8808	Pfäffikon SZ	SZ	CH			78205162	20170101			
+389	1	2		Selvida	Kalajdzini	1992	19921206		Aarbergstrasse	86	2502	Biel/Bienne	BE	CH			73440328	20170101	7713081		
+390	1	2		Serpil	Cetin	1992	19921206		Bachtelstrasse	18	8808	Pfäffikon SZ	SZ	CH			106844578	20170101	6572519		
+391	1	2		Ljuljeta	Aradinovic	1992	19921206		Feldstrasse	16	3604	Thun	BE	CH			71980534	20170101			
+392	1	1		Dennis	Dörfler	1992	19921206		Farnsburgerstrasse	34	4466	Ormalingen	BL	CH			104978308	20170101			
+393	1	2		Gabriela	Auer	1992	19921206		Mühleweg	10	5600	Lenzburg	AG	CH			77221768	20170101	8172234		
+394	1	2		Andrea	Perrot	1992	19921206		rue du Signal	6	2300	La Chaux-de-Fonds	NE	CH			78277330	20170101			
+395	1	2		Eva	Marques	1992	19921206		Unterer Bifang	276	4625	Oberbuchsiten	SO	CH			73190164	20170101			
+396	1	1		Lutfullah	Bozorov	1992	19921206		route du Pré-Vert	1	2019	Chambrelien	NE	CH			77478523	20170101	3220192		
+397	1	2		Donatella	Verbicaro	1992	19921206		Luzernerring	60	4056	Basel	BS	CH			78204796	20170101			
+398	1	1		Lutz	Badstübner	1992	19921206		rue des Maladaires	1	1962	Pont-de-la-Morge (Sion)	VS	CH			74134093	20170101	7800632		
+399	1	2		Lisa	Geinoz	1992	19921206		rue de Lyon	19	1201	Genève	GE	CH			72893740	20170101	7713817		
+400	1	1		Willy	Keller	1992	19921206		Keltenstrasse	89	3018	Bern	BE	CH			73284919	20170101	7714344		
+401	1	2		Matija	Paponja	1992	19921206		Dorfstrasse	17A	8546	Kefikon TG	TG	CH			71795809	20170101	8251235		
+402	1	2		Martina	Heldstab	1992	19921206		avenue du Lignon	50	1219	Le Lignon	GE	CH			73560058	20170101			
+403	1	2		Elsa	Cuvera	1992	19921206		Mittelstrasse	16	3775	Lenk im Simmental	BE	CH			71703130	20170101	2788483		
+404	1	1		Lorenz	Huber	1992	19921206		Metzgergasse	1	9320	Arbon	TG	CH			73379104	20170101			
+405	1	1		Corsin	Pollo	1992	19921206		Stockerenweg	13	3014	Bern	BE	CH			73902934	20170101			
+406	1	1		Sandro	Hustig	1992	19921206		Glarnerstrasse	62	8854	Siebnen	SZ	CH			71481967	20170101			
+407	1	1		Davide	Faragolo	1992	19921206		Neuhausweg	7	3027	Bern	BE	CH			73807603	20170101			
+408	1	1		Roland	Odermatt	1992	19921206		route de Pierre-à-Bot	4	2000	Neuchâtel	NE	CH			74219566	20170101	7580806	6055633	
+409	1	2		Valeria	Mc Quillen	1992	19921206		Rebenweg	36	4413	Büren SO	SO	CH			71988217	20170101	7611275		
+410	1	1		Michel	Robert	1992	19921206		Stettemerstrasse	131A	8207	Schaffhausen	SH	CH			79302331	20170101	6526081		
+411	1	2		Katharyna	Patt	1992	19921206		Abendweg	29	6006	Luzern	LU	CH			72734113	20170101			
+412	1	2		Anna	Pagnoni	1992	19921206		route de la Glâne	113	1752	Villars-sur-Glâne	FR	CH			105924652	20170101			
+413	1	2		Therese	Seiler	1992	19921206		Gislifluestrasse	50	5033	Buchs AG	AG	CH			102747988	20170101			
+414	1	1		Thore	Buchser	1992	19921206		Langendorfstrasse	3	4500	Solothurn	SO	CH			78898033	20170101			
+415	1	1		Nebi	Tzighe	1992	19921206		route du Village		1070	Puidoux	VD	CH			74187259	20170101			
+416	1	2		Sugitha	Kanapathipillai	1992	19921206		impasse Galicet	27	1565	Vallon	FR	CH			73461466	20170101			
+417	1	2		Brigitta	Erath	1992	19921206		Barblanstrasse	18	7000	Chur	GR	CH			73610329	20170101	7618561		
+418	1	2		Alessia	Mauricio	1992	19921206		immeuble Gentianes	1	1972	Anzère	VS	CH			73333150	20170101	8643223		
+419	1	1		Pierre	Riedemann	1992	19921206		Seestrasse	825	8706	Meilen	ZH	CH			73606747	20170101			
+420	1	2		Elena	Ferrari	1992	19921206		Kaufplatz	10	3930	Visp	VS	CH			71610220	20170101			
+421	1	2		Aulona	Januzi	1992	19921206		Nebikerstrasse	56	6247	Schötz	LU	CH			104635291	20170101		2138146	
+422	1	2		Xandra	Linsin	1992	19921206		rue de Genève	89	1004	Lausanne	VD	CH			73502161	20170101			
+423	1	2		Marcella	Maissen	1992	19921206		Lettenmattstrasse	21	8903	Birmensdorf ZH	ZH	CH			74482540	20170101	3417749		
+424	1	2		Vjolca	Ljatifi	1992	19921206		Dorfstrasse	19	8165	Schleinikon	ZH	CH			72861736	20170101			
+425	1	1		Thomas	Nägele	1992	19921206		Geissmattstrasse	1	6004	Luzern	LU	CH			72127792	20170101			
+426	1	2		Melanie	Schössow	1992	19921206		Hochbergerstrasse	74	4057	Basel	BS	CH			71863456	20170101			
+427	1	2		Yudelkys	Companioni	1992	19921206		Friedenstrasse	5A	8304	Wallisellen	ZH	CH			71825341	20170101			
+428	1	1		Lennart	Dwinger	1992	19921206		St. Gallerstrasse	228	9320	Stachen	TG	CH			73510714	20170101	7233953		
+429	1	2		Etuyé	Ghebrekidane	1992	19921206		rue de la Byronne	7	1800	Vevey	VD	CH			77478568	20170101	9710977		
+430	1	1		Beat	Schegg	1992	19921206		chemin des Tuileries	144	1293	Bellevue	GE	CH			73647667	20170101			
+431	1	1		Roman	Caluori	1992	19921206		Thalackerweg	11	4614	Hägendorf	SO	CH			74373115	20170101			
+432	1	1		Manuel	Devaud	1992	19921206		Nesplenweg	2	4537	Wiedlisbach	BE	CH			72275857	20170101	6436930		
+433	1	2		Edina	Hornakova	1992	19921206		Bahnhofstrasse	37	3800	Unterseen	BE	CH			73090924	20170101			
+434	1	1		Nori	Grimida	1992	19921206		Einschlagweg	38	3400	Burgdorf	BE	CH			74321467	20170101	3805726		
+435	1	2		Elena	Wälchli	1992	19921206		Neue Strasse	2	3945	Gampel	VS	CH			74193199	20170101			
+436	1	1		Ariel-Abednego	Dakouri	1992	19921206		Sonnenbüelstrasse	5	9030	Abtwil SG	SG	CH			71615380	20170101	4240402		
+437	1	1		Helder	Patriarca	1992	19921206		Steinacherstrasse	4D	9327	Tübach	SG	CH			74115895	20170101	3611677		
+438	1	1		Josef	Jten	1992	19921206		Waldheimstrasse	5	2540	Grenchen	SO	CH			72646336	20170101			
+439	1	2		Makfiret	Aliu	1992	19921206		Oberdorfstrasse	1	6247	Schötz	LU	CH			73808131	20170101	3812539		
+440	1	1		Julio	Mosca	1992	19921206		Sägegasse		3556	Trub	BE	CH			74228239	20170101			
+441	1	1		Jan	Clavadetscher	1992	19921206		Schützenmatte	B	6362	Stansstad	NW	CH			73642309	20170101			
+442	1	2		Coralie	André	1992	19921206		Unterscheid	1	6375	Beckenried	NW	CH			74478742	20170101	8030674		
+443	1	2		Naira	Espinoza	1992	19921206		Rychenbergstrasse	349	8404	Winterthur	ZH	CH			72270559	20170101	8512532		
+444	1	2		Sabrina	Tinner	1992	19921206		Ganèla	6	6647	Mergoscia	TI	CH			73365193	20170101			
+445	1	2		Maria	Lopes	1992	19921206		le Sorbier		1862	Les Mosses	VD	CH			73951267	20170101			
+446	1	1		Paxton	Borgognon	1992	19921206		Dornacherstrasse	288	4053	Basel	BS	CH			102578626	20170101			
+447	1	2		Charlotte	Vrtacic	1992	19921206		Albert-Minder-Weg	15	3400	Burgdorf	BE	CH			73270843	20170101	7298408		
+448	1	1		Damien	Lindt	1992	19921206		Mosermattstrasse	13	4437	Waldenburg	BL	CH			72110341	20170101			
+449	1	1		Shqiprim	Selmani	1992	19921206		Apothekerweg	10	5712	Beinwil am See	AG	CH			71513104	20170101			
+450	1	2		Doriane	Locatelli	1992	19921206		le Torrentet		1854	Leysin	VD	CH			71622988	20170101			
+451	1	1		Rolf	Heiniger	1992	19921206		Oudiou		1865	Les Diablerets	VD	CH			72782176	20170101			
+452	1	1		David	Schulthess	1992	19921206		rue de l'Union	18	1800	Vevey	VD	CH			71941024	20170101			
+453	1	1		Peter	Gitau	1992	19921206		Strehlgasse	16	8600	Dübendorf	ZH	CH			72340165	20170101			
+454	1	1		Jasin	Tifeki	1992	19921206		rue du Crêt-Rossel	19	2300	La Chaux-de-Fonds	NE	CH			72556741	20170101	8550482	8185645	
+455	1	1		Lalaina	Rabemanantsoa	1992	19921206		Hauptstrasse	44	5032	Aarau Rohr	AG	CH			79469485	20170101	4467918		
+456	1	2		Melanie	Bachmann	1992	19921206		Gjuchstrasse	24	8953	Dietikon	ZH	CH			74280274	20170101	8102662		
+457	1	1		André	Wider	1992	19921206		Balthasarstrasse	17	3027	Bern	BE	CH			73591546	20170101			
+458	1	1		Angelo	Barbiero	1992	19921206				9326	Horn	TG	CH			72419557	20170101			
+459	1	2		Ganimete	Musa	1992	19921206		Alte Landstrasse	23	8942	Oberrieden	ZH	CH			101803363	20170101	7505692	6468785	
+460	1	2		Lyra	Charlton	1992	19921206		Birchstrasse	135	8050	Zürich	ZH	CH			73940080	20170101			
+461	1	2		Wanidda	Biotti	1992	19921206		Allmeindstrasse	4	8854	Galgenen	SZ	CH			72901609	20170101	2101183		
+462	1	2		Georgette	Dumas	1992	19921206		Waldshuterstrasse	10	4058	Basel	BS	CH			72881437	20170101			
+463	1	1		Julien	Ston	1992	19921206		route du Simplon	1B	1906	Charrat	VS	CH			72703873	20170101	4267788		
+464	1	1		Daniel	Halbheer	1992	19921206		Utengasse	16	4058	Basel	BS	CH			71623660	20170101	3914442		
+465	1	2		Elise	Darbellay	1992	19921206		Büelstrasse	22	8330	Pfäffikon ZH	ZH	CH			73921345	20170101	2813637		
+466	1	1		Eugen	Lang	1992	19921206		Wiesenstrasse	2	9220	Bischofszell	TG	CH			101727742	20170101			
+467	1	1		Jürg	Zbinden	1992	19921206		Tiefmattstrasse	8	4563	Gerlafingen	SO	CH			72375361	20170101			
+468	1	1		Phuc	Khampoumy	1992	19921206		Bogenmatt		6314	Unterägeri	ZG	CH			72602845	20170101	6822445		
+469	1	1		Kai	Hoffmann	1992	19921206				3936	St. German		CH			74536885	20170101			
+470	1	2		Amire	Morina	1992	19921206		Spittelgasse	6	6055	Alpnach Dorf	OW	CH			74393809	20170101			
+471	1	1		Alessandro	Ceraulo	1992	19921206		Untere Weinhalde	51	3111	Tägertschi	BE	CH			104690362	20170101	7987108		
+472	1	1		Loris	Renner	1992	19921206		via Dott. G. Polar	68	6932	Breganzona	TI	CH			74387782	20170101	3650075	8217369	
+473	1	2		Olga	Milosevic	1992	19921206		Fulachstrasse	257	8200	Schaffhausen	SH	CH			73367002	20170101			
+474	1	1		Aymen	Dassié	1992	19921206		Leebenstrasse	314	8215	Hallau	SH	CH			73620007	20170101			
+475	1	1		Angelo	Varsallona	1992	19921206		Luegislandstrasse	585	8051	Zürich	ZH	CH			72766486	20170101			
+476	1	2		Johanna	Linn	1992	19921206		chemin Clos de la Gare	10	1482	Cugy FR	FR	CH			106200142	20170101		4518650	
+477	1	1		Peter	Gauch	1992	19921206		Lürlibadstrasse	39	7000	Chur	GR	CH			73254502	20170101	8627226		
+478	1	1		Samuel	Daniels	1992	19921206		Zwidellen	22	5070	Frick	AG	CH			72365053	20170101	9232941		
+479	1	2		Sinjini	Pande	1992	19921206		Inseliweg	18	3436	Zollbrück	BE	CH			73197079	20170101	2968143	7938813	
+480	1	1		William	Dellenbach	1992	19921206		via San Gottardo	8	6500	Bellinzona	TI	CH			71800360	20170101			
+481	1	2		Aurelia	Zeller	1992	19921206		rue des Moulins	5	2300	La Chaux-de-Fonds	NE	CH			104528362	20170101	4402142		info@neodesis.ch
+482	1	2		Karina	Garcia	1992	19921206		Kreuzackerstrasse	17	8623	Wetzikon ZH	ZH	CH			100882945	20170101			
+483	1	2		Haley	Summers	1992	19921206		Mattenhof	6	4932	Lotzwil	BE	CH			73960543	20170101	8013493		
+484	1	1		Luan	Cortes	1992	19921206		Jurastrasse	17	5035	Unterentfelden	AG	CH			101409289	20170101			
+485	1	1		Siegfried	Piel	1992	19921206		Vorderer Steinacker	4	4600	Olten	SO	CH			74393245	20170101			
+486	1	1		Andrea	Barblan	1992	19921206		Gartenstrasse	6	9200	Gossau SG	SG	CH			73625467	20170101			
+487	1	2		Rita	Marrollo	1992	19921206		avenue du Léman	48	1005	Lausanne	VD	CH			71277637	20170101	3924328		
+488	1	2		Natalia	Baldina	1992	19921206		Sängergasse	14	4054	Basel	BS	CH			74514157	20170101	2846998		
+489	1	2		Constance	Turner	1992	19921206		route de la Gare	50	1690	Villaz-St-Pierre	FR	CH			73624846	20170101			
+490	1	1		Yann	Kozel	1992	19921206		Gerbergässli	1	8570	Weinfelden	TG	CH			71669053	20170101	6641410		
+491	1	2		Vanessa	Simoni	1992	19921206		chemin des Bonnares	11	1872	Troistorrents	VS	CH			74626135	20170101	9431727		
+492	1	2		Franziska	Schindelholz	1992	19921206		route de Sion	16	1974	Arbaz	VS	CH			73455505	20170101			
+493	1	2		Elodie	Criqui	1992	19921206		place du Pont	8	1337	Vallorbe	VD	CH			72961363	20170101	3002756		
+494	1	1		Kevin	Linh	1992	19921206		via Castel di Sotto	3	6883	Novazzano	TI	CH			74276887	20170101	4555155		
+495	1	1		Adriano	Scuderi	1992	19921206		Ueberlandstrasse	357	8051	Zürich	ZH	CH			73663666	20170101			
+496	1	2		Vanessa	Montani	1992	19921206		Seftigenstrasse	287	3084	Wabern	BE	CH			72233242	20170101			
+497	1	1		Pierre	Jiménez	1992	19921206		Sunnebüel-Strasse	4	8604	Volketswil	ZH	CH			71989405	20170101	7750014		
+498	1	1		Andre	Santos	1992	19921206		avenue Industrielle	9	1227	Carouge GE	GE	CH			72770950	20170101			
+499	1	2		Daria	Stieger	1992	19921206		Dorfplatz	11	9056	Gais	AR	CH			72354229	20170101			
+500	1	1		Armir	Jasari	1992	19921206		Alpenstrasse	121	3052	Zollikofen	BE	CH			104872246	20170101	9551253		
+501	1	2		Lyne	Cochard	1992	19921206		Jonschwiler Strasse	46	9536	Schwarzenbach SG	SG	CH			106160434	20170101		6151040	
+502	1	2		Caroline	Pfister	1992	19921206		Gäbrisstrasse	6	9400	Rorschach	SG	CH			71413696	20170101	9451111		
+503	1	1		João	Ribeiro	1992	19921206		Mythenweg	5	8604	Volketswil	ZH	CH			103615366	20170101	4412421		
+504	1	2		Nadia	Ferreira	1992	19921206		Logengasse	35	2502	Biel/Bienne	BE	CH			72031042	20170101			
+505	1	1		Ulf	Trygved	1992	19921206		Gutstrasse	127	8055	Zürich	ZH	CH			73430122	20170101	4812490		
+506	1	1		David	Soto	1992	19921206		Kreuzweg	13	5400	Baden	AG	CH			72344788	20170101	6315520		
+507	1	2		Katy	Romy	1992	19921206		Wankdorffeldstrasse	87	3014	Bern	BE	CH			73346989	20170101	4435700		
+508	1	2		Emine	Zogaj	1992	19921206		Oberdorfstrasse	23	9642	Ebnat-Kappel	SG	CH			72982201	20170101			
+509	1	2		Parfaite	Kazadi	1992	19921206		via Borenco	6	6648	Minusio	TI	CH			74298592	20170101			
+510	1	2		Leonor	Gashi	1992	19921206		rue du Scex	20	1950	Sion	VS	CH			74064454	20170101	9411173		
+511	1	1		Jacinto	Pereira	1992	19921206		Peterskirchplatz	1	4051	Basel	BS	CH			72653080	20170101	7969952		
+512	1	1		Miguel	Teixeiro	1992	19921206		Mühlebühl	26	9100	Herisau	AR	CH			73730929	20170101	9218521		
+513	1	2		Jana	Bianchi	1992	19921206				8842	Unteriberg	SZ	CH			73173385	20170101			
+514	1	2		Amanda	Sejna	1992	19921206		Felsenrainstrasse	82	8052	Zürich	ZH	CH			74118637	20170101			
+515	1	1		Nathan	Monnet	1992	19921206		Schönholzweg	31	8409	Winterthur	ZH	CH			71633356	20170101			
+516	1	1		Ylber	Qusaj	1992	19921206		Neuhausstrasse	8	4057	Basel	BS	CH			104913037	20170101	9719878	3371875	
+517	1	2		Sofia	Finkeldei	1992	19921206		Weberstrasse	57	8400	Winterthur	ZH	CH			74650285	20170101			
+518	1	1		Milan	Samolovac	1992	19921206		Bühl	59	3645	Zwieselberg	BE	CH			72485554	20170101			
+519	1	2		Elisabeth	De Blasio	1992	19921206		sentee Sasell		6597	Agarone	TI	CH			72086158	20170101	2606470		
+520	1	1		David	Dujakovic	1992	19921206		chemin de Sous-le-Duché	150	1542	Rueyres-les-Prés	FR	CH			71405980	20170101			
+521	1	2		Manuela	Reiske	1992	19921206		chemin Sus la Sala		1188	St-George	VD	CH			73990783	20170101			
+522	1	1		Hakan	Erdogan	1992	19921206		Gewerbestrasse	12	8107	Buchs ZH	ZH	CH			71752066	20170101	3115616		
+523	1	1		Markus	Bühlmann	1992	19921206		chemin de la Prairie	10	1007	Lausanne	VD	CH			73455457	20170101	9815337		
+524	1	1		Guido	Reichmacher	1992	19921206		via Delta	3	6612	Ascona	TI	CH			73794838	20170101			
+525	1	2		Susan	Dietrich	1992	19921206		Chesa Castelberg		7513	Silvaplana	GR	CH			71694742	20170101			
+526	1	1		Manfred	Wacker	1992	19921206		la Couronnette		1166	Perroy	VD	CH			73040668	20170101	8620238		
+527	1	2		Line	Pasquier	1992	19921206		Weidstrasse	224	4936	Kleindietwil	BE	CH			106272406	20170101			
+528	1	1		David	Rauti	1992	19921206		Baurstrasse	32	8008	Zürich	ZH	CH			74231317	20170101			
+529	1	2		Giulia	Pittaluga	1992	19921206		rue du Lac	14	1815	Clarens	VD	CH			72586990	20170101	4927051		
+530	1	1		Jan	Flückiger	1992	19921206		Reichensteinerstrasse	13	4053	Basel	BS	CH			72888013	20170101		7231435	
+531	1	2		Sheiroon	Khan	1992	19921206		avenue Général Guisan	7	1400	Yverdon-les-Bains	VD	CH			71830762	20170101			
+532	1	1		Valentin	Künzle	1992	19921206		Kirchmattstrasse	16	3422	Kirchberg BE	BE	CH			74197489	20170101			
+533	1	1		Roland	Kiraly	1992	19921206		Eichbüelstrasse	4	9602	Bazenheid	SG	CH			71980303	20170101			
+534	1	2		Katja	Wagner	1992	19921206		Grenzweg	1A	3613	Steffisburg	BE	CH			104329705	20170101	7813494		
+535	1	1		Luca	von Büren	1992	19921206		rue Saint-Michel	1	2900	Porrentruy	JU	CH			105924505	20170101	8314114		
+536	1	1		Jürgen	Kaus	1992	19921206		route des Acacias	42	1227	Les Acacias	GE	CH			73991464	20170101			
+537	1	1		Lorenz	Markus	1992	19921206		Püntenstrasse	18	8143	Stallikon	ZH	CH			72559678	20170101	8610528		
+538	1	1		Katemo	Haldemann	1992	19921206		Wassergasse	19	9000	St. Gallen	SG	CH			71820250	20170101	7518619		
+539	1	2		To	Lau	1992	19921206		Sandackerweg	17	3238	Gals	BE	CH			71729911	20170101	7328522		
+540	1	2		Ajlina	Aliu	1992	19921206		Sur-le-Pont-Bémont		2406	Le Brouillet	NE	CH			106947643	20170101	3616522		
+541	1	1		Janis	Lüdin	1992	19921206		chemin de Vers	18	1228	Plan-les-Ouates	GE	CH			71888848	20170101			
+542	1	1		Denis	Ponjevic	1992	19921206		Unterdorfwäg	24	8117	Fällanden	ZH	CH			74292394	20170101			
+543	1	2		Tomomi	Yashiro	1992	19921206		Ifangstrasse	83C	8153	Rümlang	ZH	CH			74456437	20170101	8454194		
+544	1	2		Jessica	Curado	1992	19921206		sur les Rives	62	1470	Estavayer-le-Lac	FR	CH			72628390	20170101			
+545	1	1		Inanc	Gungor	1992	19921206		route de la Glâne	161	1752	Villars-sur-Glâne	FR	CH			71370661	20170101	4410711		
+546	1	1		Rizvan	Bakdemir	1992	19921206		Gemeindemattenstrasse	9	3860	Meiringen	BE	CH			73589818	20170101			
+547	1	2		Anna	Dussont	1992	19921206		Chemin de la Golette	1	3961	Grimentz	VS	CH			71469172	20170101	9440646		
+548	1	1		Eliah	Giger	1992	19921206		Vorzielstrasse	60	5015	Erlinsbach SO	SO	CH			73006738	20170101	6601112		
+549	1	1		Hassan	Beydoun	1992	19921206		Schönbergweg	11	3006	Bern	BE	CH			106948954	20170101			
+550	1	1		Thomas	Markovic	1992	19921206		avenue de Bussy	57	1510	Moudon	VD	CH			106294963	20170101			
+551	1	2		Eva	Rüegg	1992	19921206		Hubelweg	19	3323	Bäriswil BE	BE	CH			74045485	20170101	3539010		
+552	1	1		Roby	Lindegger	1992	19921206		Bergstrasse	5	5073	Gipf-Oberfrick	AG	CH			73600078	20170101		4469412	
+553	1	1		Laurin	Vogel	1992	19921206		route Principale	93	1791	Courtaman	FR	CH			77517823	20170101			
+554	1	1		Rodrigo	Martins	1992	19921206		rue de Carroz-Devant	10	1844	Villeneuve VD	VD	CH			71693812	20170101			
+555	1	2		Vanessa	Meurgues	1992	19921206		Schulgartenweg	2	4143	Dornach	SO	CH			72727759	20170101			
+556	1	2		Julia	Lehner	1992	19921206		rue des Chênes d'en Haut		1906	Charrat	VS	CH			74676469	20170101			
+557	1	2		Virginia	Schmid	1992	19921206		Bäumlihofweg	18	5035	Unterentfelden	AG	CH			71747965	20170101			
+558	1	1		Markus	Hess	1992	19921206		Obernauerstrasse	24	6010	Kriens	LU	CH			73930018	20170101			
+559	1	2		Aleskandra	Petrova	1992	19921206		Meisenweg	6	2503	Biel/Bienne	BE	CH			73434331	20170101	9202725		
+560	1	1		Michael	Mathier	1992	19921206		Salmenstrasse	15	4127	Birsfelden	BL	CH			105445774	20170101	5442594		
+561	1	2		Silke	Seidel	1992	19921206		Islas	2	7503	Samedan	GR	CH			102212023	20170101	7352664		
+562	1	2		Liliana	Monteiro	1992	19921206		Balmweg	29	3007	Bern	BE	CH			74029138	20170101	8453052		
+563	1	2		Flurina	Zwygart	1992	19921206		rue de Crissier	5	1020	Renens VD	VD	CH			106979515	20170101			
+564	1	2		Tamara	Schüeber	1992	19921206		Grand-Rue	3	1204	Genève	GE	CH			72538354	20170101			
+565	1	1		Dominik	Lauper	1992	19921206		rue des Eaux-Vives	108	1207	Genève	GE	CH			104475013	20170101	6479280	8924909	
+566	1	1		Ali	Nur Yusuf	1992	19921206		avenue des Alpes	25	1820	Montreux	VD	CH			74311975	20170101			
+567	1	2		Sarah	Basler	1992	19921206		avenue du Midi	3	1700	Fribourg	FR	CH			71602045	20170101	2019857		
+568	1	1		Thomas	Rammsayer	1992	19921206		Bleihollenweg	22	4242	Laufen	BL	CH			74485450	20170101			
+569	1	1		Mehdi	Salhi	1992	19921206		Weiermattstrasse	30	3027	Bern	BE	CH			71998846	20170101			
+570	1	2		Celine	Kipfer	1992	19921206		Drosselweg	1	4562	Biberist	SO	CH			74135533	20170101	7754631		
+571	1	1		André	Jeker	1992	19921206		Haldenstrasse	9	8370	Sirnach	TG	CH			74005120	20170101	4333301		
+572	1	2		Jeanine	Rindlisbacher	1992	19921206		rue des Charmilles	1	1203	Genève	GE	CH			73343650	20170101	9333557		
+573	1	1		Qemajl	Elshani	1992	19921206		Oberstrasse	101	9000	St. Gallen	SG	CH			71460490	20170101	9213036		
+574	1	2		Ncole	Shek	1992	19921206		route de la Clochatte	14A	1018	Lausanne	VD	CH			73728730	20170101			
+575	1	2		Sarah	Da Costa	1992	19921206		route du Merley	12	1233	Bernex	GE	CH			72971617	20170101	2617206		
+576	1	1		Dragoslav	Smitran	1992	19921206		route de la Veveyse	16	1700	Fribourg	FR	CH			74476948	20170101	2021040		
+577	1	2		Jenjira	Ochsner	1992	19921206		impasse de Petites-Corbe	10	1661	Pâquier-Montbarry	FR	CH			105217153	20170101			
+578	1	1		Alessandro	Tosti	1992	19921206		Im oberen Gern	30	8409	Winterthur	ZH	CH			74585812	20170101			
+579	1	2		Franciska	Adzami	1992	19921206		Engenbüelstrasse	1	8304	Wallisellen	ZH	CH			76626199	20170101	5386581		
+580	1	2		Margrith	Gähler	1992	19921206		Zurmattenstrasse	34	4500	Solothurn	SO	CH			105096181	20170101			
+581	1	2		Brigitte	Santmann	1992	19921206		Fuederegg	B4	8842	Unteriberg	SZ	CH			72280468	20170101	3614531		
+582	1	2		Janine	Neuhaus	1992	19921206		Haumühlestrasse	5	8424	Embrach	ZH	CH			74201905	20170101			
+583	1	2		Ella	Andermatt	1992	19921206		Im Wiesegrund	10	8335	Hittnau	ZH	CH			72641530	20170101	9094359		
+584	1	2		Gizelly	Van der Werf	1992	19921206		Gotthelfstrasse	13	4800	Zofingen	AG	CH			71922073	20170101			
+585	1	1		Bankole	Adebayo	1992	19921206		Im Baumgarten	8	8303	Bassersdorf	ZH	CH			71534602	20170101	3235986		
+586	1	1		Joel	Schmid	1992	19921206		Wiswandstrasse	9	8542	Wiesendangen	ZH	CH			73188106	20170101	2556189		
+587	1	1		Raymond	Piganiol	1992	19921206		via Luigi Piffaretti	35B	6853	Ligornetto	TI	CH			78250363	20170101			
+588	1	2		Matilde	Da Silva	1992	19921206		Heinrichstrasse	108	8005	Zürich	ZH	CH			106483942	20170101			
+589	1	1		Adrian	Suriel	1992	19921206		rue de la Neuveville	24	1700	Fribourg	FR	CH			73021177	20170101	2338125		
+590	1	1		Richard	Powles	1992	19921206		Obere Kirchstrasse	8	8304	Wallisellen	ZH	CH			71760109	20170101	3226310		
+591	1	2		Elisa	Portner	1992	19921206		Bärgliweg	11A	3629	Oppligen	BE	CH			72743590	20170101	2126124		
+592	1	2		Be	Bachmann	1992	19921206		Huberstrasse	14	7000	Chur	GR	CH			73259728	20170101	2119490		
+593	1	2		Simona	Chirico	1992	19921206		passage de la Couronne	1	1110	Morges	VD	CH			71500540	20170101	4880710		
+594	1	2		Alisha	Haller	1992	19921206		Besmerstrasse	28A	8280	Kreuzlingen	TG	CH			104415166	20170101	2224835		
+595	1	2		Natalya	Sidler	1992	19921206		chemin Aimé Nicollerat	5	1880	Bex	VD	CH			103456972	20170101	8791808		
+596	1	2		Zina	Andrade	1992	19921206		Lilienweg	8	5303	Würenlingen	AG	CH			102739606	20170101	6302389		
+597	1	1		Andrea	Huguenin	1992	19921206		les Bolles-du-Temple	33 -35	2117	La Côte-aux-Fées	NE	CH			72413731	20170101	2421353		
+598	1	2		Catarina	Martins	1992	19921206		Grand'Rue	27	1896	Vouvry	VS	CH			74207740	20170101			
+599	1	1		Michael	Vogel	1992	19921206		Walzenhauserstrasse	55	9430	St. Margrethen SG	SG	CH			72295123	20170101			
+600	1	1		Janosch	Michel	1992	19921206		Spycherstrasse	23	8596	Scherzingen	TG	CH			74322166	20170101	6991026		
+601	1	2		Helene	Randegger	1992	19921206		Sogn Giacun	721E	7165	Breil/Brigels	GR	CH			73921240	20170101			
+602	1	2		Silvia	Ribeiro	1992	19921206		Bahnhofstrasse	12A	6403	Küssnacht am Rigi	SZ	CH			103051156	20170101			
+603	1	1		Pompeu	Rocha	1992	19921206		Austrasse	23	5430	Wettingen	AG	CH			71249209	20170101			
+604	1	2		Sandra	Devaud	1992	19921206		rue du Botzet	20	1700	Fribourg	FR	CH			74636176	20170101			
+605	1	2		Svitlana	O'Connor	1992	19921206		av. de la Vallombreuse	69	1008	Prilly	VD	CH			74017270	20170101	7712839		
+606	1	1		Ismail	Mutluay	1992	19921206		rue du Clos-de-Serrières	18	2000	Neuchâtel	NE	CH			101232607	20170101	7209387		
+607	1	2		Ilda	Domingues	1992	19921206		Zürcher Strasse	68B	9000	St. Gallen	SG	CH			71524465	20170101	9636091		
+608	1	2		Marie	Casse	1992	19921206		Dorfackerstrasse	36	4528	Zuchwil	SO	CH			104417788	20170101			
+609	1	1		Christoph	Egli	1992	19921206		route Cantonale	57	1963	Vétroz	VS	CH			73728328	20170101	4989898		
+610	1	1		Ljuljzim	Djimsiti	1992	19921206		Ilgenstrasse	4	9200	Gossau SG	SG	CH			74529685	20170101	7970023		
+611	1	1		Nicola	Fiamingo	1992	19921206		Unterdorfstrasse	12	4658	Däniken SO	SO	CH			74375785	20170101			
+612	1	2		Autjima	Kieni	1992	19921206		chemin des Lézards	3	1219	Aïre	GE	CH			105035695	20170101			
+613	1	2		Eda	Oezseven	1992	19921206		Hagenholzstrasse	70	8050	Zürich	ZH	CH			74247919	20170101	6706293		
+614	1	2		Larissa	Grubenmann	1992	19921206		Korporationsweg	10	8832	Wilen b. Wollerau	SZ	CH			106303087	20170101	8621465		
+615	1	1		Ramon	Zutter	1992	19921206		Zeughausstrasse	30	8910	Affoltern am Albis	ZH	CH			78731965	20170101		6367078	
+616	1	2		Joceline	Labansine	1992	19921206		via S. Nicolao	2D	6962	Viganello	TI	CH			71885806	20170101			
+617	1	2		Deborah	Willi	1992	19921206		Möttelistrasse	59	8400	Winterthur	ZH	CH			79387279	20170101	7701328		
+618	1	1		Giuseppe	Freda	1992	19921206		Sonneggstrasse	27	8006	Zürich	ZH	CH			71560174	20170101	3515378		
+619	1	2		Anjuschka	Maij	1992	19921206		Chaletweg	14	3283	Kallnach	BE	CH			77518717	20170101	7222788		
+620	1	2		Natalia	Bischofberger	1992	19921206		Im Cholplatz	34	8180	Bülach	ZH	CH			72564280	20170101	6467458		
+621	1	1		Fabien	De Simone	1992	19921206		via San Rocco	15	6948	Porza	TI	CH			71551183	20170101			
+622	1	1		Qendrim	Dullovi	1992	19921206		rue François-Dussaud	17	1227	Les Acacias	GE	CH			74409955	20170101			
+623	1	1		Nick	Käppeli	1992	19921206		Hofwiesenstrasse	80	8057	Zürich	ZH	CH			71747869	20170101			
+624	1	2		Oriane	De Pascali	1992	19921206		Lindenhofstrasse	8	3048	Worblaufen	BE	CH			73478233	20170101	8396939		
+625	1	1		Roger	Jungo	1992	19921206		Rohnackerstrasse	30A	9445	Rebstein	SG	CH			71384668	20170101			
+626	1	1		Alex	Diegel	1992	19921206		via Francesco Chiesa	65A	6850	Mendrisio	TI	CH			71454283	20170101	6245631		
+627	1	1		Michele	Moennig	1992	19921206		Obere Hauptgasse	79	3600	Thun	BE	CH			72111832	20170101			
+628	1	2		Jessica	Herrmann	1992	19921206		Freiburgstrasse	61	3008	Bern	BE	CH			101726293	20170101	3651471		
+629	1	1		Frank	Stoklossa	1992	19921206		route de Taillepied	32	1095	Lutry	VD	CH			78350524	20170101	6342209		
+630	1	1		Nicolas	De Sa	1992	19921206		Schönaustrasse	55	4058	Basel	BS	CH			72838945	20170101	3213215		
+631	1	1		David	Muster	1992	19921206		chemin des Osches	46	1806	St-Légier-Chiésaz	VD	CH			76892590	20170101			
+632	1	2		Deborah	Mehmann	1992	19921206		Muehlemattweg	53	4225	Brislach	BL	CH			105178972	20170101	4801540		
+633	1	2		Amina	Nardone	1992	19921206		chemin de la Forestallaz	27	1806	St-Légier-La Chiésaz	VD	CH			74453725	20170101			
+634	1	2		Daniela	Egloff	1992	19921206		Bot Ping	4	7013	Domat/Ems	GR	CH			106331347	20170101	9714019		
+635	1	1		Mohsen	Sakhri	1992	19921206		Bahnhofstrasse	16	3292	Busswil b. Büren	BE	CH			72579583	20170101	4422479		
+636	1	1		Guido	Urfer	1992	19921206		Talackerstrasse	26	3604	Thun	BE	CH			71880460	20170101			
+637	1	2		Sena	Gavillet	1992	19921206		rue de Montagny	14	1400	Yverdon-les-Bains	VD	CH			73706437	20170101			
+638	1	2		Ramona	Boxler	1992	19921206		route du Village	5	1587	Constantine	VD	CH			106767823	20170101			
+639	1	2		Nunzia	Perna	1992	19921206		Fröschgasse	15	4054	Basel	BS	CH			73779037	20170101		3065666	
+640	1	1		Patrick	Burch	1992	19921206		Holenackerstrasse	35	3027	Bern	BE	CH			73363852	20170101			
+641	1	1		Alexandre	Araujo	1992	19921206		Steigerhubelstrasse	71	3008	Bern	BE	CH			77478988	20170101		6275152	
+642	1	1		Markus	Christ	1992	19921206		rue des Mornets	10	2520	La Neuveville	BE	CH			73894222	20170101			
+643	1	1		Eric	Zwygart	1992	19921206		Kirchgasse	1A	4402	Frenkendorf	BL	CH			73469626	20170101	2161537		
+644	1	2		Keyla	Reyes	1992	19921206		Galdinen	28	3953	Leuk Stadt	VS	CH			105590590	20170101			
+645	1	2		Larissa	Spiess	1992	19921206		Sonneggstrasse	13	5430	Wettingen	AG	CH			106751086	20170101			
+646	1	2		Rosilene	Zay	1992	19921206		Burggartenstrasse	1	4133	Pratteln	BL	CH			105036031	20170101	7808047		
+647	1	2		Zydalia	Fernandes	1992	19921206		Allmenden	209	3762	Erlenbach i. S.	BE	CH			73503625	20170101			
+648	1	1		Torge	Zeilinger	1992	19921206		Bergstrasse	99	8032	Zürich	ZH	CH			74552071	20170101			
+649	1	2		Asimina	Linardou	1992	19921206		Kalkofenstrasse	3	8810	Horgen	ZH	CH			103184416	20170101			
+650	1	1		Cyrill	Stucki	1992	19921206		Ostring	21	3006	Bern	BE	CH			73395553	20170101	7304521		
+651	1	2		Sybille	Blanjean	1992	19921206		rue des Jonchères	42	2610	St-Imier	BE	CH			71586616	20170101	8880461		
+652	1	1		Mathias	Wieczorek	1992	19921206		Aescherweg	3	5725	Leutwil	AG	CH			106273468	20170101	5369216		
+653	1	2		Gulsam	Ramadani	1992	19921206		Schlossergässli	12	2503	Biel/Bienne	BE	CH			74412739	20170101			
+654	1	2		Iris	Schlegel	1992	19921206		Rietelstrasse	6	6252	Dagmersellen	LU	CH			71301367	20170101	3624314		
+655	1	1		Kushtrim	Kasumaj	1992	19921206		Margarethenstrasse	1	8152	Glattbrugg	ZH	CH			71255863	20170101	9030970		
+656	1	1		Aymen	Khammari	1992	19921206		chemin de la Chapelle		1040	St-Barthélemy VD	VD	CH			71400241	20170101	2886116		
+657	1	2		Karin	Schuler	1992	19921206		Förrlibuckstrasse	232	8005	Zürich	ZH	CH			71734120	20170101	7303825	3046379	
+658	1	2		Claudia	Vilmeray	1992	19921206		route de l'Eglise	13	3968	Veyras	VS	CH			71929804	20170101	5366860		
+659	1	2		Adelina	Hamdiji	1992	19921206		chemin du Bois-Brûlé	6	1292	Chambésy	GE	CH			73842085	20170101			
+660	1	2		Montserat	Giovanetti	1992	19921206		Hagenwiesenstrasse	11	8108	Dällikon	ZH	CH			73515433	20170101	9815329		
+661	1	1		Ramiz	Ruiz	1992	19921206		Zilstrasse	76	9016	St. Gallen	SG	CH			73907977	20170101	3354226		
+662	1	2		Daniela	Scheidegger	1992	19921206		Schmitten	4	6438	Ibach	SZ	CH			71896642	20170101	8256848		
+663	1	1		Jean-Pierre	Croisier	1992	19921206		Am Balsberg	36	8302	Kloten	ZH	CH			73043005	20170101	7124380		
+664	1	2		Leonie	Henke	1992	19921206		Wannenfeldstrasse	89	8500	Frauenfeld	TG	CH			72534547	20170101			
+665	1	2		Cécile	Zaugg	1992	19921206		Madinis		7235	Fideris	GR	CH			74450317	20170101			
+666	1	2		Gabrielle	Bodley	1992	19921206		Kindergartenstrasse	3	8590	Romanshorn	TG	CH			101938663	20170101	3817660	6701851	
+667	1	2		Ejiro	Sam	1992	19921206		Hofäckerstrasse	1A	9524	Zuzwil SG	SG	CH			72756550	20170101	7315216		
+668	1	2		Edona	Domgjoni	1992	19921206		via alla Costa	6	6802	Rivera	TI	CH			106160206	20170101			
+669	1	1		Ezio	Bergamasco	1992	19921206		Culmannstrasse	59	8006	Zürich	ZH	CH			71604913	20170101		4707603	
+670	1	1		Alfred	Lang	1992	19921206		Redingstrasse	8	9000	St. Gallen	SG	CH			103343449	20170101		6218933	
+671	1	2		Colette	Mauricio	1992	19921206		Feldstrasse	19	5634	Merenschwand	AG	CH			72194125	20170101			
+672	1	1		Veron	Hylaj	1992	19921206		Voa Principala	70	7078	Lenzerheide/Lai	GR	CH			72414016	20170101			
+673	1	1		Marco	Sa Ferreira	1992	19921206		Stapfenstrasse	81	3018	Bern	BE	CH			73518289	20170101			
+674	1	2		Riana	Gredig	1992	19921206		rue de Fontenelle	2	2108	Couvet	NE	CH			72308494	20170101	4610597		
+675	1	1		Wesley	Snell	1992	19921206		avenue du Mont-d'Or	54	1007	Lausanne	VD	CH			73203211	20170101			
+676	1	2		Vimalambal	Sivasubramanjam	1992	19921206		rue du Vieux-Four	8B	1288	Aire-la-Ville	GE	CH			72011308	20170101	9218954		
+677	1	2		Lionne	Weiss	1992	19921206		Feldkircher Strasse	52	9494	Schaan	FL	CH			72328966	20170101			
+678	1	1		Anthony	Cataldi	1992	19921206		corso Italia	29	6911	Campione d'Italia	IT	CH			71595643	20170101			
+679	1	2		Snezana	Zivanovic	1992	19921206		avenue d'Echallens	34	1004	Lausanne	VD	CH			71492677	20170101			
+680	1	2		Milena	Bartholdi	1992	19921206		Maggenberg	1	1712	Tafers	FR	CH			73647526	20170101			
+681	1	1		José	Dorrio	1992	19921206		Moosgasse	20	2542	Pieterlen	BE	CH			106048675	20170101	3414053		
+682	1	1		Thomas	Aerne	1992	19921206		Markgräflerstrasse	7	4057	Basel	BS	CH			74300332	20170101			
+683	1	1		Diego	Sollberger	1992	19921206		Neugrütstr.	25	5332	Rekingen AG	AG	CH			72955144	20170101	8227009		
+684	1	2		Agnés	Comment	1992	19921206		Birkenweg	2	1717	St. Ursen	FR	CH			78640831	20170101	3461324		
+685	1	1		Antonio	Machado	1992	19921206		Steinackerstrasse	2	8152	Glattbrugg	ZH	CH			73012201	20170101	3539871		
+686	1	2		Valeria	Suigo	1992	19921206		Baselstrasse	28	4142	Münchenstein	BL	CH			73032586	20170101			
+687	1	2		Ana	Esteves	1992	19921206		Heuweg	80	5033	Buchs AG	AG	CH			72264148	20170101	9619531		
+688	1	1		Pablo	Andri	1992	19921206		Hofackerstrasse	28	8543	Gundetswil	ZH	CH			71389759	20170101	9139973		
+689	1	2		Lola	Richard	1992	19921206		Balthasarstrasse	13	3027	Bern	BE	CH			74288899	20170101	2889570		
+690	1	2		Anabela	Das Neves	1992	19921206		Bözingenstrasse	66	2502	Biel/Bienne	BE	CH			73823038	20170101	3418635		
+691	1	2		Isabelle	Murmann	1992	19921206		Reinhold-Frei-Strasse	62	8049	Zürich	ZH	CH			71304784	20170101	3891229		
+692	1	1		Matteo	Roberti	1992	19921206		Brunnen	1929	9643	Krummenau	SG	CH			71984857	20170101			
+693	1	2		Anna	Ledermann	1992	19921206		avenue Nestlé	4	1820	Montreux	VD	CH			77495137	20170101	9715804		
+694	1	1		Kabilan	Thevarajah	1992	19921206		Siedlungsstrasse	7	3603	Thun	BE	CH			72300241	20170101	6105519		
+695	1	1		Timothee	Pons	1992	19921206		rue Pédro-Meylan	6	1208	Genève	GE	CH			76626409	20170101	8130521	3288831	
+696	1	2		Mary	Miller	1992	19921206		rue du 23-Juin	2	2822	Courroux	JU	CH			76526104	20170101			
+697	1	2		Ines	Montipietra	1992	19921206		Bahnhofstrasse	112	6423	Seewen SZ	SZ	CH			78511336	20170101	7571964		
+698	1	1		Nemanja	Rodic	1992	19921206		Nordstrasse	1	8575	Bürglen TG	TG	CH			72765751	20170101			
+699	1	2		Christelle	Montavon	1992	19921206		Marktgasse	15	6340	Baar	ZG	CH			106275616	20170101	4262706	9106319	
+700	1	2		Vanessa	Goss	1992	19921206		rue des Parcs	94	2000	Neuchâtel	NE	CH			71745157	20170101	7304913		
+701	1	2		Loresa	Morina	1992	19921206		rue des Andains	10	2800	Delémont	JU	CH			71254687	20170101	7615865		
+702	1	1		Krister	Weidenhielm	1992	19921206		Vogelsangstrasse	2	8590	Romanshorn	TG	CH			72140452	20170101	6253776		
+703	1	1		Robin	Knafl	1992	19921206		Geissacker	21	5318	Mandach	AG	CH			73060021	20170101			
+704	1	1		Martin	Bütikofer	1992	19921206		via Mezzana	31A	6616	Losone	TI	CH			73065331	20170101	9667653		
+705	1	2		Renata	Kälin	1992	19921206		Am Stausee	27	4127	Birsfelden	BL	CH			72702967	20170101	8212131		
+706	1	2		Jasmin	Hiltebrand	1992	19921206		chemin Régiment-de-Conti	10	1290	Versoix	GE	CH			74035432	20170101			
+707	1	2		Amelie	Chiffelle	1992	19921206		Im Rigiblick	19	8623	Wetzikon ZH	ZH	CH			103521010	20170101			
+708	1	1		Marco	Incoronato	1992	19921206		Witikonerstrasse	234	8053	Zürich	ZH	CH			106780573	20170101			
+709	1	2		Halima	Abdirahman	1992	19921206		Dorfstrasse	2	3054	Schüpfen	BE	CH			71764123	20170101			
+710	1	1		Ahmed	Imeri	1992	19921206		Flurstrasse	4	3014	Bern	BE	CH			73526932	20170101			
+711	1	1		Fabrizio	Canoci	1992	19921206		Weststrasse	12	5432	Neuenhof	AG	CH			72491866	20170101			
+712	1	2		Kaija	Niehus	1992	19921206		avenue du Lignon	28	1219	Le Lignon	GE	CH			73982941	20170101			
+713	1	2		Ines	Huggenberger	1992	19921206		Mattenweg	9	5102	Rupperswil	AG	CH			79259182	20170101			
+714	1	2		Isabelle	Giraudet	1992	19921206		Braunauerstrasse	5	9512	Rossrüti	SG	CH			72106039	20170101	7961529		
+715	1	2		Safije	Sakiri	1992	19921206		rue des Délices	18	1203	Genève	GE	CH			106865374	20170101			
+716	1	2		Eliana	Martins	1992	19921206		via Stazione		6817	Maroggia	TI	CH			102406951	20170101	7434962		
+717	1	1		David	Mendes	1992	19921206		Schulstrasse	23	4450	Sissach	BL	CH			72578785	20170101	6521234		
+718	1	1		Killian	Terrettaz	1992	19921206		Bahnhofstrasse	39	6454	Flüelen	UR	CH			73680529	20170101	6359711		
+719	1	1		Liridon	Uruci	1992	19921206		Sonnhalde	338	5705	Hallwil	AG	CH			72392467	20170101	2258004		
+720	1	1		Cédric	Tresch	1992	19921206		Jesuitenweg	51	3902	Glis	VS	CH			72253582	20170101			
+721	1	1		Adam	Affenita	1992	19921206		Dostentalstrasse	1	8232	Merishausen	SH	CH			73791763	20170101			
+722	1	2		Ines	Seixas	1992	19921206		Schönenwerderstrasse	76	5000	Aarau	AG	CH			72348199	20170101			
+723	1	2		Narin	Rasheed	1992	19921206		rue de la Paix	112	2300	La Chaux-de-Fonds	NE	CH			101410585	20170101	8643138		
+724	1	2		Manon	Recht	1992	19921206		Rainlihof	2	6048	Horw	LU	CH			74132317	20170101			
+725	1	2		Arjete	Gashi	1992	19921206		chemin du Ruttet	2	1196	Gland	VD	CH			71556817	20170101	3311059		
+726	1	1		Abdelkarim	Berkellil	1992	19921206		via Guidino	20	6900	Paradiso	TI	CH			72567730	20170101	9468843		
+727	1	1		Joel	Monsayac	1992	19921206		Lentulusstrasse	69	3007	Bern	BE	CH			74275279	20170101			
+728	1	1		Youssef	Louhichi	1992	19921206		via Aldo Piffaretti	15A	6853	Ligornetto	TI	CH			102949678	20170101			
+729	1	1		Khessib	Ben	1992	19921206		via Cognana	2	6833	Vacallo	TI	CH			71280880	20170101	7613712		
+730	1	1		Daniel	Roulin	1992	19921206		Dorniackerstrasse	12	3322	Urtenen-Schönbühl	BE	CH			72712081	20170101			
+731	1	2		Elisa	Cartesiani	1992	19921206		Ziegelhofstrasse	16	5242	Lupfig	AG	CH			73446289	20170101			
+732	1	1		Simon	Kiser	1992	19921206		rue de la Byronne	20	1800	Vevey	VD	CH			74388223	20170101			
+733	1	2		Michela	Paradiso	1992	19921206		Galtschinisweg	11	7324	Vilters	SG	CH			73433452	20170101			
+734	1	2		Arzu	Muratoglu	1992	19921206		Hinterdorfstrasse	18B	8157	Dielsdorf	ZH	CH			72879538	20170101			
+735	1	1		Simon	Pfister	1992	19921206		avenue Marc-Dufour	29	1007	Lausanne	VD	CH			71890477	20170101			
+736	1	2		Angela	Meier	1992	19921206		Seewiesstrasse	5	9403	Goldach	SG	CH			73783888	20170101			
+737	1	1		Thibault	Marsaudon	1992	19921206		route des Brêches	34	1893	Muraz (Collombey)	VS	CH			74145226	20170101			
+738	1	2		Ziza	Usaj	1992	19921206		Rebbergstrasse	29	5621	Zufikon	AG	CH			73068013	20170101			
+739	1	2		Gin-Prapyiadorn	Kuhn	1992	19921206		Forchstrasse	2	8008	Zürich	ZH	CH			74165932	20170101			
+740	1	2		Corina	Erismann	1992	19921206		avenue du Temple	21C	1012	Lausanne	VD	CH			72727141	20170101	6750881		
+741	1	2		Malkiye	Temel	1992	19921206		Rütlistrasse	17	8307	Effretikon	ZH	CH			74380090	20170101			
+742	1	2		Chani	Simon	1992	19921206		Nordstrasse	201	8037	Zürich	ZH	CH			73503061	20170101	4557872		
+743	1	2		Natsuko	Muirhead	1992	19921206		via Calundis	19	7013	Domat/Ems	GR	CH			105422875	20170101	3310538		
+744	1	2		Bedriye	Yavuz	1992	19921206		Tellstrasse	6	9320	Arbon	TG	CH			71770798	20170101	9715255		
+745	1	2		Tatjana	Koller	1992	19921206		Haldenstrasse	28	8302	Kloten	ZH	CH			72124942	20170101	2431966		
+746	1	1		Tabark	Al Shara	1992	19921206		via Beltramina	8	6900	Lugano	TI	CH			78640840	20170101			
+747	1	1		Joel	Schlegel	1992	19921206		rue de Loèche	48	1950	Sion	VS	CH			71496265	20170101	6540679		
+748	1	1		David	Gelbhaus	1992	19921206		chemin des Sorbiers	3	1803	Chardonne	VD	CH			74007343	20170101	6515004		
+749	1	2		Angela	Gomes	1992	19921206		Nettie-Sutro-Strasse	1	8046	Zürich	ZH	CH			73161364	20170101	8671077		
+750	1	2		Eva	Ratti	1992	19921206		Spalenring	167	4055	Basel	BS	CH			72760684	20170101	7243350		
+751	1	2		Alice	Ambrosetti	1992	19921206		le Chemin Perdu	19	2300	La Chaux-de-Fonds	NE	CH			72289279	20170101	4412531		
+752	1	2		Sagkiena	Suntharalingam	1992	19921206		rue du Belvédère	2	1203	Genève	GE	CH			74033284	20170101		7321550	
+753	1	1		Dominik	Sommer	1992	19921206		via Sorengo	22	6900	Lugano	TI	CH			73658935	20170101	3012041		
+754	1	1		Josias	Lüthi	1992	19921206		Schmiedmatte	2	6207	Nottwil	LU	CH			103034530	20170101	2901182		
+755	1	2		Alexandra	Wenger	1992	19921206		Via Principala	34	7153	Falera	GR	CH			74069197	20170101			
+756	1	1		Giancarlo	Cubeddu	1992	19921206		rue Grain d'or	10	3960	Sierre	VS	CH			72623461	20170101			
+757	1	1		Mattia	Succetti	1992	19921206		Erlenstrasse	30	8645	Jona	SG	CH			73039912	20170101	2102609		
+758	1	1		Armon	Carnot	1992	19921206		rue du Village	10	1091	Aran	VD	CH			101907469	20170101			
+759	1	1		Yunus	Sinar	1992	19921206		chemin des Plans		1885	Chesières	VD	CH			71731117	20170101			
+760	1	2		Elizabeta	Petakovic	1992	19921206		au Village	70	1678	Siviriez	FR	CH			73102648	20170101	4020778		
+761	1	2		Nora	Krauzs	1992	19921206		Zentralstrasse	30	8212	Neuhausen am Rheinfall	SH	CH			73756714	20170101	8555101		
+762	1	1		Antonio	Villamarina	1992	19921206		Rislenstrasse	6	8590	Romanshorn	TG	CH			71277193	20170101	3228381		
+763	1	1		Claudio	Pati	1992	19921206		route de Tavel	19	1700	Fribourg	FR	CH			72055282	20170101			
+764	1	2		Ariana	Roelli	1992	19921206		Hofwiesenstrasse	247	8057	Zürich	ZH	CH			104635741	20170101	4020949		
+765	1	1		Martin	Ngim	1992	19921206		Heilbronnerstrasse	3D	4500	Solothurn	SO	CH			72455329	20170101	6635467		
+766	1	1		Stefan	Züst	1992	19921206		Alter Zürichweg	22	8952	Schlieren	ZH	CH			103596682	20170101	7881091		
+767	1	1		Carlo	Finocchio	1992	19921206		Eschtürlistrasse	31	8815	Horgenberg	ZH	CH			72362809	20170101	4111522		
+768	1	1		Kok	Chon	1992	19921206		Neuwiesenstrasse	17	9034	Eggersriet	SG	CH			72105868	20170101			
+769	1	1		Daniel	Podgoric	1992	19921206		Prattlerstrasse	14	4402	Frenkendorf	BL	CH			71757967	20170101	7515075		
+770	1	2		Johanna	Switon	1992	19921206		Hardackerstrasse	7	5301	Siggenthal Station	AG	CH			72735547	20170101	4264425		
+771	1	2		Assia-Selma	Kamberovski	1992	19921206		chemin Lullin	22	1256	Troinex	GE	CH			74204821	20170101			
+772	1	2		Alyssa	Lecci	1992	19921206		Wiesstrasse	12	8755	Ennenda	GL	CH			72236479	20170101			
+773	1	1		Mehmet	Eksioglu	1992	19921206		Obere Mattstrasse	7	8713	Uerikon	ZH	CH			104754790	20170101			
+774	1	2		Isabelle	Reek	1992	19921206		Zürcherstrasse	44	8102	Oberengstringen	ZH	CH			73573402	20170101	7931852	8085829	
+775	1	2		Maribel	Peral	1992	19921206		Strassburgerallee	107	4055	Basel	BS	CH			72377833	20170101	3123335		
+776	1	2		Theodora	Jung	1992	19921206		Unterdorfweg	8	3324	Hindelbank	BE	CH			72635752	20170101			
+777	1	2		Maria	Dello Preite	1992	19921206		Ebnit		3792	Saanen	BE	CH			104506723	20170101			
+778	1	2		Claudia	Thomsen	1992	19921206		Hegdornweg	12	3904	Naters	VS	CH			74203531	20170101			
+779	1	2		Stefanie	Rossi	1992	19921206		Vordere Gasse	12	3132	Riggisberg	BE	CH			73888360	20170101			
+780	1	2		Olena	Anokhina	1992	19921206		route de Marécot	40	1871	Choëx	VS	CH			73628227	20170101	8504356		
+781	1	1		Anthony	Tatone	1992	19921206		avenue de Béthusy	24	1005	Lausanne	VD	CH			72931441	20170101			
+782	1	1		Andreas	Schirm	1992	19921206		vicolo alla Cava	12	6512	Giubiasco	TI	CH			71910454	20170101	3734567		
+783	1	2		Yvonne	Klinge	1992	19921206		Birchrainstrasse	3	8426	Lufingen	ZH	CH			105491701	20170101	5564040		
+784	1	1		Fidan	Osmanaj	1992	19921206		Hardackerstrasse	26	8302	Kloten	ZH	CH			74485975	20170101	5002578		
+785	1	2		Kristel	D'Agostino	1992	19921206		Bergstrasse	31	8105	Regensdorf	ZH	CH			72878779	20170101	3004588		
+786	1	2		Annette	Beutler	1992	19921206		Staffelhöheweg	11	6356	Rigi Kaltbad	LU	CH			105950179	20170101			
+787	1	1		Melchior	Borer	1992	19921206		Holzgassweg	5	8590	Romanshorn	TG	CH			71606752	20170101			
+788	1	1		Mario	Bucher	1992	19921206		rue Vautier	45	1227	Carouge GE	GE	CH			72751516	20170101	3023279		
+789	1	1		Bryan	Bellon	1992	19921206		Auzelg	21	8050	Zürich	ZH	CH			73655749	20170101	4137547		
+790	1	2		Zyifije	Bajrami	1992	19921206		Zugerstrasse	201	6314	Unterägeri	ZG	CH			72465277	20170101	4013085		
+791	1	1		Peter	Slongo	1992	19921206		Alte Zugerstrasse	23	6403	Küssnacht am Rigi	SZ	CH			72142318	20170101	9931402		
+792	1	2		Maria	Garbino	1992	19921206		Rheinstrasse	26	9443	Widnau	SG	CH			78566581	20170101			
+793	1	1		Hubert	Morand	1992	19921206		Buchholzstrasse	95F	3604	Thun	BE	CH			78248776	20170101			
+794	1	1		Leo	Halter	1992	19921206		le Poirier		2037	Montmollin	NE	CH			72722437	20170101	7561800		
+795	1	2		Anna	Veroni	1992	19921206		Rheinstrasse	11	8500	Frauenfeld	TG	CH			72743899	20170101			
+796	1	2		Bianca	Fox	1992	19921206		Weststrasse	6	9500	Wil SG	SG	CH			72290554	20170101	3933453		
+797	1	1		Josef	Stoll	1992	19921206		Schächli	17	6170	Schüpfheim	LU	CH			73951468	20170101			
+798	1	1		Julian	Dettli	1992	19921206		Birchbühl	267	3508	Arni BE	BE	CH			72995356	20170101			
+799	1	1		Mauri	Zaugg	1992	19921206		Rebhalde	18	6340	Baar	ZG	CH			72604471	20170101	6833069		
+800	1	1		Philipp	Fischer	1992	19921206		rue de Moillebeau	3B	1209	Genève	GE	CH			72976309	20170101	5354104		
+801	1	2		Gloria	Kunz	1992	19921206		Im Schlössli		8546	Islikon	TG	CH			71239258	20170101			
+802	1	1		Rudi	Huy	1992	19921206		Langgasse	68	9008	St. Gallen	SG	CH			72487429	20170101			
+803	1	2		Patricia	Rebetez	1992	19921206		Sandrainstrasse	68	3007	Bern	BE	CH			72848173	20170101	7211715		
+804	1	2		Angela	Puerro	1992	19921206		Unterdorfstrasse	33	5621	Zufikon	AG	CH			105959050	20170101			
+805	1	2		Karin	Zobrist	1992	19921206		Flughafenstrasse	91	4056	Basel	BS	CH			71279509	20170101			
+806	1	2		Besjana	Qerimi	1992	19921206		Enzenbühlstrasse	2	9230	Flawil	SG	CH			77517982	20170101			
+807	1	2		Sonja	Winzenried	1992	19921206		Klettgauerstrasse	10	8212	Neuhausen	SH	CH			71497756	20170101	4449814		
+808	1	2		Melissa	Fredette	1992	19921206		au Village	5	1277	Borex	VD	CH			73993396	20170101	7841460		
+809	1	1		Luc	Hinz	1992	19921206		les Scies	8	2042	Valangin	NE	CH			104418337	20170101	6911838		
+810	1	2		Rosa	Rugnetta	1992	19921206		Im Bütziacker	13	8132	Egg b. Zürich	ZH	CH			104962468	20170101	9214349		
+811	1	1		Tharanyan	Sivakumar	1992	19921206		via Ponteggia	1B	6814	Cadempino	TI	CH			73024609	20170101	2915378		
+812	1	1		Carlos	Pina	1992	19921206		chemin des Autrichiens	4	1470	Estavayer-le-Lac	FR	CH			73311142	20170101	8061444		
+813	1	1		Leonardo	La Turra	1992	19921206		Breitmattweg	4	5073	Gipf-Oberfrick	AG	CH			79427755	20170101	9415818		
+814	1	2		Gordana	Pistoletti	1992	19921206		Hardstrasse	26	5430	Wettingen	AG	CH			72743011	20170101	6405509		
+815	1	2		Silke	Bürzle	1992	19921206		Altersheim Schoenenbuehl		9042	Speicher	AR	CH			72508378	20170101	8103072		
+816	1	2		Giada	Gennusa	1992	19921206		Oberdorfstrasse	8	8340	Hinwil	ZH	CH			71968747	20170101	2884285		
+817	1	1		Svetlan	Vasiljevic	1992	19921206		Schoorenstrasse	13	8713	Uerikon	ZH	CH			71363962	20170101	7004561		
+818	1	2		Nadia	Rachid	1992	19921206		Nälluleisi		3951	Agarn	VS	CH			71727163	20170101			
+819	1	2		Severine	Prudent	1992	19921206		Wiesenstrasse	8	4922	Bützberg	BE	CH			102677131	20170101	4425544		
+820	1	2		Marianne	Flükiger	1992	19921206		Neueggweg	5	8618	Oetwil am See	ZH	CH			72462163	20170101			
+821	1	2		Martha	Läuchli	1992	19921206		Wilenstrasse	38	9532	Rickenbach b. Wil	TG	CH			79302637	20170101			
+822	1	1		Marco	Alpiger	1992	19921206		Steinmatt	10	3298	Oberwil b. Büren	BE	CH			71361754	20170101	6885130		
+823	1	1		Ludovic	Peyter	1992	19921206		Beethovenstrasse	62	3073	Gümligen	BE	CH			73402384	20170101			
+824	1	1		Jozef	Milici	1992	19921206		Schwellbrunnerstrasse	31	9100	Herisau	AR	CH			102810814	20170101	6592775		
+825	1	2		Stefanie	Jungfer	1992	19921206		Belchenring	5	4123	Allschwil	BL	CH			72859108	20170101	9661025		
+826	1	1		David	Akiti	1992	19921206		Prada	839B	7745	Li Curt	GR	CH			74599642	20170101	9210809		
+827	1	1		Luc	Scapin	1992	19921206		Churfirstenweg	5	8400	Winterthur	ZH	CH			72244279	20170101		6176265	
+828	1	1		Nuno	Madeira	1992	19921206		Espigraben	1	8264	Eschenz	TG	CH			72003436	20170101	2770305		
+829	1	1		Nevio	Demontis	1992	19921206		Im Spitzacker	10	4059	Basel	BS	CH			73615780	20170101			
+830	1	2		Salvatrice	Franzoni	1992	19921206		Untere Briggerstrasse	21	8406	Winterthur	ZH	CH			73933561	20170101			
+831	1	1		Ibrahim	Abdirahman	1992	19921206		chemin du Marais	10	1031	Mex VD	VD	CH			73219312	20170101	9675862		
+832	1	2		Arabelle	Vazquez	1992	19921206		Rietstrasse	4	8733	Eschenbach SG	SG	CH			71304499	20170101	9887006		
+833	1	2		Sonia	Ben Hamouda	1992	19921206		Wachtersberg	16	8565	Hugelshofen	TG	CH			104418751	20170101	4853857		
+834	1	2		Stella	Ruffieux	1992	19921206		Vonmattstrasse	44	6003	Luzern	LU	CH			104447209	20170101		8961274	
+835	1	2		Nadja	Schnyder	1992	19921206		Luisenstrasse	38	3005	Bern	BE	CH			74448307	20170101	7229816		
+836	1	2		Jia	Hu	1992	19921206		chemin des Sources	8	2013	Colombier NE	NE	CH			73981450	20170101	7314230		
+837	1	1		Silvan	Fluck	1992	19921206		Bahnhofstrasse	5	6215	Beromünster	LU	CH			71435341	20170101			
+838	1	2		Nicole	Kurmann	1992	19921206		via del Sole	14	6963	Pregassona	TI	CH			71757628	20170101			
+839	1	2		Angelika	Laitila	1992	19921206		Schwendenweg	5	8003	Zürich	ZH	CH			72998182	20170101	4462143		
+840	1	2		Lucia	Ierardi	1992	19921206		chemin des Plantaz	5	1260	Nyon	VD	CH			73249240	20170101			
+841	1	1		Michel	D'Ignoti	1992	19921206		route de la Résidence	59	1752	Villars-sur-Glâne	FR	CH			72231517	20170101	2787348		
+842	1	1		Sefula	Kamberi	1992	19921206		Cilanderstrasse	5	9100	Herisau	AR	CH			72689746	20170101			
+843	1	1		Tiago	Escada	1992	19921206		route du Grand-Torry	23	1700	Fribourg	FR	CH			73301635	20170101	2801234		
+844	1	2		Jeyamathy	Kanesharajah	1992	19921206		St. Galler-Strasse	340	8409	Winterthur	ZH	CH			72302965	20170101	3128566		
+845	1	2		Chantal	Hoffmann	1992	19921206		rue Neuve	9	1350	Orbe	VD	CH			104474734	20170101	8855508		
+846	1	1		Christian	Kuehnhackl	1992	19921206		Löhrenweg	21	2504	Biel/Bienne	BE	CH			71310565	20170101	7862016		
+847	1	1		Anton	Selvasingam	1992	19921206		alte Dorfstrasse	2	3945	Gampel	VS	CH			72524011	20170101			
+848	1	2		Kerstin	Eich	1992	19921206		avenue De-Warens	6	1203	Genève	GE	CH			76520026	20170101			
+849	1	2		Lubna	Al Riyami	1992	19921206		Hanfgartenweg	4	4223	Blauen	BL	CH			72631999	20170101	3510717	3202248	
+850	1	1		Dalil	Morona	1992	19921206		Langäckerstrasse	54	8957	Spreitenbach	AG	CH			71289457	20170101			
+851	1	1		Gökan	Erden	1992	19921206		Landstrasse	89	3715	Adelboden	BE	CH			73578577	20170101	3127146		
+852	1	1		Havzi	Memedi	1992	19921206		rue Saint-Pierre	18	1700	Fribourg	FR	CH			104685364	20170101	7808681		
+853	1	1		Jorge	Vinueza	1992	19921206		chemin du Devin	17	1012	Lausanne	VD	CH			74422213	20170101			
+854	1	2		Fabienne	Modes	1992	19921206		chemin de Poussy	1	1214	Vernier	GE	CH			73294138	20170101	3126555		
+855	1	2		Lia	Bisig	1992	19921206		Bahnhofstrasse	71	9315	Neukirch (Egnach)	TG	CH			72805540	20170101			
+856	1	1		Michaël	Frioud	1992	19921206		Bernstrasse	36	3308	Grafenried	BE	CH			72145861	20170101	4962223		
+857	1	2		Zejuan	Huang	1992	19921206		Kügeliloostrasse	50	8050	Zürich	ZH	CH			72301921	20170101	4433152		
+858	1	2		Anne	Mezenen	1992	19921206		rue Benjamin-Franklin	5	1201	Genève	GE	CH			71591539	20170101	8883054		
+859	1	1		Csaba	Luka	1992	19921206		Gässelistrasse	5a	9443	Widnau	SG	CH			73732627	20170101			
+860	1	1		Minh	Dinh	1992	19921206		Wärterhaus	159	7415	Rodels	GR	CH			71265670	20170101			
+861	1	2		Ardiana	Maksuti	1992	19921206		rue du Câro	11	1630	Bulle	FR	CH			72497959	20170101	3113123		
+862	1	1		Sylvain	Flouck	1992	19921206		Büöl	26	6434	Illgau	SZ	CH			73145431	20170101	3863153		
+863	1	1		Sascha	Hablützel	1992	19921206		Wyssenhausmatte	24	6248	Alberswil	LU	CH			104635018	20170101			
+864	1	2		Sandy	Walter	1992	19921206		Eschner Rütte	35	9488	Schellenberg	FL	CH			74157067	20170101	9215347		
+865	1	2		Irène-Alice	Lanicca	1992	19921206		Bruggwaldpark	18A	9008	St. Gallen	SG	CH			73881973	20170101			
+866	1	1		Thierry	Vonau	1992	19921206		Felsenstrasse	32	9000	St. Gallen	SG	CH			73440217	20170101			
+867	1	2		Dorothy	Erne	1992	19921206		rte de Grandvaux	28	1096	Cully	VD	CH			73151914	20170101	7246173		
+868	1	1		Alexander	Kuratli	1992	19921206		rue du Centre	160	1025	St-Sulpice VD	VD	CH			73438876	20170101	3002318		
+869	1	2		Navjot	Rai	1992	19921206		Denter Vias		7017	Flims Dorf	GR	CH			72951886	20170101	2504512		
+870	1	1		Fisnik	Mulaj	1992	19921206		Landstrasse	18	8633	Wolfhausen	ZH	CH			74424286	20170101	3662981		
+871	1	1		Nicca	Ritschard	1992	19921206		Pfäffikonerstrasse	3	8834	Schindellegi	SZ	CH			72854674	20170101	6242089		
+872	1	2		Jenny	Mumenthaler	1992	19921206		chemin des Sîtes	24	1807	Blonay	VD	CH			73641877	20170101			
+873	1	1		Lou	Pfister	1992	19921206		Kramenwiesstrasse	2	9652	Neu St. Johann	SG	CH			73254328	20170101	2038618		
+874	1	1		Cyrill	Hunziker	1992	19921206		route de Botyre	26	1966	Botyre (Ayent)	VS	CH			72677650	20170101			
+875	1	2		Luz-Marina	Barbrier	1992	19921206		chemin des Rosiers	8	1763	Granges-Paccot	FR	CH			72064750	20170101	3534288		
+876	1	1		Matthias	Kirchner	1992	19921206		Rautihalde	31	8048	Zürich	ZH	CH			73652188	20170101			
+877	1	1		Valentin	Borges	1992	19921206		rue du Commerce	10	2300	La Chaux-de-Fonds	NE	CH			71609677	20170101	6525032		
+878	1	1		Yoann	Dametto	1992	19921206		Marktgasse	19	8001	Zürich	ZH	CH			74358163	20170101	7367576		
+879	1	2		Hildi	Knutti	1992	19921206		route de Bourg-Dessous	9	1088	Ropraz	VD	CH			71949850	20170101			
+880	1	2		Sandra	Gehb	1992	19921206		Im Anegarte	7	9545	Wängi	TG	CH			104419399	20170101			
+881	1	1		Nino	Furger	1992	19921206		avenue de France	24	1004	Lausanne	VD	CH			73035247	20170101			
+882	1	2		Natalia	Aeschbach	1992	19921206		Bahnhofstrasse	142	7220	Schiers	GR	CH			106651402	20170101	6310374		
+883	1	2		Zuzana	Rescio	1992	19921206		Frohalpstrasse	91	8038	Zürich	ZH	CH			102949252	20170101			
+884	1	1		Chris	van Coppenhagen	1992	19921206		Im Russer	1	8708	Männedorf	ZH	CH			74083420	20170101	5349034		
+885	1	2		Laura	Bibbo	1992	19921206		Rainstrasse	41	8706	Meilen	ZH	CH			72208237	20170101			
+886	1	2		Gina	Wilke	1992	19921206		les Iles		1865	Les Diablerets	VD	CH			73840246	20170101			
+887	1	1		Urs	Ottiger	1992	19921206		Zinzikerweg	6	8404	Reutlingen (Winterthur)	ZH	CH			105416872	20170101			
+888	1	1		Albert	Gubser	1992	19921206		Zentralstrasse	95	5430	Wettingen	AG	CH			72964468	20170101			
+889	1	2		Prisca	Hälg	1992	19921206		Kamorstrasse	10	8570	Weinfelden	TG	CH			106950301	20170101			
+890	1	1		Tiziano	Tomasoni	1992	19921206		chemin du Réservoir	75	2067	Chaumont	NE	CH			71308684	20170101			
+891	1	1		Milan	Petrovic	1992	19921206		rue du Flon		1145	Bière	VD	CH			73376716	20170101	7880144		
+892	1	1		Eduard	Qitaku	1992	19921206		Demutstrasse	10	9000	St. Gallen	SG	CH			71279665	20170101	3352892		
+893	1	1		Eljiah	Meier	1992	19921206		faubourg Ph.-Suchard	44	2017	Boudry	NE	CH			100870963	20170101	4771863		
+894	1	2		Andrea	Schori	1992	19921206		Huttwilstrasse	18	4932	Lotzwil	BE	CH			102131632	20170101			
+895	1	1		Pierre-Olivier	Pasche	1992	19921206		Zürcherstrasse	11	8620	Wetzikon ZH	ZH	CH			72168457	20170101			
+896	1	1		Rion	Richards	1992	19921206		Kornhausgasse	7	4051	Basel	BS	CH			71521966	20170101			
+897	1	2		Vanessa	Verardi	1992	19921206		Leisibüelstrasse	160	8708	Männedorf	ZH	CH			77451241	20170101	7609825		
+898	1	2		Anne-Sophie	Farfelan	1992	19921206		Aergetenstrasse	3	8544	Rickenbach-Attikon	ZH	CH			73217296	20170101	3011909		
+899	1	2		Marina	Techliya	1992	19921206		Oberdorfstrasse	50	4125	Riehen	BS	CH			73433158	20170101			
+900	1	1		Urs	Ingold	1992	19921206		Renggstrasse	36	6052	Hergiswil NW	NW	CH			72038761	20170101			
+901	1	2		Sandra	Brandao	1992	19921206		Hinterdorf	40	9105	Schönengrund	AR	CH			71935156	20170101			
+902	1	1		Akil	Sasitharan	1992	19921206		Hauptstrasse	43	8232	Merishausen	SH	CH			105963910	20170101			
+903	1	1		Hansjörg	Häller	1992	19921206		Via Sura	82	7530	Zernez	GR	CH			74511199	20170101			
+904	1	2		Catherina	Schmid	1992	19921206		Landoltstrasse	13	3007	Bern	BE	CH			71876242	20170101			
+905	1	1		Levis	Lovric	1992	19921206		Haldenstrasse	67	8602	Wangen b. Dübendorf	ZH	CH			73223950	20170101	9404272		
+906	1	1		Ramesh	Vyaghrapuri	1992	19921206		Neutalstrasse	14	8207	Schaffhausen	SH	CH			74404084	20170101			
+907	1	1		Gzim	Mamuti	1992	19921206		chemin du Pierrier	5	1815	Clarens	VD	CH			73098595	20170101	9711901		
+908	1	2		Nesrin	Göksungur	1992	19921206		Sorenbühlweg	39	5610	Wohlen AG	AG	CH			106198849	20170101			
+909	1	1		Bodan	Mamula	1992	19921206		Burgfelderstrasse	202	4055	Basel	BS	CH			73332931	20170101			
+910	1	2		Fabienne	Ganz	1992	19921206		rue du Village	3	1214	Vernier	GE	CH			103184005	20170101			
+911	1	2		Moira	Loretan	1992	19921206		Waldmannstrasse	15	3027	Bern	BE	CH			73459393	20170101		8966968	
+912	1	2		Laura	Dörig	1992	19921206		ai Filat	69C	6534	S. Vittore	GR	CH			74004175	20170101			
+913	1	1		Nicola	Doro	1992	19921206		chemin de la Scierie	16	2013	Colombier NE	NE	CH			105572065	20170101	8234075		
+914	1	1		Patrik	Fischer	1992	19921206		av. vingt-quatre Janvier	2	1020	Renens VD	VD	CH			78512662	20170101			
+915	1	2		Jessica	Stritt	1992	19921206		chemin des Princes	45	1253	Vandoeuvres	GE	CH			73953958	20170101			
+916	1	1		Kevin	Vogelsang	1992	19921206		Gossauerstrasse	47	9100	Herisau	AR	CH			74122783	20170101	9333392		
+917	1	1		Salahuddin	Sheik	1992	19921206		chemin Moïse-Duboule	35	1209	Genève	GE	CH			73279417	20170101			
+918	1	1		Alain	Gisler	1992	19921206		via Carlo Maderno	23	6850	Mendrisio	TI	CH			73285051	20170101	3610345		
+919	1	1		Sebastian	Wandrich	1992	19921206		Zimmerweg	7	8240	Thayngen	SH	CH			73457392	20170101	2071778		
+920	1	1		Manuel	Rodriguez	1992	19921206		via Guidino	11	6900	Paradiso	TI	CH			76930342	20170101	3003169		
+921	1	2		Charlotte	Trachsel	1992	19921206		Glatttalstrasse	58	8052	Zürich	ZH	CH			73915534	20170101			
+922	1	1		Helder-Miguel	Araujo	1992	19921206		Galgenhang	3	9050	Appenzell	AI	CH			102348520	20170101	3524694		
+923	1	2		Ozgun	Sahin	1992	19921206		avenue Communes-Réunies	80	1212	Grand-Lancy	GE	CH			76521073	20170101			
+924	1	1		Milan	Mihajolovic	1992	19921206		avenue de la Gare	24	1870	Monthey	VS	CH			103521838	20170101			
+925	1	2		Marianne	Dinkelmann	1992	19921206		Badstock	1217	8636	Wald ZH	ZH	CH			74545564	20170101	7762232		
+926	1	2		Filiz	Yasa	1992	19921206		boulevard des Promenades	2	1227	Carouge GE	GE	CH			78510583	20170101	3468775		
+927	1	1		Sükrü	Yesilkaya	1992	19921206		Käsereistrasse	12	8919	Rottenschwil	AG	CH			71421787	20170101	3014684		
+928	1	1		Bashkim	Ismaili	1992	19921206		Stämpflistrasse	31	3052	Zollikofen	BE	CH			102747142	20170101			
+929	1	2		Bela	Kaushik	1992	19921206		via Bernardino Luini	15	6600	Locarno	TI	CH			72698599	20170101	9011951		
+930	1	2		Kim	Blaser	1992	19921206		rue des Pâquerettes	1	1450	Ste-Croix	VD	CH			74213926	20170101	4513152		
+931	1	2		Mikiko	Higashi	1992	19921206		Baumhaldenstrasse	25	8055	Zürich	ZH	CH			72516520	20170101	8502247		
+932	1	1		Glenn	Schelbert	1992	19921206		av. du Général Guisan	36	1700	Fribourg	FR	CH			73528240	20170101	9616350		
+933	1	2		Nely	Huaman	1992	19921206		Grande Avenue	3	3965	Chippis	VS	CH			105574330	20170101			
+934	1	1		Manfred	Grosse	1992	19921206		chemin de la Magnenette	87	1350	Orbe	VD	CH			74279251	20170101			
+935	1	1		Bogdan	Luisier	1992	19921206		route du Tombey	8	1173	Féchy	VD	CH			71700688	20170101	4966040		
+936	1	1		Stefano	Bento	1992	19921206		Waldheimstrasse	14	6010	Kriens	LU	CH			72728674	20170101			
+937	1	2		Arlette	Daulte	1992	19921206		Steingutstrasse	65	8200	Schaffhausen	SH	CH			73576117	20170101	3482806		
+938	1	1		Blerim	Jusufi	1992	19921206		Lenkstrasse	89	3772	St. Stephan	BE	CH			104479681	20170101			
+939	1	2		Jona	Stanciu	1992	19921206		avenue Louis-Casaï	84	1216	Cointrin	GE	CH			73288942	20170101			
+940	1	2		Claudia	Sätteli	1992	19921206		Amerikanerstrasse	36	4102	Binningen	BL	CH			72665482	20170101		3573011	
+941	1	1		Benito	Franco	1992	19921206		Landstrasse	54	8868	Oberurnen	GL	CH			76968409	20170101			
+942	1	2		Teopista	Namisi	1992	19921206		avenue de Lonay	5	1110	Morges	VD	CH			79333426	20170101			
+943	1	1		Jack	Snell	1992	19921206		Grossackerstrasse	3	9542	Münchwilen TG	TG	CH			72626269	20170101	4842062		
+944	1	2		Liliana	Silva	1992	19921206		rue des Chanoines	11	1700	Fribourg	FR	CH			74351062	20170101	3209704		
+945	1	1		Bujar	Pacolli	1992	19921206		Bahnhofstrasse	29	3800	Unterseen	BE	CH			73752148	20170101	3212632		
+946	1	1		Roman	Blumer	1992	19921206		Wermatswilerstrasse	5	8610	Uster	ZH	CH			71637664	20170101	6538652		
+947	1	1		Leon	Van Eijmeren	1992	19921206		Rue des Crêts	3	1037	Etagnières	VD	CH			79301953	20170101	6252497		
+948	1	1		Jonathan	Chabod	1992	19921206		rue du Valentin	89	1400	Yverdon-les-Bains	VD	CH			106485370	20170101			
+949	1	1		Cesarino	Beretta	1992	19921206		Langgasse	116	8400	Winterthur	ZH	CH			74587744	20170101			
+950	1	1		Gabriel	Ponte	1992	19921206		Vi	321	7550	Scuol	GR	CH			71675578	20170101	2104980		
+951	1	1		Viktor	Egeric	1992	19921206		Baumgartenweg	13	4053	Basel	BS	CH			72638434	20170101	2106204		
+952	1	2		Apinaya	Nadesan	1992	19921206		Nelkenstrasse	29	2502	Biel/Bienne	BE	CH			102745546	20170101			
+953	1	2		Salije	Fazlijeviq	1992	19921206		Seestrasse	70	3800	Unterseen	BE	CH			101315863	20170101	9231242		
+954	1	2		Fatmire	Nikollbibaj	1992	19921206		Centralstrasse	15	3800	Interlaken	BE	CH			73923232	20170101	8413364		
+955	1	2		Karola	Rindt	1992	19921206		Moosstrasse	18	3073	Gümligen	BE	CH			73927090	20170101	9222453		
+956	1	2		Marija	Kuhn	1992	19921206		Anshelmstrasse	15	3005	Bern	BE	CH			73434976	20170101	7235443		
+957	1	1		Daniel	Dias	1992	19921206		Dornacherstrasse	309	4053	Basel	BS	CH			101733010	20170101			
+958	1	2		Carmen	Luque	1992	19921206		Wilerstrasse	22	9542	Münchwilen TG	TG	CH			73842697	20170101			
+959	1	2		Charlotte	Habegger	1992	19921206		Kommetsrüti	53	6110	Wolhusen	LU	CH			74439649	20170101			
+960	1	2		Shemsie	Bugacku	1992	19921206		Seestrasse	68	8802	Kilchberg ZH	ZH	CH			105778150	20170101	5997123		
+961	1	2		Shejnaz	Muji	1992	19921206		Kirchstrasse	56	3952	Susten	VS	CH			73994323	20170101	8662858		
+962	1	1		Vijikaran	Jeyaratnasingam	1992	19921206		Funkwiesenstrasse	66	8050	Zürich	ZH	CH			73438021	20170101	9451786		
+963	1	1		Kuvan	Ahmed	1992	19921206		Bernstrasse	67	3072	Ostermundigen	BE	CH			74382223	20170101			
+964	1	1		Luca	Spycher	1992	19921206		Zürcher Str.	204f	9014	St. Gallen	SG	CH			71452843	20170101			
+965	1	1		Sami	Sefedini	1992	19921206		Meisenweg	25	3604	Thun	BE	CH			71909959	20170101			
+966	1	1		Aymeric	De Preter	1992	19921206		Moosstrasse	8	6033	Buchrain	LU	CH			73871758	20170101			
+967	1	2		Renata	Dos Santos	1992	19921206		rue de Rive	48	1260	Nyon	VD	CH			106176319	20170101			
+968	1	2		Luna	Cangiano	1992	19921206		Oberdorfstrasse	17	8853	Lachen SZ	SZ	CH			73490275	20170101			
+969	1	1		Lazar	Strainovic	1992	19921206		Jacob-Brandt	6	2300	La Chaux-de-Fonds	NE	CH			71781028	20170101	9449305		
+970	1	2		Alandu	Massaka	1992	19921206		Rufacherstrasse	8	4055	Basel	BS	CH			73866286	20170101			
+971	1	1		Nick	Sicher	1992	19921206		Gantrischstrasse	2	3006	Bern	BE	CH			106385911	20170101	8510032		
+972	1	2		Shreya	Desai	1992	19921206		Würzenbachstrasse	3	6006	Luzern	LU	CH			101231410	20170101	8504504		
+973	1	2		Abigaél	Malonda	1992	19921206		Altersheim Chräg		9107	Urnäsch	AR	CH			106993213	20170101			
+974	1	1		Kiim	Gianella	1992	19921206		Kanalstrasse	23	4415	Lausen	BL	CH			71740738	20170101	7447003		
+975	1	1		Gianni	Antoniello	1992	19921206		rue de la Sapelle	8	1058	Villars-Tiercelin	VD	CH			102213052	20170101	6692305		
+976	1	1		Martin-Alexander	Covolo	1992	19921206		rue du Jura	26B	1373	Chavornay	VD	CH			74479834	20170101	8440402		
+977	1	2		Zoé	Lorenz	1992	19921206		avenue du Lignon	68	1219	Le Lignon	GE	CH			73273291	20170101	3853686		
+978	1	2		Irénée	Favre	1992	19921206		Zürcherstrasse	108	8640	Rapperswil SG	SG	CH			71501689	20170101			
+979	1	1		Robert	Vorburger	1992	19921206		rue Giovanni-Gambini	3	1206	Genève	GE	CH			104419000	20170101			
+980	1	2		Sonia	Rodrigues	1992	19921206		Obergasse	11	8716	Schmerikon	SG	CH			103596277	20170101			
+981	1	2		Jeta	Nebiu	1992	19921206		Zürichstrasse	211	8122	Binz	ZH	CH			74237578	20170101			
+982	1	2		Lara	Schaub	1992	19921206		Praisson	2	2732	Loveresse	BE	CH			73991236	20170101			
+983	1	2		Gwenola	Ebnoether	1992	19921206		Langmattstrasse	18	5064	Wittnau	AG	CH			72806371	20170101			
+984	1	2		Elisa	Malinverni	1992	19921206		Dorfplatzstrasse	4	8717	Benken SG	SG	CH			103214566	20170101			
+985	1	2		Zuzel	Carbonell	1992	19921206		Oberdorfstrasse	13	9532	Rickenbach b. Wil	TG	CH			72238471	20170101			
+986	1	1		Robinson	Peronnet	1992	19921206		Bernstrasse	34	3072	Ostermundigen	BE	CH			73427413	20170101			
+987	1	1		Michael	Mollet	1992	19921206		Leimbachstrasse	141	8041	Zürich	ZH	CH			100870612	20170101			
+988	1	2		Kenza	Benjelloun	1992	19921206		Hauptstrasse	37	8225	Siblingen	SH	CH			73047049	20170101			
+989	1	2		Ahida	Selmanovic	1992	19921206		route de Delémont	33	2830	Courrendlin	JU	CH			71986258	20170101			
+990	1	1		Jürgen	Hoppe	1992	19921206		Fellerstrasse	56	3027	Bern	BE	CH			73327447	20170101			
+991	1	1		Hrvoje	Tkalcec	1992	19921206		Mühlebachstrasse	59	8008	Zürich	ZH	CH			71944801	20170101	7906026		
+992	1	2		Aishe	Nallbani	1992	19921206		Zwischenbächen	8	8048	Zürich	ZH	CH			72719689	20170101			
+993	1	1		Jean-Jean	Richard	1992	19921206		Innere Altachen	13	4800	Zofingen	AG	CH			72736360	20170101			
+994	1	1		Leo	Coccimiglio	1992	19921206		Bitzighoferstrasse	8	6060	Sarnen	OW	CH			105428902	20170101	6401242		
+995	1	2		Elizabeth	Mbizvo	1992	19921206		rue de la Poterie	14	1202	Genève	GE	CH			71505304	20170101	3819519		
+996	1	1		Marius	Maffeis	1992	19921206		Vitg	19	7126	Castrisch	GR	CH			105175513	20170101			
+997	1	1		Damian	Canonica	1992	19921206		Hummelbergstrasse	28	8645	Jona	SG	CH			73648549	20170101	2431964		
+998	1	1		Michael	von Orelli	1992	19921206		Hanfländerweg	37	8880	Walenstadt	SG	CH			73119607	20170101			
+999	1	1		Julien	Frauchiger	1992	19921206		Ladernweid		9413	Oberegg	AI	CH			74490496	20170101			
+1000	1	1		Ulugbek	Kamilov	1992	19921206		via Collina	30	6962	Viganello	TI	CH			74434288	20170101	6210284		
